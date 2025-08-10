@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://29d72261-bd00-4c51-bf06-00f8d295dae6@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-20Mordad-1
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?security=tls&encryption=none&type=ws&host=w1.sylar8.eu.org&path=/?ed&sni=w1.sylar8.eu.org&fp=chrome#HamraheAval(@Vpn_ZVpn)
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#@V2RAY_VMESS_free
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@45.12.143.147:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#@V2RAY_VMESS_free
@@ -253,3 +252,4 @@ vless://2fb8383b-2b12-463e-a20d-674c36d9b7d3@Filter5050.nabxcsjghjs2004.shop:279
 vless://2fc52230-4426-4c5b-a662-7cc85d8eee9e@eventx.faraservice.space:5005?security=reality&encryption=none&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=e3631859#@i10VPN 🚀| با ما متصل بمون⚡
 vless://301d049f-26d9-15ba-a83c-b1d5111d4444@62.60.244.252:25888?security=reality&encryption=none&pbk=1wWJ_HJdLChMyEqb1agU0pQr26966K5SK4u7ehst-VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=8c5f97c86a710a#@V2RAY_VMESS_free
 vless://3048004a-d4e8-404b-a7da-23f54a5e07a1@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
+vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?path=/ydgmopws&security=tls&encryption=none&host=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706434658.amsterdam-prx-dnraaal.info#🛡️ @FreakConfig
