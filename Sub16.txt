@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 477 (@Outline_Vpn) free
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 500 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 511 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 511 (@manzariyeh_rasht) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 558 (@Outline_Vpn) free
@@ -75,7 +77,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇩🇪[Telegram:v2rayng_fars]
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/Join---@Mrsoulb=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/Join---@Mrsoulb=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram:@config_proxy 🔥
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/Join---PlanB_proxy=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/Join---PlanB_proxy=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
@@ -252,4 +253,3 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020?security=none&encr
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020?encryption=none&security=none&type=tcp&headerType=none#@confing_chanel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020?encryption=none&security=none&type=tcp&headerType=none#VayNora
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=none&type=tcp#@confing_chanel
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=none&type=tcp#VayNora
