@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram-MsV2ray@www.speedtest.net:80?path=/MsV2ray?ed=80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#🇩🇪| All - @EXPRESSVPN_420
 vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed=80&security=none#🇩🇪| All - @MsV2ray
 vless://Telegram-SRCVPN--@88.99.87.227:2080?type=grpc&serviceName=32135vless&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&pbk=MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=aa0dd5ba&spx=/#🇩🇪 Telegram @SRCVPN
 vless://Telegram-SRCVPN--@88.99.87.227:2090?type=grpc&serviceName=32135vless&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&pbk=MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=aa0dd5ba&spx=/#🇩🇪 Telegram @SRCVPN
@@ -252,4 +253,3 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.182:2096?path=/&security=
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.182:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.182:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.60:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.60:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
