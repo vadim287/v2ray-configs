@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443?path=/&security=tls&encryption=none&type=ws#@Selinc
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
@@ -253,3 +248,8 @@ vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?flow=xtls-r
 vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?flow=xtls-rprx-vision&type=tcp&headerType=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=reality&fp=chrome&sni=www.tradingview.com&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&sid=4f#🇩🇪 | @Evay_vpn
 vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?security=reality&encryption=none&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=4f#[🇩🇪]ae_proxy
 vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?security=reality&encryption=none&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=4f#[🇩🇪]t.me/ConfigsHub
+vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?security=reality&encryption=none&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=4f#🇩🇪 | @External_Net
+vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?security=reality&encryption=none&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&host=www.tradingview.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=4f#@Daily_Configs
+vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?security=reality&encryption=none&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&host=www.tradingview.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=4f#🇩🇪@NETMelliAnti
+vless://aaa7e14d-13e6-479a-99a4-473d3d1866d0@188.114.98.112:2095?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#WS-@ELiV2RaY
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.20.28.30:443?path=/Free-CF-Proxy-AT24?--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=freexxx.ndeso.web.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
