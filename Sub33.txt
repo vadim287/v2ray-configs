@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-123
 vless://9c67ebbe-d620-4b6d-ad82-1ebc675e22c6@csgo.com:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国07 付费推荐：https://dafei.de
 vless://9c67ebbe-d620-4b6d-ad82-1ebc675e22c6@fastcup.net:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国08 付费推荐：https://dafei.de
 vless://9c67ebbe-d620-4b6d-ad82-1ebc675e22c6@pubg.ac:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
@@ -253,3 +252,4 @@ vless://Parsashonam-293@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsas
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪     حتما ipv6 فعال باشه
 vless://Parsashonam-293@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇮🇷 نت ملی
+vless://Parsashonam-293@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6

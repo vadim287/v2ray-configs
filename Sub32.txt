@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://946ac7d3-14c7-4069-8c3d-870b8a0ee1c9@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://946ac7d3-14c7-4069-8c3d-870b8a0ee1c9@speedtest.net:80?encryption=none&security=none&type=ws&host=befreewithus.net&path=/#Channel:@BeFreeWithUs
 vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?encryption=none&security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=/?ed=2560#⚓️Ch: @pPal03⚓️جوین بدید گوگولیا⚓️
 vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.24.132.5:80?encryption=none&security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=/?ed=2560#⚓️Ch: @pPal03⚓️جوین بدید گوگولیا⚓️
@@ -253,3 +252,4 @@ vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?type=ws&path=/
 vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://9c41f9b2-a4c0-44df-aad7-3e8a00adab32@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
+vless://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-123
