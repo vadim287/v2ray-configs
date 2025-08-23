@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://10e11df9-de4b-4a21-aab4-1ff712a05028@api.imgur.com:443?security=tls&type=ws&headerType=&path=/ed=2560&host=speedtest.net.cy&sni=api.imgur.com&fp=chrome&alpn=h3,h2,http/1.1#حجم‌باقی‌مانده:10.0 GB|زمان‌باقی‌مانده:2 روز
-vless://10e11df9-de4b-4a21-aab4-1ff712a05028@co.pou-ria.com:80?security=none&type=xhttp&headerType=&path=/GoodLuck?ed=2560&host=closer.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#نت ملی
-vless://10e11df9-de4b-4a21-aab4-1ff712a05028@co.pou-ria.com:80?security=none&type=xhttp&headerType=&path=/GoodLuck?ed=2560&host=origins.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#نت ملی2
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@de.pouriau.com:1845?security=reality&type=tcp&headerType=&path=&host=refersion.com&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#🇩🇪Germany2
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@devip.aftabix.com:1845?security=reality&type=tcp&headerType=&path=&host=refersion.com&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#🇩🇪Germany1
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@mahasti.aftabix.com:3888?security=none&type=tcp&headerType=http&path=/&host=zula.ir#🇦🇱 Albania
@@ -253,3 +250,6 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?flow=&type=tcp&h
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryption=none&headerType=none&type=tcp#@Capoit
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryption=none&headerType=none&type=tcp#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇬🇧
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
