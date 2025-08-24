@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://8f97e6b0-4213-11f0-a9b4-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩶
+trojan://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&type=ws&sni=79193c43.aryoovpn-5fr.pages.dev&host=79193c43.aryoovpn-5fr.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://970ec930-48a2-11f0-a318-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray☺️
 trojan://98a3b810-4213-11f0-8131-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩷
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:10187/?type=tcp&security=tls&sni=hk04.ckcloud.info&allowInsecure=1&fp=chrome#HK
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19013/?type=tcp&security=tls&sni=sg02.ckcloud.info&allowInsecure=1&fp=chrome#SG
@@ -250,6 +253,3 @@ trojan://telegram-id-privatevpns@13.36.145.127:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.36.179.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.212.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.72.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.0.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.138.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.25.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
