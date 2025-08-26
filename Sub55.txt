@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@chat.openai.com:8080?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#%3E%3E%40flyv2ray%3A%3AFI
+
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a05.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a05.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-5
 
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@glassdoor.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a06.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a06.traneh.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-T-6
 
@@ -250,6 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%F
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0259
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0264
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0%9F%87%B7%F0%9F%87%BARU-45.139.24.24-5074
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#%F0%9F%87%A6%F0%9F%87%B9AT-95.163.176.37-0301
-vmess://ewogICAgImFkZCI6ICJjZi4wOTAyMjcueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZ3lkZS5haWZqai5hc2lhIiwKICAgICJpZCI6ICJlOTEyM2NjZS1lNGJkLTQ2Y2YtODQ2Ni03MDhiMzYzYTk4MDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY2LjQ0Ljc3LTAyNjIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0216
