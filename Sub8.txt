@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://bpb-trojan@104.24.151.117:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.24.151.117:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.24.202.246:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.24.217.109:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.24.248.249:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.25.116.172:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.25.251.140:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.25.48.219:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.25.7.183:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#Bya to @Iran_V2ray1
-trojan://bpb-trojan@104.27.205.63:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.27.205.63:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.27.70.90:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@108.162.196.153:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@108.162.196.153:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#t.me/entryNET/config=1841969961782832
-trojan://bpb-trojan@141.101.114.52:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@141.101.122.113:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@141.101.123.129:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@162.159.1.2:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Telegram
@@ -118,7 +102,6 @@ trojan://telegram-id-privatevpns@13.36.223.77:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.37.0.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.54.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.0.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.39.0.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.39.0.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1841974490783334
 trojan://telegram-id-privatevpns@13.39.136.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.154.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -253,3 +236,20 @@ vless://-----v2ray_fark-----@v2ray-fark.ddns.net:443?type=grpc&serviceName=Teleg
 vless://-----v2ray_fark-----@v2ray-fark.ddns.net:49819?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=kodular.io&headerType=http&security=none#🇫🇮@v2ray_fark
 vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58082?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=bmw.com&headerType=http&security=none#🇩🇪@v2ray_fark
 vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58082?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=mihanyas.ir&headerType=http&security=none#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58270?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=fast.com&headerType=http&security=none#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark  gRPC
+vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark6.ddns.net:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark7.ddns.net:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@v2ray-fark8.ddns.net:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@zula.ir:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@zula.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪@v2ray_fark
+vless://-----v2ray_fark-----@zula.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
+vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=sOp.IsVcLoD.cOm&fp=chrome&type=ws&sni=sOp.IsVcLoD.cOm#telegram-@ISVvpn
