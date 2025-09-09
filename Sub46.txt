@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
+vmess://eyJhZGQiOiI5MS45OS4xODUuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6Ij4+QEZyZWFrQ29uZmlnOjpERSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE%3D@89.223.93.176:41348#%3E%3E%40FreakConfig%3A%3APL
+vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=%2Fhjgfdws&security=tls&encryption=none&host=ali2.gerlemondns.info&fp=chrome&type=ws&sni=ali2.gerlemondns.info#%3E%3E%40FreakConfig%3A%3AGB
+vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=%2Fhjgfdws&security=tls&encryption=none&host=o2.gerlemondns.info&fp=chrome&type=ws&sni=o2.gerlemondns.info#%3E%3E%40FreakConfig%3A%3ADE
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#%3E%3E%40FreakConfig%3A%3AFR
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=%2Fhjgfdws&security=tls&encryption=none&host=o9.gerlemondns.info&fp=chrome&type=ws&sni=o9.gerlemondns.info#%3E%3E%40FreakConfig%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc%3D@77.83.245.50:443#%3E%3E%40FreakConfig%3A%3ATR
@@ -248,8 +253,3 @@ vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?security=realit
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@188.225.80.183:443?security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20107
 
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@94.26.228.68:443?security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20109
-
-vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?security=tls&fp=chrome&type=ws&path=/teqalfws&encryption=none#@Rayan_Config%2091
-
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@185.236.36.134:8443?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2019
-
