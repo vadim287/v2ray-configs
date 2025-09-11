@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://TELEGRAM-CONFiGLiNE@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpessshkel.com&type=xhttp#[🇩🇪]@configLINE
-vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=aztarafehajnane.com&type=xhttp#[🇩🇪]@configLINE
-vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=aztarafehajnane.com&type=xhttp#[🇩🇪]@configLINE(2)
 vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=aztarafehajnane.com&type=xhttp#[🇩🇪]@configLINE(5)
 vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpeshkel.com&type=xhttp#[🇩🇪]@configLINE(3)
 vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpeshkel.com&type=xhttp#🇩🇪@FreakConfig
@@ -253,3 +250,6 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443?path=/&security=tl
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
