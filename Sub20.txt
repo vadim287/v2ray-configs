@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=Sw.Dr-MojTaBa.Ir&type=ws#[🇸🇪]@configLINE
-vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=bede6.mashkestan.com&type=ws#[🇸🇪]@configLINE
 vless://TELEGRAM-CONFiGLiNE@83.136.254.131:443?mode=gun&security=reality&encryption=none&authority=&pbk=dMcDsJc1oYAr-1f45ZfQLEjvkUVwTJD1R6-uWXUgUkY&fp=chrome&spx=/&allowinsecure=0&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=stackoverflow.com&sid=a7cc00af65e84b#[🇬🇧]@configLINE
 vless://TELEGRAM-CONFiGLiNE@83.136.254.131:443?mode=gun&security=reality&encryption=none&pbk=dMcDsJc1oYAr-1f45ZfQLEjvkUVwTJD1R6-uWXUgUkY&fp=chrome&spx=/&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=stackoverflow.com&sid=a7cc00af65e84b#@bored_vpn
 vless://TELEGRAM-CONFiGLiNE@91.99.95.76:443?mode=gun&security=reality&encryption=none&authority=&pbk=E9Ve9pGVnR-PcLSdOI4onL0qPyvsVVVY44vhmZOTlhc&fp=chrome&spx=/&allowinsecure=0&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=ru.sfasti.ru&sid=5e79a423a5#[🇩🇪]@configLINEتست
@@ -253,3 +251,5 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.230:8443/?type=ws&encrypti
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443?path=/&security=tls&encryption=none&type=ws#⚡️@Takv2ray_org | 🇨🇵 همه اپراتورها
