@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40outlinev2rayng%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%3E%3E%40free4allVPN%3A%3ACA
@@ -253,3 +251,5 @@ vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.233.210.10:1443?security=realit
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.56.20.10:1443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=wl7R7v8MbaC_Nh-_FNf1DoFXHDquVRtfX2Z20oXL6Q8&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2029
 
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.56.20.10:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=wl7R7v8MbaC_Nh-_FNf1DoFXHDquVRtfX2Z20oXL6Q8&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2047
+
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:1443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2043

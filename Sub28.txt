@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.42.42:80?path=/aioproxybot/146.190.192.43-80&security=none&encryption=none&host=aio.zipzap.biz.id&type=ws#@Dropcube
 vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.42.42:80?path=/aioproxybot/146.190.192.43-80&security=none&encryption=none&host=aio.zipzap.biz.id&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.50.34:443?path=/aioproxybot/129.150.49.58-18650&security=tls&encryption=none&host=aio.xtradata.dpdns.org&type=ws&sni=aio.xtradata.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?path=/aioproxybot/129.150.49.58-18650&security=none&encryption=none&host=aio.loophole.biz.id&type=ws#All_@IRAN_V2RAY1
@@ -252,4 +253,3 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1AR2hvc3RyYXlfTkciLAogICJhZGQi
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1AR2hvc3RyYXlfTkciLAogICJhZGQiOiAiczEuZ2hvc3Rya3Iuc2JzIiwKICAicG9ydCI6IDg4ODAsCiAgImlkIjogImI2MzNiMDZmLTczN2EtNGUwZi05OTZjLTUxMDA1YTBhNDliMSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogImdycGMiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiQEdob3N0cmF5X05HIiwKICAiYXV0aG9yaXR5IjogIiIKfQ==
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1AR2hvc3RyYXlfTkciLAogICJhZGQiOiAiczIuZ2hvc3Rya2guc2JzIiwKICAicG9ydCI6IDg4ODAsCiAgImlkIjogIjZkNWFiNTc5LTkwYjYtNGZjNC1hZjc2LTcwYzA3ZjFkM2NhZiIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogImdycGMiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiQEdob3N0cmF5X05HIiwKICAiYXV0aG9yaXR5IjogIiIKfQ==
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1AR2hvc3RyYXlfTkciLAogICJhZGQiOiAiczIuZ2hvc3Rya2guc2JzIiwKICAicG9ydCI6IDg4ODAsCiAgImlkIjogIjc1OTJkOTMwLWE5N2QtNDIyYi1iMjdkLWMxNWFmZGFhZjI0NCIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogImdycGMiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiQEdob3N0cmF5X05HIiwKICAiYXV0aG9yaXR5IjogIiIKfQ==
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1AR2hvc3RyYXlfTkciLAogICJhZGQiOiAiczIuZ2hvc3Rya2guc2JzIiwKICAicG9ydCI6IDg4ODAsCiAgImlkIjogImQxODYyYzU5LTE1ODAtNDc3YS04NTE0LTM2ZjY1NGUzZTJmYyIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogImdycGMiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiQEdob3N0cmF5X05HIiwKICAiYXV0aG9yaXR5IjogIiIKfQ==
