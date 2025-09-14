@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bbd95c2b-7100-4503-915f-6210d23c4952@206.189.106.37:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://bd466500-8bd5-46be-9a5b-fb5a8ede111c@104.248.47.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2086
 
@@ -250,6 +253,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.159:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.159-0362
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.122:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.122-0364
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.101-0367
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.101-0402
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.159:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.159-0365
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.122-0363
