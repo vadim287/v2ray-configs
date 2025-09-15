@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&authority=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AXX
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.161:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AXX
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%3E%3E%40v2ray1_ng%3A%3AXX
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#%3E%3E%40FreakConfig%3A%3AGB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40V2rayNG3%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE%3D@89.223.93.176:41348#%3E%3E%40FreakConfig%3A%3APL
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiI+PkBGcmVha0NvbmZpZzo6WFgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -243,13 +253,3 @@ vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@37.221.66.134:21275?security=realit
 vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@91.99.129.105:33667?security=reality&sni=store.steampowered.com&fp=firefox&pbk=urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o&sid=382874842551202c&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed%3D2560&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2014
 
 vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@91.99.129.105:33667?security=reality&sni=store.steampowered.com&fp=firefox&pbk=urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o&sid=382874842551202c&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2015
-
-vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@138.124.52.155:8081?security=&fp=chrome&type=tcp&headerType=http&host=zula.ir&encryption=none#@Rayan_Config%2096
-
-vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@Rayan_Config%2023
-
-vless://8080748c-8053-4c25-88cc-9f9633ee3b3e@23.94.206.70:2053?security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2062
-
-vless://8080748c-8053-4c25-88cc-9f9633ee3b3e@23.94.206.70:2053?security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&encryption=none#@Rayan_Config%2063
-
-vless://81ed58cb-425e-453a-8538-bca17d524c08@165.227.221.41:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20US%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
