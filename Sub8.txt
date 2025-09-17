@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -253,3 +252,4 @@ vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@EVAY_VPN.fastly80.hosting-ip.com:80
 vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@allll.primenet3.shop:28157?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.microsoft.com&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&sid=4c14&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#2🇩🇪 | Evay_vpn
 vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@allll.primenet3.shop:3041?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.refersion.com&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&sid=4c14&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#1🇩🇪 | Evay_vpn
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=/?ed=1024#@CaV2ray ⚡️
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=/?ed=1024&security=none&encryption=none&host=Fastapi.Org&type=ws#@CaV2ray ⚡️
