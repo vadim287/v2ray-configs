@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&sni=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&type=ws&path=/fqogayws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&encryption=none#@Rayan_Config%2072
-
-vless://2ecc1c66-0808-174c-e51a-5274c1428b3c@85.133.206.49:48008?security=&fp=chrome&type=tcp&headerType=http&host=myket.ir&encryption=none#@Rayan_Config%2042
 
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/holhclws&encryption=none#@Rayan_Config%2075
 
@@ -253,3 +250,6 @@ vmess://eyJhZGQiOiIxNS4yMzUuODUuMTU2IiwiYWlkIjoiMSIsImhvc3QiOiJrYW1wb25nLm9yZyIs
 vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIwIiwiaG9zdCI6ImRkZGRkZGRkZGRmcnJycnJycnJ5LmlyYW4yMDM1LmRwZG5zLm9yZyIsImlkIjoiYTk0ZmFmZGItMTBkNi00NmMyLWJlOGEtNWMyZTgzNThmYmIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0NqSjlBNDZaUkh2Z1d2VmNtanlpS1ZieTJMcCIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTA0Iiwic2N5IjoiYXV0byIsInNuaSI6ImRkZGRkZGRkZGRmcnJycnJycnJ5LmlyYW4yMDM1LmRwZG5zLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxODguMTE0Ljk3LjMiLCJhaWQiOiIwIiwiaG9zdCI6ImRkZGRkZGRkZGRmcnJycnJycnJ5LmlyYW4yMDM1LmRwZG5zLm9yZyIsImlkIjoiYTk0ZmFmZGItMTBkNi00NmMyLWJlOGEtNWMyZTgzNThmYmIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0NqSjlBNDZaUkh2Z1d2VmNtanlpS1ZieTJMcCIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTAzIiwic2N5IjoiYXV0byIsInNuaSI6ImRkZGRkZGRkZGRmcnJycnJycnJ5LmlyYW4yMDM1LmRwZG5zLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDk4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0178
