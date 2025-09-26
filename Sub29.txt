@@ -4,6 +4,14 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
+vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&fp=chrome&type=ws&path=/holhclws&encryption=none#@Rayan_Config%2073
+
+vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&fp=chrome&type=ws&path=/holhclws?ed%3D2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&encryption=none#@Rayan_Config%2054
+
+vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&sni=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&type=ws&path=/holhclws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&encryption=none#@Rayan_Config%2074
+
+vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&fp=chrome&type=ws&path=/hxwdnrws&encryption=none#@Rayan_Config%2046
+
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2018
 
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2020
@@ -245,11 +253,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0165
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-0215
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-0181
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0040
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0037
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0039
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0192
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.235-0174
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0177
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.166-0293
-vmess://ewogICAgImFkZCI6ICI1MS43NS4xNjEuMTAyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYkxBWmUtVUstMTAyLmJMYVpFU0VydkVyUzEuU2l0ZSIsCiAgICAiaWQiOiAiMTgwNWMzYWUtZWQ4NC00ZTdlLThjYTItZmU5YWNkMDg5N2IwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2a3dzcyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTUxLjc1LjE2MS4xMDItMDYzMCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
