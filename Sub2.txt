@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://installshield@176.97.68.153:8443?allowInsecure=1&sni=176.97.68.153#AU_speednode_0002
 vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?allowInsecure=0&sni=tgju.org&fp=firefox&security=tls#AZ_speednode_0003
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@91.215.153.85:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#BG_speednode_0004
 trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#CN_speednode_0005
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#IR-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@vip.nl-16-07.galaxymc-ssh.ir:8080#🇳🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDJmMTc4OS1iNzllLTQ5NzYtOTkyNy05NzY2ODRmZDBjMmU=@118.170.206.50:10005#🇹🇼[openproxylist.com] ss-TW
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#@AYMH19 کانال تلگرام
