@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayngalpha%20%5B7%5D
 vmess://eyJhZGQiOiIxODUuMjE5LjIyMC4yNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiMTgxYTBkZDEtNzk0Zi00MGYyLWVkODktNjc4NTFkNGIwMjYwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMzA4MjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIERFIHwgXHVkODNkXHVkZDEyIFZNRVNTIHwgQHYycmF5bmdjaGFubmVsbGwgWzRdIn0
 vmess://eyJhZGQiOiIxODUuMjE5LjIyMS4xMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImE3YTRkZjAyLTU1ZmYtNDlkMC1hMTNjLWQ3MWY3ZDA1NjA2ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjQwMzQ4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEB2MnJheW5nY2hhbm5lbGxsIFs1XSJ9
 vmess://eyJhZGQiOiIxODUuMjE5LjIyMS4xMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVjOTQwMzFiLTQ4YzgtNDI3Ni1kOGI1LTgwZmEzZTg5ZGEzOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyNzkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEB2MnJheW5nY2hhbm5lbGxsIFs2XSJ9
@@ -252,4 +253,3 @@ vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?security=reality&e
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?security=&encryption=none&type=grpc#%3E%3E%40v2rayng_fast%3A%3AXX
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%3E%3E%40v2ray1_ng%3A%3AXX
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=T9cNlMx0Qe.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=T9cNlMx0Qe.SoLeNtRaA.iNfO#%3E%3E%40v2rayngvpn%3A%3AXX
