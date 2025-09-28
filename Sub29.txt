@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2019
+
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2060
 
 vless://976a3370-8d77-4a4f-8d31-ba91ee1fdb05@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -250,6 +253,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%A
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjguMjE0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAia2FtcG9uZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuMjguMjE0LTczMTUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJrYW1wb25nLm9yZyIKfQ==
 vmess://ewogICAgImFkZCI6ICI5MS4xMzQuOC44OCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxhbW1hbGFuZC5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi05MS4xMzQuOC44OC03MjQ2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibGFtbWFsYW5kLm9yZyIKfQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0224
-vmess://ewogICAgImFkZCI6ICJwcS1icmF6aWwxLjA5dnBuLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBxLWJyYXppbDEuMDl2cG4uY29tIiwKICAgICJpZCI6ICJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hp/Cfh7dCUi05NS4xNjQuNC44OC0wNTg0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0%9F%87%B7%F0%9F%87%BARU-45.139.24.24-5041
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.25-0272
