@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir/?/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443/?encryption=none&host=account.zula.ir&type=tcp&headerType=http#@Geek_Spot
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
@@ -251,5 +253,3 @@ vless://3a3137a9-ab97-4e0f-ed77-f62576a8c8c8@www.speedtest.net:2052?flow=&type=w
 vless://3a5f7896-4906-4fa6-c569-72e482eed351@www.speedtest.net:8880?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&security=&encryption=none&host=www.ubuntu.com.speedtest24.ir&type=httpupgrade#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها¹
 vless://3a885d36-13d1-4205-f736-8c5d2ac0e4a2@91.99.180.86:443?security=none&encryption=none&headerType=none&type=tcp#🔐 @AblNet7   🇩🇪
 vless://3afc3fc3-2ae4-4f76-928d-30fe47f5e6d6@104.17.147.22:443?path=//Join---PLANB_PROXY?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=1z7cvlxvwpoqgvksg5f3zvq0xciifo2b.pages.dev&fp=chrome&type=ws&sni=pages.dev#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://3b3ca8ba-3e3a-45c0-96af-aa61b84a12e1@185.49.105.236:9292?type=tcp&headerType=http&host=speedtest.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇫🇷@Evay_vpn
-vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@172.66.40.99:80?path=/?ed=2048@v2ray_configs_pools&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
