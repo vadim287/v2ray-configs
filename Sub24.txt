@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=sinvt-sinvt&type=grpc#@bad_raqs
@@ -253,3 +251,5 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?encryption=none&s
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?encryption=none&security=tls&sni=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&host=D0dTpVg4Z3.sOlEnTrAa.InFo&path=/#@Daily_Configs
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?flow=&type=ws&host=&path=/&security=tls&sni=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&allowInsecure=0#@vmessorg
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#@Daily_Configs
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#Channel : @Mrsoulb 🏴🏳
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#r♡ya
