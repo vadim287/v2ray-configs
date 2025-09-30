@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cg6Z+p5Zu9MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIyMTAuMTA5LjIwNS4xNTgiLCAicG9ydCI6IDU1ODc5LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiN2NjOGJmZjItMWU1Yy00NWQxLWEzZTctYjM1ZThmMjVjYmJlIn0=
+trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:4397?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:3043?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:3294?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:5343?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7gg576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIyMy4yMzYuNjguMTYxIiwgInBvcnQiOiA1NzUxOCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImU0NzkwMmIyLTkyOGItNDFlYy1hODY4LWVkM2QxZDRiZWM3NiJ9
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.250.25.159:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiNDcuMjQyLjE4Ni4xIiwgInBvcnQiOiAiNTA0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI5M2MzNTI3Ny1lZTNmLTRhYjItOWQ5ZS00NjJiOTdhODc5NWYiLCAic25pIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiNDMuMjA3LjgzLjYwIiwgInBvcnQiOiAiMjA5MzIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYmM0ZTAyNzUtMmE4My00M2JlLWE1YjctMzMyYTYxNjE1ZjFkIiwgInNuaSI6ICIifQ==
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE=@121.170.203.147:2520#%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6Z+p5Zu9MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIyMTAuMTA5LjIwNS4xNTgiLCAicG9ydCI6ICI1NTg3OSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3Y2M4YmZmMi0xZTVjLTQ1ZDEtYTNlNy1iMzVlOGYyNWNiYmUiLCAic25pIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIyMy4yMzYuNjguMTYxIiwgInBvcnQiOiAiNTc1MTgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTQ3OTAyYjItOTI4Yi00MWVjLWE4NjgtZWQzZDFkNGJlYzc2IiwgInNuaSI6ICIifQ==
@@ -244,12 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@de15.giamping.com:8080#@HiByeVPNN👈⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@de15.giamping.com:8080#🇩🇪 Nuremberg, BY, Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@fr09.giamping.com:8080#All-@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us32.giamping.com:8080#🇺🇸 United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us33.giamping.com:8080#🇺🇸 New York, NY, United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us33.giamping.com:8080#🔐 @AblNet7 🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us55.giamping.com:8080#🇺🇸 Ashburn, VA, United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#@awlix_ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#@awlix_ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#All_@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#@AYMH19 کانال تلگرام
