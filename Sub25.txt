@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc#telegram 🌟 v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v8.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
@@ -252,4 +253,3 @@ vless://e9f0a1b2-c3d4-9012-5678-89abcdef0123@104.19.45.192:443?type=ws&encryptio
 vless://ea58dac7-6ca9-448a-aeff-af1ac5070acf@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#🇷🇺 MCI - @FREEV2RNG 3
 vless://ea6320c2-67f9-40c0-9e58-95641d2ffbfd@2.189.59.2:443?security=tls&encryption=none&type=grpc&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&serviceName=Channel:@UnlimitedDev#Awlix_ir
 vless://ea6b9b08-94d1-4213-8f30-f1788dd64978@40.160.230.180:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-cloud-us180.maxnetservices.online&type=ws&sni=maxnetvipap-cloud-us180.maxnetservices.online#🇺🇲@FreakConfig
-vless://ea8a4fac-8b8a-4fa5-a7b4-63575499fffb@sunstar.astracat.ru:433?security=reality&encryption=none&pbk=ttai5o9sL51jx8MWuQA2glnVnVRe0pzZmDbHnTzlynA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=1A2B3C4D5E6F7890#🇩🇪r♡ya@Anty_Filter
