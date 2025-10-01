@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://732f088b-4a6d-4ece-ec42-0f6afaf01313@v2rayfree1join.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vpncostume%20%5B8%5D
-vless://732f088b-4a6d-4ece-ec42-0f6afaf01313@v2rayfree1join.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40v2rayfree1&sni=gr.newv2rayfree1.shop#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vpncostume%20%5B9%5D
 vmess://eyJ2IjoiMiIsImFkZCI6InNlcmlidXMub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InNlcmlidXMub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJpYnVzLm9yZyIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDQSB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEB2cG5mYWlsX3YycmF5IFsxOF0ifQ
 vmess://eyJhZGQiOiI4LjIxNy4xODcuMTUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImNkYTIwZGIxLTY4ZDItNDdmNC1hMGNmLTFkOWY1MDE5NDZlNiIsIm5ldCI6IndzIiwicGF0aCI6IlwvYXJraT9lZD0yMDQ4IiwicG9ydCI6NTk1NDIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEsgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAdnBuZmFpbF92MnJheSBbMTldIn0
 vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwiYWlkIjowLCJob3N0IjoiYmFyYWRpaGEuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ0EgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAdnBuZmFpbF92MnJheSBbMjBdIn0
@@ -253,3 +251,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%3E%3E%40free4allVPN%3A%3AJP
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AXX
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#%3E%3E%40shadowproxy66%3A%3AXX
