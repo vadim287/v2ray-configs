@@ -35,7 +35,6 @@ vless://%50a%72sa%73%68%6fna%6d-Bot-28@104.17.147.22:8080?type=grpc&serviceName=
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@iran.mr-cloud.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=__6BhtO3Rhjw4wnAmzklhquVvIngjhfnB8dhDVtj0Vs&headerType=None&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=275f34#%40v2Meli
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@mobinhost.com:443?path=%2Fao0s41N5cxHj2bMQx1iv8oR&security=tls&alpn=h2&encryption=none&host=cdn-two.mr-cloud.ir&fp=chrome&type=ws&sni=cdn-two.mr-cloud.ir#%40v2Meli
 vless://08b327be-d51e-43f4-ba60-114f942126ba@185.239.48.109:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=wPXyRAB1bVkaTGgO5cHEylVAV8SscUQUPn_ggzx6Vxk&sni=google.com#VPNKEY-Israel
-vless://098a5e98-a8c5-490c-9738-476f31e0a165@95.164.68.37:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY&sni=google.com#VPNKEY-Germany
 vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&encryption=none&host=hOZori.iR&type=ws&sni=hOZori.iR#%40v2Meli
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&type=ws&sni=hOZori.iR#%40v2Meli
@@ -253,3 +252,4 @@ vless://ed97e008-2b8d-4415-94c7-3da4919d361a@yt.connect-iskra.ru:443?allowInsecu
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?allowInsecure=0&sni=www.speedtest.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IR_speednode_0015
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?allowInsecure=0&sni=www.speedtest.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IR_speednode_0016
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@62.60.232.40:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#IR_speednode_0017
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@147.45.49.17:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#JP_speednode_0018
