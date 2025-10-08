@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=gulf-d96.pages.dev&fp=chrome&type=ws&sni=gulf-d96.pages.dev#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&security=tls&encryption=none&host=vless.keepfuck.me&fp=chrome&type=ws&sni=vless.keepfuck.me#%3E%3E%40configV2rayNG%3A%3AXX
 vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fei.634676.xyz&type=ws&sni=fei.634676.xyz#%3E%3E%40configV2rayNG%3A%3AUS
 vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#%3E%3E%40configV2rayNG%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3emU1M1NucmxvU0hIaE5TZ0wxQ2Z3@91.107.172.48:1080#%3E%3E%40configV2rayNG%3A%3AXX
@@ -252,4 +250,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?security=&fp=chro
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20121
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20120
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2018
 
