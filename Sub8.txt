@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@81.19.140.20:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🔐 @AblNet7 🇨🇦 Канада ✅
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@84.22.150.195:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🔐 @AblNet7 🇫🇮 Финляндия ✅
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@89.208.96.180:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🔐 @AblNet7 🇩🇪 Германия ✅
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@94.228.169.221:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🔐 @AblNet7 🇦🇹 Австрия ✅
@@ -253,3 +252,4 @@ vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&s
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=&encryption=none&host=---@FREEV2RNG&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=&encryption=none&host=---@FREEV2RNG&type=ws#🇫🇷 MCI - @FREEV2RNG 14
+vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=none&encryption=none&host=---@ShadowProxy66&type=ws#@IP_CF 🇩🇪

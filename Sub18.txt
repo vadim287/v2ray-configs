@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://TELEGRAM-CONFiGLiNE@91.99.95.76:443?mode=gun&security=reality&encryption=none&authority=&pbk=E9Ve9pGVnR-PcLSdOI4onL0qPyvsVVVY44vhmZOTlhc&fp=chrome&spx=/&allowinsecure=0&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=ru.sfasti.ru&sid=5e79a423a5#[🇩🇪]@configLINEتست
 vless://TELEGRAM-CONFiGLiNE@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=configlinechannel.com&type=xhttp#[🇩🇪]@configLINE
 vless://TELEGRAM-CONFiGLiNE@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpessshkel.com&type=xhttp#[🇩🇪]@configLINE
 vless://TELEGRAM-CONFiGLiNE@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpessshkel.com&type=xhttp#[🇩🇪]@configLINE(3)
@@ -253,3 +252,4 @@ vless://ac9c44d2-6fb2-4106-aac8-3d9ae0b6ccaf@tru-server1-panyous.tap30.sbs:2560?
 vless://ac9c44d2-6fb2-4106-aac8-3d9ae0b6ccaf@usa-server1-panyous.tap30.sbs:2560?security=reality&type=tcp&headerType=&path=&host=&sni=cloudflare.com&fp=chrome&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44&spx=/#🗽 [🇺🇸] ⌁ 𝙐𝙎𝘼
 vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
