@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://84566df5-a979-4194-94a2-720552440025@5.78.52.105:15253?security=&encryption=none&headerType=none&type=tcp#🇺🇸@FreakConfig
 vless://84566df5-a979-4194-94a2-720552440025@5.78.52.105:15253?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://84566df5-a979-4194-94a2-720552440025@5.78.52.105:15253?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://84566df5-a979-4194-94a2-720552440025@5.78.52.105:15253?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
@@ -252,4 +253,3 @@ vless://94f51128-b5eb-4eb6-8010-12b7c55e559b@141.95.52.109:80?path=/vless/&secur
 vless://95125edf-cb36-45d1-f6bb-fb49a74cc23c@Www.Speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🥦-y5a3h3fy
 vless://95260b6a-e711-455c-d273-3439ca210d44@numberland.ir:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://95260b6a-e711-455c-d273-3439ca210d44@numberland.ir:2052?type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
-vless://95260b6a-e711-455c-d273-3439ca210d44@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
