@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://562c71d0-f18b-402c-b1ad-5c2bbfcd6e02@nld-0001-xr.packet-drop-society.net:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇳🇱[Telegram:NetifyVPN]
 vless://562c71d0-f18b-402c-b1ad-5c2bbfcd6e02@nld-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇳🇱 Telegram:tik7net_vpn
 vless://562c71d0-f18b-402c-b1ad-5c2bbfcd6e02@nld-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇳🇱@FreakConfig
 vless://562c71d0-f18b-402c-b1ad-5c2bbfcd6e02@nld-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇳🇱@FreakConfig
@@ -253,3 +252,4 @@ vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=&e
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#@Selinc
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#MCI-@IRAN_V2RAY1
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#🇳🇱@FreakConfig
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
