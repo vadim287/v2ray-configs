@@ -4,6 +4,8 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
+vless://970ef269-d32f-4944-b43b-d835f673b60e@digitalocean.com:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%203-33
+
 vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
@@ -250,6 +252,4 @@ vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMxIiwiYWlkIjoiMCIsImhvc3QiOiJrYW1wb25nLm9yZyIs
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMxIiwiYWlkIjoiMSIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMjA1Iiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMyIiwiYWlkIjoiMCIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNzciLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjMiLCJhaWQiOiIwIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMjA0Iiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
