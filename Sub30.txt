@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?flow=&type=ws&host=&path=/&security=tls&sni=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&allowInsecure=0#@vmessorg
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@Selinc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@i10VPN 🚀| با ما متصل بمون⚡
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#@Selinc
@@ -253,3 +252,4 @@ vless://f66c5acf-4a5c-4c05-bd76-8c3934eccce0@91.99.179.41:42671?type=tcp&encrypt
 vless://f67bb868-2bbe-4d5a-b5a4-b28f1261b1a4@80.85.241.237:21?encryption=none&security=reality&sni=stackoverflow.com&fp=chrome&pbk=ZC8EJzmQKgo-NxxbfyU3YBYxBB__DXHNOkwezNeRQRE&sid=6dcda8&spx=/&type=grpc&authority=&serviceName=@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs-@Daily_Configs?ed=2056&mode=multi#Tel:@Daily_Configs
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?encryption=none&security=tls&sni=baomei.pages.dev&type=ws&host=baomei.pages.dev&path=/?ed/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?encryption=none&security=tls&sni=baomei.pages.dev&type=ws&host=baomei.pages.dev&path=/fp=chrome#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
+vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?encryption=none&security=tls&sni=baomei.pages.dev&type=ws&host=baomei.pages.dev&path=/fp=chrome?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
