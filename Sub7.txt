@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.136.130:4452?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇯🇵
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.68.250:5321?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇸🇬
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇯🇵
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇺🇸
@@ -253,3 +252,4 @@ vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?path=/eoppydws&se
 vless://067905f4-f79e-4ba4-b1d5-19551d8ca467@63.141.128.30:80?security=none&encryption=none&type=ws&host=c.jOin.zEdMoDeOn.oNl.&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#TEL: @V2RAYNG_IP🇩🇪(2)
 vless://06a69ade-0ebf-44dc-8f06-69dda39be844@104.17.147.22:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇳🇱 @G0dv2ray
 vless://06a69ade-0ebf-44dc-8f06-69dda39be844@172.67.72.39:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN ²
+vless://06a69ade-0ebf-44dc-8f06-69dda39be844@numberland.ir:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 @G0dv2ray
