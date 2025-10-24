@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.85.119.24:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#%3E%3E%40ShadowsocksM%3A%3ADE
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.44:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#%3E%3E%40ShadowsocksM%3A%3ADE
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.191:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#%3E%3E%40ShadowsocksM%3A%3ADE
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.142.120.56:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#%3E%3E%40ShadowsocksM%3A%3ADE
@@ -253,3 +252,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&securit
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://360ab6ba-7c33-4cd7-add1-9698b9f9205c@91.99.184.135:2095?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3ADE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.96:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
