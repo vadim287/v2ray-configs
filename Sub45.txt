@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%3E%3E%40ShadowsocksM%3A%3ANL
+hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40ShadowsocksM%3A%3AXX
 hy2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009/?insecure=1&sni=d.eans.top#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#%3E%3E%40free4allVPN%3A%3ACY
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%3E%3E%40free4allVPN%3A%3AIL
@@ -251,5 +253,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?security=&fp=chr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20108
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2038
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%205
