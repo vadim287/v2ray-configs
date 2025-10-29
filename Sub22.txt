@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://97e4c41d-2a20-4638-9c3d-a918720e5c80@deadseectelegram.khasispc.ir:443?security=reality&encryption=none&pbk=U593zOEZ2sAAD_NXXxAwj9Ez-eIzfXbZPZglX1K6PzM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=8be6aa26#@V2RAYROZ
 vless://97e4c41d-2a20-4638-9c3d-a918720e5c80@deadseectelegram.khasispc.ir:443?security=reality&encryption=none&pbk=U593zOEZ2sAAD_NXXxAwj9Ez-eIzfXbZPZglX1K6PzM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=8be6aa26#proxy_mtm
 vless://97fc44dd-c88c-4470-8d66-1752089c0183@104.16.53.11:2053?path=/?ed&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=frAgeU2.cpI2HIdd.eu.ORG#@V2rayNGVPN <= کانفیگ رایگان
 vless://97fc44dd-c88c-4470-8d66-1752089c0183@104.16.53.11:2053?path=/?ed&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=frAgeU2.cpI2HIdd.eu.ORG#@meli_proxyy
@@ -253,3 +252,4 @@ vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNT
 vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-24
 vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-21
 vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-23
+vless://SVNTEAM4@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-26
