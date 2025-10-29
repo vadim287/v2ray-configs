@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://c53647f3153f784b3c695ffbe5fb43c0@202.181.103.246:5041?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇸🇬
@@ -252,4 +253,3 @@ vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&e
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#@vmesskhodam
 vless://0667820d-f8a9-4652-a3b9-efadc06af433@162.159.152.155:443?path=/snippets/ip=tp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#@i10VPN 🚀| با ما متصل بمون⚡
 vless://0667820d-f8a9-4652-a3b9-efadc06af433@162.159.152.155:443?path=/snippets/ip=tp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#IR-@V2rayAlpha--4
-vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?path=/eoppydws&security=tls&encryption=none&type=ws#🇹🇷 @FREEV2RNG
