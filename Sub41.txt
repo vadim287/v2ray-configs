@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&sni=lsj3.mangshe.xyz#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443/?type=ws&encryption=none&flow=&host=157.180.123.25&path=%2Flinkws%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536#%3E%3E%40oneclickvpnkeys%3A%3ALV
@@ -252,4 +253,3 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb
 
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-42123.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-42123.shenzogmbh.com&encryption=none#%40Rayan_Config%20147
 
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-8981.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-8981.shenzogmbh.com&encryption=none#%40Rayan_Config%20133
