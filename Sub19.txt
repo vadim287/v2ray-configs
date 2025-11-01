@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?encryption=none&security=none&type=ws&host=91.99.177.36&path=/linkws?ed#@Daily_Configs
 vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?path=/linkws?ed&security=none&encryption=none&host=91.99.177.36&type=ws#@Hddify
 vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?path=/linkws?ed&security=none&encryption=none&host=91.99.177.36&type=ws#@meli_proxyy
 vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?path=/linkws?ed&security=none&encryption=none&host=91.99.177.36&type=ws#Channel : @Mrsoulb 🏴🏳
@@ -253,3 +252,4 @@ vless://85bbc3c2-fab8-4b34-8d3b-2323572780c5@151.101.3.8:80?type=xhttp&path=/@Xp
 vless://85bbc3c2-fab8-4b34-8d3b-2323572780c5@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#@bored_vpn
 vless://85bbc3c2-fab8-4b34-8d3b-2323572780c5@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#@mehrosaboran
 vless://85bbc3c2-fab8-4b34-8d3b-2323572780c5@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-dpj3dpqi
+vless://85d892d9-b1c0-4c63-b10c-14ca0c21ffc0@tgju.org:80?type=ws&encryption=none&path=/olem/ws?ed=1024&host=de.channel.digicyber.click&security=none#@melov2ray🇩🇪
