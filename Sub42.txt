@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#%3E%3E%40V2RAY_VMESS_free%3A%3ABE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%3E%3E%40free4allVPN%3A%3ACZ
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v5.ipforvetra.shop#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v5.ipforvetra.shop#%3E%3E%40v2ray_configs_pool%3A%3AXX
@@ -253,3 +252,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aa
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fapi%2Fv1&security=tls&encryption=none&type=ws&sni=gb-42123.shenzogmbh.com#%3E%3E%40flyv2ray%3A%3AGB
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&type=ws&sni=DfVrMvWc2.SoLeRiOs.nEt#%3E%3E%40flyv2ray%3A%3AXX
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@193.233.232.84:443?security=reality&encryption=none&pbk=F8VVulMM-qpXr7lu4RcfgmGDHbm-3i3eCofozQ8VbnQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=c33c7de1#%3E%3E%40VmessProtocol%3A%3ADE
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.79:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40VmessProtocol%3A%3AXX
