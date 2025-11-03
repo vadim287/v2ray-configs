@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-privatevpns@51.44.47.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1847709406471709
-trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2825 | Germany
-trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#telegram:@awlix_ir
-trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&type=tcp#telegram:@awlix_ir
 trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join Telegram:@AZARBAYJAB1🟣
 trojan://trojan@22b.net:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#Telegram:@AZARBAYJAB1
 trojan://trojan@AZERB.NET:443?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)?ed=2560&security=tls&alpn=h2,http/1.1&host=store.timimi.dpdns.org&fp=chrome&type=ws#@AZARBAYJAB1
@@ -253,3 +249,7 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?path=/&security=t
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#All--@V2rayAlpha--22
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.33:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.159.217.59:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.8.211.60:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.8.211.60:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#All--@V2rayAlpha--21
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.1:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify

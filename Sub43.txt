@@ -4,10 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.125:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2056
-
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.159:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2064
-
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2049
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.175:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2046
@@ -253,3 +249,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?security=&sni=/?B
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20101
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.25:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%205
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20181
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2096
