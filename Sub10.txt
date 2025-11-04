@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://121610b9-74a8-4988-ace2-bafb3013fde1@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://12345678-1234-1234-1234-123456789123@140.99.233.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@vpnserverrr
 vless://12345678-1234-1234-1234-123456789123@147.185.161.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@vpnserverrr
 vless://12345678-1234-1234-1234-123456789123@154.194.0.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@V2RAYROZ
 vless://12345678-1234-1234-1234-123456789123@185.156.19.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&type=ws&path=/snippets#@Daily_Configs
@@ -253,3 +251,5 @@ vless://1df5e589-3301-427e-b0aa-0017ffde1555@65.109.199.233:4050?security=realit
 vless://1df5e589-3301-427e-b0aa-0017ffde1555@91.107.155.193:4050?security=reality&encryption=none&pbk=oVRY8h7Njgw25j3CNhaJVMUys378tTvecrSRbrB3gyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.de&sid=2ebd6e17dec6a5d9#@V2rayNG3
 vless://1df684ae-6299-4170-8c96-40c4381825c8@104.16.0.24:2086?path=/Free-VPN-CF-Geo-Project/AM1?---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1&security=&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#TM-(@AZARBAYJAB1)
 vless://1df684ae-6299-4170-8c96-40c4381825c8@104.18.80.71:80?path=/Free-VPN-CF-Geo-Project/AM1?---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1&security=&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#TM-(@AZARBAYJAB1)
+vless://1df684ae-6299-4170-8c96-40c4381825c8@104.24.0.125:2082?path=/Free-VPN-CF-Geo-Project/AM1?---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1&security=&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#TM-(@AZARBAYJAB1)
+vless://1df684ae-6299-4170-8c96-40c4381825c8@104.24.0.186:2082?path=/Free-VPN-CF-Geo-Project/AM1?---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1&security=&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#TM-(@AZARBAYJAB1)
