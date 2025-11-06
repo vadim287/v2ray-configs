@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server681306348952527243.tas-bazi.com:443?type=xhttp&path=/frf&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server79787566814164569.tas-bazi.com:443?mode=stream-one&path=/frf&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://52a15490-6ae2-43f3-9aef-2bf7acf9cc0a@teary.ilooo.ir:2020?security=none&encryption=none&headerType=none&type=tcp#🇹🇷| 𝐈𝐬𝐭𝐚𝐧𝐛𝐮𝐥-[Telegram:@tik7net_vpn]
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇹🇷 | @External_Net
@@ -252,4 +253,3 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&securi
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-021.shenzogmbh.com&fp=chrome&type=ws&sni=gb-021.shenzogmbh.com#🇬🇧@FreakConfig
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@45.139.196.153:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/api/v1&security=tls&encryption=none&type=ws&sni=gb-8981.shenzogmbh.com#🇩🇪[Telegram:NetifyVpn]
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#🇬🇧@FreakConfig
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/api/v1&security=tls&encryption=none&type=ws&sni=gb-42123.shenzogmbh.com#Channel : @Mrsoulb 🏴🏳
