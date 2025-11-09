@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5b9fb1fe-f919-426b-761c-55a5d9139e0e@khabar.motionbetter.ir:20854?security=none&type=httpupgrade&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mimitdl%20%5B5%5D
 vless://5b9fb1fe-f919-426b-761c-55a5d9139e0e@2a01:4f8:1c17:d10d::1:8080?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mimitdl%20%5B6%5D
 vless://b9ada8b3-6ad0-45cc-b72f-ace43c7de476@45.94.215.101:443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40minovpnch%20%5B13%5D
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=%2Fawduhiawad%3Fed%3D2560&mode=auto#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40minovpnch%20%5B14%5D
@@ -252,4 +253,3 @@ vless://104f1dd2-dc7d-4b15-d42c-566b4e93de62@tgju.org:80?type=ws&encryption=none
 vmess://eyJ2IjoiMiIsImFkZCI6IjEyOC4xNDAuMTEyLjE1MSIsInBvcnQiOiIzMDMwIiwiaWQiOiI0MTBiZTk0MS1jNTVhLTRjZWMtOTU5Ni03NjEwNzZlYTZjNjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEB2MnJheXR1cmJvIFs3XSJ9
 vless://2efd0ebb-f5bd-47e2-ad5d-2b3a876ab92a@103.75.197.50:30975?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayturbo%20%5B8%5D
 vless://43330370-6687-48c3-ee7e-56c96853e07b@sw.mrchange.store:17081?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayturbo%20%5B9%5D
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v7.ipforvetra.shop#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayvpn2%20%5B4%5D
