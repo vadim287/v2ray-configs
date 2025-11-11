@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ed97e008-2b8d-4415-94c7-3da4919d361a@94.198.218.41:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#All-@V2rayAlpha--11
 vless://ed97e008-2b8d-4415-94c7-3da4919d361a@yt.connect-iskra.ru:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#All-@V2rayAlpha--8
 vless://ed97e008-2b8d-4415-94c7-3da4919d361a@yt.connect-iskra.ru:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#MCI-@V2rayAlpha--13
 vless://ed97e008-2b8d-4415-94c7-3da4919d361a@yt.connect-iskra.ru:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#MCI-@V2rayAlpha--15
@@ -252,4 +253,3 @@ vless://f88c2bcb-2121-4e7a-961b-2523af97773e@151.101.3.8:80?mode=auto&path=/Join
 vless://f894d5ed-530d-4f9f-ab7d-468bf8ac5dda@141.227.170.186:34024?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All--@IRAN_V2RAY1
 vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?security=reality&encryption=none&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d0a3f84aabd21574#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.231.223:2096?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28&spx=/&type=grpc&authority=&serviceName=config&mode=gun#telegram 🎯 v2ray_configs_pools
-vless://f8c93834-99a4-44e7-b476-147a3ab582d0@43.206.142.191:2096?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28&spx=/&type=grpc&authority=&serviceName=config&mode=gun#telegram ⚡️ v2ray_configs_pools
