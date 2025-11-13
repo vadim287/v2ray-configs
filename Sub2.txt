@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b25e3c62-f4eb-45df-adda-eb738959b845@45.144.51.41:443?security=reality&encryption=none&pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bit-site.ru&sid=f529bb49dc4de6#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1`
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh27v1.carwashipdir.shop#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%F0%9F%92%B2
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@162.120.94.253:2096?security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%F0%9F%92%B2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974563192163059.stockholm-drcn-aaaad.info:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%F0%9F%92%B2
@@ -252,4 +253,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvV81IiwiYWRkIjoiMTA0LjIxLjc1
 vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAxMS0xMyAxMDoyMCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
 trojan://2274c52572e721086f8bd8f88984643c@160.16.106.144:127?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%206.8MB%2Fs
 trojan://BxceQaOe@36.150.215.246:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.158=8443&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A5

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://22b59772-268e-4bd5-9264-bc2b3f6c8614@91.217.166.5:19648?type=tcp&path=/&host=divarcdn.com&headerType=http&security=none#@meli_proxyy
 vless://22b59772-268e-4bd5-9264-bc2b3f6c8614@91.217.166.6:19648?type=tcp&path=/&host=divarcdn.com&headerType=http&security=none#@meli_proxyy
 vless://22b59772-268e-4bd5-9264-bc2b3f6c8614@91.217.166.7:19648?type=tcp&path=/&host=divarcdn.com&headerType=http&security=none#@meli_proxyy
 vless://22b59772-268e-4bd5-9264-bc2b3f6c8614@91.217.166.8:19648?type=tcp&path=/&host=divarcdn.com&headerType=http&security=none#@meli_proxyy
@@ -253,3 +252,4 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.187:2086?path=/?BIA_TEL
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.244:2086?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇬🇧TM (@AZARBAYJAB1)
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.122.17:8443?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇺🇦TM (@AZARBAYJAB1)
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.205:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#@sunflowerplato
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/#@Daily_Configs
