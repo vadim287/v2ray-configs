@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://tunnel-astrovpnofficial-8@57.129.15.177:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=57.129.15.177#AstroVPN_Official 🇩🇪
+trojan://tunnel-astrovpnofficial1828@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#AstroVPN_Official 🇩🇪
+trojan://tunnel-v2ray_configs_pools_offcial-nl@nl-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=nl-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_offcial-🇳🇱
+trojan://tunnel-v2ray_configs_pools_official-de@de-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=de-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇩🇪
+trojan://tunnel-v2ray_configs_pools_official-gb@gb-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=gb-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇬🇧
+trojan://tunnel-v2ray_configs_pools_official-pl@pl-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev#@HiByeVPNN
+trojan://tunnel-v2ray_configs_pools_official-us@us-3.stunnel.cc:8441?security=tls&alpn=http/1.1&host=us-3.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev#@v2ray_configs_pools
+trojan://tunnel-v2ray_configs_pools_official-us@us-4.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=us-4.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇺🇸
+trojan://tunnel-v2ray_configs_pools_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇦🇪
+trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
+trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
+trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=/tv&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
+trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#@V2rayNG3
+trojan://x0plLSzZZI@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@V2rayNG3
 tuic://10822856-7452-43ec-b35b-6f24ea33530f:10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:23887?congestion_control=cubic&udp_relay_mode=native&alpn=h3&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group✌️
 tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53@134.209.28.89.sslip.io:54773?congestion_control=cubic&udp_relay_mode=native&sni=134.209.28.89.sslip.io&alpn=h3#Tuic3
@@ -239,17 +253,3 @@ vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&e
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--46
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#MTN-@IRAN_V2RAY1
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#azadiiivpn 🎀
-vless://0882a150-746a-4ba7-81b8-7922511894c5@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://08966ca9-496e-4864-bc6c-84d4d8ca5592@185.113.10.43:8880?encryption=none&type=ws&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#m15pz4lx
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@104.254.140.59:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.194.148.10:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.199.141.238:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@35.159.222.43:25670?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.208.53:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.4.39:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.112:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#All--@V2rayAlpha--22
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.33:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.159.217.59:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
