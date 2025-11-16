@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://TELEGRAM-CONFiGLiNE-37@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=googoolimagooli.com&type=xhttp#%253E%253E%2540FreakConfig%3A%3AXX
 vless://SERVERNETT-SERVERNETT1@ner.sernett.ir:8080?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%253E%253E%2540FreakConfig%3A%3AXX
 vless://TELEGRAM-CONFiGLiNE-39@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=aoijji.global.ssl.fastly.net&type=xhttp#%253E%253E%2540FreakConfig%3A%3AXX
 vless://Warpi-Free-Vpn-In-GooglePlay@vp4.myphotomoments.ir:443/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3ADE
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0327
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0332
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0335
+vmess://ewogICAgImFkZCI6ICIyMTYuMTczLjY5LjI1MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImdvb2dsZS5jb20iLAogICAgImlkIjogIjkxMzgyMDkyLTIzMzAtNDU1Yi04YTFjLTljMTI5Y2ZlNjYxYSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4NDQzLAogICAgInBzIjogIvCfh7Hwn4e7TFYtMjE2LjE3My42OS4yNTAtMDMzMSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
