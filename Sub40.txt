@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-directvpn@18.118.16.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔰
 
 vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#h6-%E2%9C%85+%40v2rayNG_VPNN+-+%D8%B1%D9%81%D8%B9+%D9%81%DB%8C%D9%84%D8%AA%D8%B1⚙ ایرانسل
 
@@ -252,4 +253,3 @@ vmess://eyJhZGQiOiI2Mi4yMDQuNTguMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwi
 vless://57bbb5bc-f28f-4ef4-cc44-931bf4ba27fb@62.204.58.175:53185?path=%2Fvpn_proxy_custom&security=none&encryption=none&type=ws#%40vpn_proxy_custom100Gig irancellLocation: Turkey 🇹🇷نیمه شب بکام
 
 
-📱کانفیگ V2RAYNG 📶ایرانسل همراه اول vless://49d880ff-ab62-4f2f-a8fb-4c84e6181aae@VPNCUSTOMIZE2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#vpn_proxy_custom+%7C🔵قبل از استفاده حتما حالت پرواز بزارید ⬇️دانلود فایل V2RAYNG ⁉️آموزش استفاده از سرور ها𓆩𝐕𝐏𝐍 [📱]𝐈𝐑𝐀𝐍𓆪✅️
