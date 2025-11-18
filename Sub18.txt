@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@5.182.37.94:443?security=reality&encryption=none&pbk=yN8F-g6K4RbNLwcG4Y5j5VGAHvj5COL490fmKKVohG8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=cd3f20ea#@sunflowerplato🌻
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#All--@V2ray_Alpha-15
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@77.110.102.49:443?security=reality&encryption=none&pbk=3Th99jFJ-lq7U2RwTAIwuuQhw26ytMZiyPivpYScg3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=de285cb4#All--@V2ray_Alpha-16
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@77.110.105.19:443?security=reality&encryption=none&pbk=kOWOoO9dm7FfrdG_MzuCrKbw3FGHFE2-quprLGpryE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=339f17fb#All--@V2ray_Alpha-17
@@ -252,4 +253,3 @@ vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=t
 vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&headerType=http&type=tcp#@EXPRESSVPN_420
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇬🇧 | @External_Net
-vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443?path=/J5aKLOY1R9ONWYCM&security=tls&encryption=none&host=dedi.besttotaldns.com&type=ws&sni=dedi.besttotaldns.com#@V2ray_confing33
