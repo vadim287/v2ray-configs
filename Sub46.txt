@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%253E%253E%2540V2RAY_VMESS_free%3A%3AUS
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=t.me%2Fv2line&type=ws#%253E%253E%2540free4allVPN%3A%3AXX
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.149.104:443?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=HarmonY-448.pages.DEV&fp=chrome&type=ws&sni=HarmonY-448.pages.DEV#%253E%253E%2540FreakConfig%3A%3AUS
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.16.218.149:443?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=HarmonY-448.pages.DEV&fp=chrome&type=ws&sni=HarmonY-448.pages.DEV#%253E%253E%2540FreakConfig%3A%3AUS
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0228
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.192-0212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0209
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0226
