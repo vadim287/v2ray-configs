@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://129638fe-f846-4cdb-b466-52f314acdb64@arashnet1.golebahari.sbs:364?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=stackoverflow.com&pbk=Q9WvnJZrDk4mgMQjW5Y5MhheZYs4G6hBCj_gXya1iEw&sid=234c0acc73#@meli_proxyy
 vless://129638fe-f846-4cdb-b466-52f314acdb64@arashnet1.golebahari.sbs:364?security=reality&encryption=none&pbk=Q9WvnJZrDk4mgMQjW5Y5MhheZYs4G6hBCj_gXya1iEw&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=234c0acc73#@meli_proxyy
 vless://12b436f1-a946-43c6-83ca-43b332edfae7@151.101.3.8:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=saymyname.ir.global.prod.fastly.net&type=xhttp#@NoForcedHeaven6
 vless://12b67ef3-e714-41bc-8e3a-6a443516a599@194.182.79.236:24561?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@confiig_hub
@@ -253,3 +252,4 @@ vless://1fc319c6-fbfb-4054-9f58-806170f02a2a@167.235.68.235:8880?type=tcp&encryp
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=/containers/de&security=tls&encryption=none&host=om3.omidsuccess.uk&allowinsecure=0&type=ws&sni=om3.omidsuccess.uk#🇩🇪All³ | @meli_proxyy
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=/containers/de&security=tls&encryption=none&host=om3.omidsuccess.uk&type=ws&sni=om3.omidsuccess.uk#@meli_proxyy
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=/containers/de&security=tls&encryption=none&host=om3.omidsuccess.uk&type=ws&sni=om3.omidsuccess.uk#All--@V2rayAlpha-40
+vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=/containers/de&security=tls&encryption=none&host=om3.omidsuccess.uk&type=ws&sni=om3.omidsuccess.uk#All-@V2rayAlpha--27
