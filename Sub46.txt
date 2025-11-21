@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#%253E%253E%2540Awlix_ir%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#%253E%253E%2540FreakConfig%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#%253E%253E%2540FreakConfig%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#%253E%253E%2540ShadowsocksM%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTU0bzZrWU9nNGg5bFhqZHZkV2Nw@81.19.141.45:443#%253E%253E%2540v2rayNG_Matsuri%3A%3AXX
@@ -253,3 +251,5 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095/?type=ws&e
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=holo.mrconfigur.site&path=%2F&security=tls&sni=holo.mrconfigur.site#%253E%253E%2540oneclickvpnkeys%3A%3ADE
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#%253E%253E%2540FreakConfig%3A%3AUS
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%253E%253E%2540FreakConfig%3A%3AXX
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%253E%253E%2540v2ray1_ng%3A%3AXX
+vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=%2Fufoxglws&security=tls&encryption=none&host=638991681638525311.jetta-amsia.info&type=ws&sni=638991681638525311.jetta-amsia.info#%253E%253E%2540v2rayngvpn%3A%3AXX
