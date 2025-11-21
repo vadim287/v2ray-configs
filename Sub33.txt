@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#v2raynplus |🇨🇵
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.98:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001195.sec22org.com#v2raynplus |🇺🇸
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@V2rayNG3
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp#@V2rayNG3
@@ -253,3 +251,5 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@153.121.45.101:443?path=/freecodes/
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@153.121.45.101:443?path=/freecodes/?ed=2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇺🇸[openproxylist.com] vless-US
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=/#t.me/v2Line | Free | 2970 | United States
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=/#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️South Bend🅿️ping:27.32ms
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇩🇪[Telegram:NetifyVpn]
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=/&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️South Bend🅿️ping:27.54ms
