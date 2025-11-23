@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-
-💙 Trackless Vpn 💙┆v1.0.6 | اندروید پیش نیاز 5.1🥈━━━━━🔻وی پی ان رایگان با بیش از 50+ سرور🔺دارای پهنای باند نامحدود و زمان رایگان〰〰〰〰〰〰┆ آسان برای استفاده┆ وقت آزاد┆ سرورهای متعدد به انتخاب شما┆ اتصال سریع┆ اشغال فضای کمتر┆ الگوریتم اتصال هوشمند┆ سپر در Wi-Fi عمومی و مرورگر〰〰〰〰〰〰┆• 🇯🇵  ژاپن  • 🇺🇸  ایالات متحده┆• 🇻🇳  ویتنام  • 🇨🇫  جمهوری کره┆• 🇷🇺  روسیه  • 🇹🇭  تایلند┆• 🇮🇳  هند  • 🇸🇬  سنگاپور┆• 🇧🇷  برزیل  • 🇺🇦  اوکراین┆• 🇨🇦  کانادا  •🇰🇭  کامبوج┆•🇨🇴  کلمبیا  • 🇮🇩  اندونزی#به_اشتراک_بزارید ❄️@Config_v2ray
-
 📶 سرور جدید / 🔵🟡 V2ray(S 274):vmess://eyJhZGQiOiI2Mi4yMDQuNTguMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMxMGI3YTZjLWQwNWMtNDEwNC04ZWM4LTA0MmI5NTQ0NDNjYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTg1OTkiLCJwcyI6IlMgMjc0IEBDb25maWdfdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=آموزش:اندروید | آیفون👉 @Config_v2ray
 
 
@@ -252,4 +249,7 @@ vmess://eyJhZGQiOiI4MC4yNTMuMjQ2LjE3OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6InNv
 
 
 vless://8099cb0f-d19d-4252-af27-1527c00b64c5@sk.abadanvpn.host:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#%40V2ray_Custom😉 @V2ray_Custom
+
+
+trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
 

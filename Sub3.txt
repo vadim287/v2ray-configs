@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9936ae5c-91cd-4c8a-80e9-5118a209a7e4@188.253.21.106:443?allowInsecure=0&sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#JP_speednode_0032
-vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?allowInsecure=0&sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#JP_speednode_0033
-trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.22.132.183=443#NL_speednode_0035
 trojan://35f8e682-54bd-42c7-b537-94a8e4c84bcd@89.110.120.197:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/89.110.120.197=443#NL_speednode_0036
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@89.19.211.109:8443?allowInsecure=0&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560security=tls#PL_speednode_0037
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@85.193.92.242:2053?allowInsecure=0&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560security=tls#PL_speednode_0038
@@ -253,3 +250,6 @@ hysteria2://UUa5hFByN9@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.o
 hysteria2://UUa5hFByN9@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه اوپراتور ها
 hysteria2://UXDYE6VRUZ@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه اوپراتور ها
 hysteria2://VPcKd5VGwx@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+hysteria2://VPcKd5VGwx@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
+hysteria2://VPcKd5VGwx@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+hysteria2://VaKHp6TQN6@91.99.225.11:20820?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#@V2rayNG3
-vless://9b1b61ca-2b67-4091-a777-5baa7a8f741f@188.132.141.58:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-vless://9b1b61ca-2b67-4091-a777-5baa7a8f741f@38.180.26.251:7035?security=none&encryption=none&host=filimo.com&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://9b1bd0fe-4e14-44b9-8f43-075924389f25@149.248.52.96:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🎪 v2ray_configs_pools
 vless://9b3da035-2dc6-4a71-b3b6-b3002086e10b@www.speedtest.net:8080?path=/V2rayBaaz?ed=1024&security=none&encryption=none&host=ultra.xraypro.sbs.&type=httpupgrade#r♡ya
 vless://9b3da035-2dc6-4a71-b3b6-b3002086e10b@www.speedtest.net:8080?path=/xrayvpn?ed=1024&security=none&encryption=none&host=ultra.xraypro.sbs.&type=httpupgrade#🇫🇮@FreakConfig
@@ -253,3 +250,6 @@ vless://SERVERNETT-SERVERNETT1@sdct.sernett.ir:80?mode=auto&path=/&security=&enc
 vless://SERVERNETT-SERVERNETT1@serv.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇩🇪 telegram@ISVvpn
 vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪#2
+vless://SVNTEAM-3@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪Free3
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-20
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-28
