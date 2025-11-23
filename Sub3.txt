@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzgiLCJhZGQiOiI2OS4yOC44Mi4yNTMiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzEiLCJhaWQiOiIwIiwic2N5IjoiemVybyIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2bS5ncGoxLndlYi5pZCIsInBhdGgiOiIvR2VvLVByb2plY3QvNjkuMjguODIuMjUzLTQ0MyIsInRscyI6InRscyIsInNuaSI6InZtLmdwajEud2ViLmlkIiwidGVzdF9uYW1lIjoiMzgifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzkiLCJhZGQiOiI4MS45MS4yMTQuODUiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzEiLCJhaWQiOiIwIiwic2N5IjoiemVybyIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2bS5ncGoxLndlYi5pZCIsInBhdGgiOiIvR2VvLVByb2plY3QvODEuOTEuMjE0Ljg1LTQ0MyIsInRscyI6InRscyIsInNuaSI6InZtLmdwajEud2ViLmlkIiwidGVzdF9uYW1lIjoiMzkifQ==
 trojan://b87a1832-96c8-4291-b273-30a4d68f2629@91.245.225.69:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.245.225.69=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A540
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#%E6%9C%AA%E7%9F%A541%2017.9MB%2Fs
 trojan://83794b09-d50a-4e6e-9559-1372b6299e89@162.19.246.187:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/162.19.246.187=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A542
@@ -253,3 +251,5 @@ vless://d4e52293-4a82-404c-ac29-93afc006dcbb@bitbolajepe.vip:443?path=%2FTelegra
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
+vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?security=reality&encryption=none&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&headerType=&fp=chrome&type=tcp&sni=analytics.google.com&sid=aba7bc9a#@meli_proxyy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#@meli_proxyy
