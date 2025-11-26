@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@54.38.137.251:2053?path=/&security=tls&encryption=none&type=ws#All-@V2ray_Alpha--25
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.177.241.191:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.12.24:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=TUEAF-58650.phoenixappdatag.uk&fp=chrome&type=w&sni=TUEAF-58650.phoenixappdatag.uk#@HiByeVPNN❤️‍🔥💎✨
 vless://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=hq3.newretr432as.info#@V2rayNG3
 vless://0930fe32-e429-4f37-b8ec-92ac52b40f6e@69.28.82.253:443?path=/Free-VPN-CF-Geo-Project/69.28.82.253=443&security=tls&encryption=none&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#@⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام 🇨🇦
@@ -253,3 +250,6 @@ vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&securi
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.177:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--36
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.186:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--41
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--39
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.235:8880?mode=gun&security=&encryption=none&type=grpc#WiFi-@V2rayAlpha--20
