@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ed1331b1-86e7-4e9a-bd17-7d00667c8dba@62.60.248.14:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&sni=www.latimes.com&pbk=R7rQRf2vm_y2RYIFDZcS5ucks0gNKgKthRT-bUtyymo&sid=96973faa2f0bf0&spx=/#V2rayArgo
 vless://ed191ac2-7bcd-489e-86af-26fb885acaf6@bg.snowfalls.top:443?security=reality&encryption=none&pbk=gjtcPZXZqQx-nXKVsD2CQ_lfmuWVE2fCwxn-hmNNNSg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=bg.snowfalls.top&sid=b45c8f1a9e33d7b2#Join Sho : @IRAN_V2RAY1
 vless://ed191ac2-7bcd-489e-86af-26fb885acaf6@cy.snowfalls.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cy.snowfalls.top&sid=0441f3e34348cb45#Join Sho : @IRAN_V2RAY1
 vless://ed191ac2-7bcd-489e-86af-26fb885acaf6@fastercdn.snowfallproject.site:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&host=fastercdn.snowfallproject.site&type=xhttp&sni=fastercdn.snowfallproject.site#Join Sho : @IRAN_V2RAY1
@@ -252,4 +253,3 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=/Telegram�
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=/Telegram🇨🇳+@WangCai2+/?ed=2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🏴‍☠️@FreakConfig
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#@meli_proxyy
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Channel : @Mrsoulb 🏴🏳
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🏴‍☠️@FreakConfig

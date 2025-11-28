@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2456f90c-5183-476d-b069-16ae74ce120f@154.197.121.253:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%253E%253E%2540V2RAY_VMESS_free%3A%3AUS
 vless://2456f90c-5183-476d-b069-16ae74ce120f@181.214.1.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#%253E%253E%2540oneclickvpnkeys%3A%3AUS
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%253E%253E%2540v2ray_configs_pool%3A%3AUS
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#%253E%253E%2540free4allVPN%3A%3AUS
@@ -252,4 +253,3 @@ vless://9cc7e16a-d681-49a2-a94a-de4cb084089e@www.visaeurope.ch:443?security=tls&
 vless://9cc7e16a-d681-49a2-a94a-de4cb084089e@www.visaeurope.ch:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
 
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
-

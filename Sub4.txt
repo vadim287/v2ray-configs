@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://2cf6d686799e6fa95316394064f26c0a@58.152.110.120:443?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-239%40free-nodes
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-240%40free-nodes
 trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-241%40free-nodes
 trojan://telegram-id-directvpn@51.45.12.251:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-242%40free-nodes
@@ -252,4 +253,3 @@ trojan://2cf6d686799e6fa95316394064f26c0a@153.121.44.99:3093?allowInsecure=0&sni
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-486%40free-nodes
 trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-487%40free-nodes
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%E6%9C%AA%E7%9F%A5%20TROJAN-488%40free-nodes
-trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws&path=/yamtekodasayahhh&Host=kotlet.arshiacomplus.dpdns.org#%E6%9C%AA%E7%9F%A5%20TROJAN-489%40free-nodes
