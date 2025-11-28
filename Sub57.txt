@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#%253E%253E%2540FreakConfig%3A%3ADE
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443?path=%2F%3Fed&security=tls&encryption=none&host=vless5-edu.pages.dev&fp=chrome&type=ws&sni=vless5-edu.pages.dev#%253E%253E%2540FreakConfig%3A%3AUS
 vless://caad50b7-be89-40e6-917f-e8cca1a22326@speedtest.net:80?type=xhttp&encryption=none&path=%2F@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF%3Fed%3D2048&host=greencp2.global.ssl.fastly.net&mode=auto&security=none#%253E%253E%2540ip_cf%3A%3ACH
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#%253E%253E%2540FreakConfig%3A%3AFI
@@ -252,4 +253,3 @@ vmess://ewogICAgImFkZCI6ICIxNS4yMzUuODUuMTQ3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0228
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0257
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.81-1221
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0258
