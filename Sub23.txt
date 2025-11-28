@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1🇹🇷
-vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇹🇷]
-vless://61545806-60b6-4b38-9d2f-884081a5a913@45.140.169.69:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1 [🇷🇺]
-vless://61545806-60b6-4b38-9d2f-884081a5a913@46.246.96.224:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇸🇪]
-vless://61545806-60b6-4b38-9d2f-884081a5a913@85.90.207.47:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1 [🇦🇲]
-vless://61545806-60b6-4b38-9d2f-884081a5a913@ns.cloudflare.com:2086?path=/shop&security=none&encryption=none&host=cdn2.epiconline.ir&type=ws#Join Sho:@IRAN_V2RAY1[🇫🇮]
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=/?ed=2048&security=none&encryption=none&host=arvancloud.com&type=ws#@V2rayNG3
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@at.monkeyisland.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at.monkeyisland.xyz&fp=chrome&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=83e9f5b24040c5f7#🔒55@oneclickvpnkeys
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@de.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&host=de.monkeyisland.xyz&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&sid=0dd15ad462aad7fc#@meli_proxyy
@@ -253,3 +247,9 @@ vless://6880c016-63a3-4335-bafa-c180ffd3325f@br.pouriau.com:2052?path=/---ping--
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:8880?security=&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=&type=tcp#JOIN ➪@FILTERK0SH
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.tradingview.com&fp=chrome&security=reality&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096#⚱️76@oneclickvpnkeys
+vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#JOIN ➪@FILTERK0SH【🇸🇮】
+vless://6899393a-9311-45f3-b657-ffd1689bb725@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@CaV2ray ⚡️
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@CaV2ray ⚡️
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@v2rayngzendegimamad/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@v2rayngzendegimamad🕊️
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=/?ed=2570&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#@CaV2ray ⚡️
+vless://68d93eb3-e0ba-4c06-ba08-3e7572fa74c7@5.78.129.46:3002?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNNBot🔥⚡❤️‍🔥
