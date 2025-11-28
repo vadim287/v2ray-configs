@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?security=reality&encryption=none&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a36c0f#All--@V2rayAlpha--43
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@corey.ns.cloudflare.com:443?flow=&type=ws&host=&path=/harman&security=tls&sni=puemo.tiger-positions.info&fp=chrome&allowInsecure=0#@internet_sefid
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@corey.ns.cloudflare.com:443?flow=&type=ws&host=&path=/harman&security=tls&sni=puemo.tiger-positions.info&fp=chrome&allowInsecure=0#@meli_proxyy
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@corey.ns.cloudflare.com:443?path=/harman&security=tls&encryption=none&fp=chrome&type=ws&sni=puemo.tiger-positions.info#@V2rayNGVPN <= کانفیگ رایگان
@@ -253,3 +252,4 @@ vless://cd28c09a-8c57-4ad6-90a2-913c1bf60bdf@speedtestserversoft98server.speedte
 vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@15.223.180.240:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737&fp=chrome&spx=/#telegram 🍊 v2ray_configs_pools
 vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@15.223.83.61:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737&fp=chrome&spx=/#telegram 🌈 v2ray_configs_pools
 vless://cd57c492-5765-40ec-a139-931fbae8f436@ggload.speedload.ru:443?security=reality&encryption=none&pbk=a3j3TH-VYPCGR_ecpyzkojGcszOGWdu0R9w0b1GAFU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=a20d3ed244c76426&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇷🇺]t.me/Raiv2mmr
+vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#@Hddify
