@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@lv.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lv.monkeyisland.xyz&sid=f66c289040d589ee#🏴‍☠️@FreakConfig
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@ru1.monkeyisland.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru1.monkeyisland.xyz&fp=chrome&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=83e9f5b24040c5f7#🔒46@oneclickvpnkeys
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@se.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&sid=0dd15ad462aad7fc#@meli_proxyy
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@se.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&sid=0dd15ad462aad7fc#🏴‍☠️@FreakConfig
@@ -253,3 +252,4 @@ vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.137.244:443?mode=gun&security
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.137.244:443?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1 🇩🇪
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.137.244:443?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--11
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.155.220:443?mode=gun&security=none&encryption=none&type=grpc#@V2ray1_Ng
+vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.155.220:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
