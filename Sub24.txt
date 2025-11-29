@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@77.110.102.49:443?security=reality&encryption=none&pbk=3Th99jFJ-lq7U2RwTAIwuuQhw26ytMZiyPivpYScg3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=de285cb4#All--@V2ray_Alpha-16
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@77.110.105.19:443?security=reality&encryption=none&pbk=kOWOoO9dm7FfrdG_MzuCrKbw3FGHFE2-quprLGpryE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=339f17fb#All--@V2ray_Alpha-17
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@88.151.192.52:443?security=reality&encryption=none&pbk=Z_h-K2xsVQB2nqQ1fwNRmz_JlnH_ibBUgV-RB0snZGY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=ed2dc18d#All--@V2ray_Alpha-18
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@89.150.48.178:443?security=reality&encryption=none&pbk=QW6neBOeONEjuXRaJE5T07gNWbYY2blQa81hurOUth8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=cff81baa#All--@V2ray_Alpha-19
@@ -252,4 +253,3 @@ vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:8443?encryption=none
 vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:8443?encryption=none&security=none&type=tcp&headerType=none#@meli_proxyy
 vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:8443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:8443?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
-vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:8443?security=none&encryption=none&headerType=none&type=tcp#limo
