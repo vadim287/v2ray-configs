@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8a49b57a-d02e-4965-a24f-b7f189cbb98d@65.109.188.4:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%E6%9C%AA%E7%9F%A5%20VLESS-105%40free-nodes
 vless://60e7e018-ee6a-48b1-9625-c4d4276935b3@178.239.125.31:39735?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#JP%20VLESS-106%40free-nodes
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#DE%20VLESS-107%40free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#%E6%9C%AA%E7%9F%A5%20SS-108%40free-nodes
@@ -252,4 +253,3 @@ trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@js04.balala2016.xyz:20261?security
 trojan://253bc477d4e43c209f2d427272968280@160.16.124.55:1572?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-352%40free-nodes
 trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@tw01.balala2016.xyz:20261?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-353%40free-nodes
 trojan://253bc477d4e43c209f2d427272968280@160.16.87.174:3957?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-354%40free-nodes
-trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#%E6%9C%AA%E7%9F%A5%20TROJAN-355%40free-nodes
