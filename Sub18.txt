@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://094fdaf8-929b-4b8c-81f3-ab61e6c8adff@185.242.247.22:443?security=reality&encryption=none&pbk=ea2MWaZ6KT7Y6qWxqzoZI2k1CszvdaIi8vjj0L9gI08&headerType=none&fp=chrome&spx=/Xt31tPvmdJjitk7&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a1faa67cfc#@vpnserverrr کانال تلگرام |🇫🇮
+vless://094fdaf8-929b-4b8c-81f3-ab61e6c8adff@185.76.243.177:443?security=reality&encryption=none&pbk=7xXjIpYUAjPC0_vvNh2BJtI1omRAW6gj2nFOQbMIalo&headerType=none&fp=chrome&spx=/V26NdciqPbB0OEO&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=f099999777bc#@vpnserverrr کانال تلگرام |🇳🇱
 vless://094fdaf8-929b-4b8c-81f3-ab61e6c8adff@85.208.139.57:443?security=reality&encryption=none&pbk=6p8Q1s1G3xxtuE3EVyj3xe4yKkgu4JpRoUcOII9EzRM&headerType=none&fp=chrome&spx=/RFZDvRViCN2Z6jy&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=e5d14354#@vpnserverrrکانال تلگرام |🇩🇪
 vless://094fdaf8-929b-4b8c-81f3-ab61e6c8adff@87.120.219.226:443?security=reality&encryption=none&pbk=vHASs15JlekbgEeXan1f4ke79n7wm7cmCpWMe5xrCXY&headerType=none&fp=chrome&spx=/OVHzyUtRI3Amt5s&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=f4d5cc5b38#@vpnserverrr کانال تلگرام |🇬🇧
 vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?path=/mcqvlfws&security=tls&encryption=none&host=639002745868715407.golf-amsir.info&type=ws&sni=639002745868715407.golf-amsir.info#@V2rayNGVPN <= کانفیگ رایگان
@@ -251,5 +253,3 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443/?encryption=none&h
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
