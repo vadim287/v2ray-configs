@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.211:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?mode=gun&security=none&encryption=none&type=grpc#All--@V2rayAlpha-14
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?mode=gun&security=none&encryption=none&type=grpc#All--@V2ray_Alpha-34
@@ -253,3 +252,4 @@ vless://e7f4b612-7cca-ddcd-c875-f18650b9eab5@91.107.152.110:443?security=reality
 vless://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb 🇳🇱
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@149.248.58.105:80?path=/rfvtgws&security=none&encryption=none&type=ws#@Maznet-46205-3
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?path=/rfvtgws&security=none&encryption=none&type=ws#All-@V2ray_Alpha--33
+vless://e81e5ee4-59e0-4111-dc3e-6effd3b3b9ef@164.92.186.86:31109?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
