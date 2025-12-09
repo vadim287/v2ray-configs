@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : United Statesvmess://eyJhZGQiOiIzLjIzMC4xNzAuNDkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiN2NiNzI4ODMtOTYzNS00NmViLTg1MzEtOGQ2OTc5MjdmZjA0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTExMSIsInBzIjoiaWNlc291cmNlIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
+
+
+🔐Alpha v2ray🔝V3.3.4(27)Updated: Jan 9, 2023✓ مبتنی بر(Vmess،VLESS،Trojan،shadowsocks)✅ سرورهای بخش Daily V2RAY مخصوص ایران هست و متصل میشود برای بارگیری سرورهای این بخش با وی پی ان روشن پایین سمت راست علامت بارگیری را بزنید و بعد به سرورهای مخصوص ایران متصل شوید(سرور ها همانطور که از اسمشون پیداست هر روز آپدیت میشن)این سرورها بستگی به نتتون وصل میشن مثلا یکی برای ایرانسل وصله یکی برای همراه یکی برای رایتل*نکته باید پکیج All in one را انتخاب کنید❤️  (البته بقیه رو هم تست کنید چون هر موقع یکی کار میده)🔗Google play store link➖➖➖➖➖➖➖➖➖➖Jᴏɪɴ @vpn_442Group @vpn_442GP
+
 🟢V2ray✅IR MCI(همراه اول)🗺Location: 🇩🇪 Germany 🇩🇪vmess://eyJhZGQiOiIxLmFyc2FsYW52My5zYnMiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzAzNTJlMDAtNGEzZS00NGRhLWZjOTItZGExMDJmMDEyZjc5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiJUZWxlZ3JhbTpATmV0d29ya180NDLwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
 
 
@@ -248,8 +253,3 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?encryption=none&se
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#%3E%3E%40DailyV2RY%3A%3AUS
 vless://2456f90c-5183-476d-b069-16ae74ce120f@154.197.121.253:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://2b066334-ca87-4c56-9a79-2f3636ee53d1@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456251297706.renegade-amsis.info&type=ws&host=639003456251297706.renegade-amsis.info&path=/dahdwsws#%3E%3E%40DailyV2RY%3A%3AES
-vless://2fd8bc88-ec5e-4de6-8545-b5cbfc08e965@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639006703178819173.sylphy-amsiv.info&type=ws&host=639006703178819173.sylphy-amsiv.info&path=/jyqbqpws#%3E%3E%40DailyV2RY%3A%3AES
-vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%3E%3E%40prrofile_purple%3A%3ADE
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#%3E%3E%40V2RAY_VMESS_free%3A%3AHK
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.24.245:4249/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://48a8cab5-ce75-4c8a-90f5-dcd020c89b4b@31.44.0.63:58349/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ANL
