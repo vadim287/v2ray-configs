@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#@V2rayNGVPN <= کانفیگ رایگان
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#@V2rayNGVPN+<=+کانفیگ+رایگان
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#🇩🇪@FreakConfig
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#🇬🇧@FreakConfig
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#@Broz_time > کانفیگ رایگان
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#@Broz_time+>+کانفیگ+رایگان
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#🇩🇪@FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#🇬🇧@FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#Channel : @Mrsoulb 🏴🏳
@@ -253,3 +247,9 @@ vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#@Broz_time > کانفیگ رایگان
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#@Daily_Configs
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
+vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#All_15--@V2rayAlpha
+vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#@MARAMBASHI 💜
+vless://240b8e0e-56b3-4b7a-a9e5-7ad323b3e52e@speedtestcustom.com:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=sharrded.global.ssl.fastly.net&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://240b8e0e-56b3-4b7a-a9e5-7ad323b3e52e@speedtestcustom.com:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=sharrded.global.ssl.fastly.net&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2565?security=none&type=tcp&headerType=http&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=#🇫🇷 | @External_Net
