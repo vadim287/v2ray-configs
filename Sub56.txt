@@ -4,14 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-vless://513f699d-ed8c-4a47-a225-0736fc2213e7@ns1.cloudflare.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
-
-vless://568db765-6970-40c8-8087-83ea9ba2429e@bitpay.com:443?security=tls&sni=rAyAn-007.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.pArAsToO.DpDnS.OrG&encryption=none#%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%20%D8%B3%D8%B1%DB%8C%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B4%D8%AE%D8%B5%DB%8C%20:%20https://telegraph.rayan.dpdns.org/persian
-
-vless://56c678a3-c08b-4148-a87b-4e041b680e6f@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://56c678a3-c08b-4148-a87b-4e041b680e6f@poloniex.com:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
-
 vless://56c678a3-c08b-4148-a87b-4e041b680e6f@www.visaeurope.ch:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
 
 vless://67cf43da-d94c-4d93-b073-ac9305b16ec3@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -253,3 +245,11 @@ vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJp
 vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiMzVmMzMyZDAtMGIwNS00Y2M2LTkxY2ItZWMwZDQ0NjUwNTVmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI3MTk5LCJwcyI6IkxvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
 
 vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiMzc4NmU2N2EtNDFlYi00YjkyLWIzMWUtNDE3ZTg5NDkzYjkzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI3MTk5LCJwcyI6IkxvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+
+vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiNGVjNjZkODEtOTU2NS00ZDhlLWFlNTgtMmJhY2ZkZTk1ZjQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI3MTk5LCJwcyI6IkxvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+
+vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiNGYzY2ZkYTMtYTI1NS00MGViLTg4MDEtNzFmOWZmZmIxOWQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI3MTk5LCJwcyI6IkxvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+
+vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiNTRhMGJmNmQtZjJiNS00YjJhLTk0MmMtNzk4ZmIxMjk1MjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI3MTk5LCJwcyI6IkxvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+
+vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiNmQ2MDA4NjQtMzJkYS00OWZkLWJhZjQtN2RmMDUxNzYyNDU0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI3MTk5LCJwcyI6IkxvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
