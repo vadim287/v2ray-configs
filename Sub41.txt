@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?obfs=salamander&amp%3Bobfs-password=Telegram--%3E%40Ln2Ray&amp%3Bsni=gavazn.55994421.xyz&amp%3Binsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%20%40kafing_2
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.de5.net&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.de5.net#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40kafing_2
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=%2F%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.v6.rocks&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40kafing_2
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?security=none&amp%3Bencryption=none&amp%3Bhost=mitivpn.global.ssl.fastly.net&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40kafing_2
@@ -253,3 +252,4 @@ vless://8ccf9188-925e-4287-efd2-04002478ddb5@8.208.10.169:8443?mode=gun&amp%3Bse
 vless://8ccf9188-925e-4287-efd2-04002478ddb5@8.208.10.169:8443?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp%2F1.1&amp%3Btype=grpc&amp%3BserviceName=%40narcod_ping&amp%3Bsni=narcod.numallas.space#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40narcod_ping
 vless://10620434-ba3a-496d-f218-2019ecdf34de@8.208.10.169:8443?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp%2F1.1&amp%3Btype=grpc&amp%3BserviceName=%3Ca#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40narcod_ping
 vless://10620434-ba3a-496d-f218-2019ecdf34de@8.208.10.169:8443?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp%2F1.1&amp%3Btype=grpc&amp%3BserviceName=%40narcod_ping&amp%3Bsni=narcod.numallas.space#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40narcod_ping
+vless://eb1409f1-e6c6-453a-9ca1-9aaec37724f6@narcod-ping.numallaf.shop:47511?type=tcp&amp%3Bpath=%2F&amp%3Bhost=zula.ir&amp%3BheaderType=http&amp%3Bsecurity=none#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40narcod_ping

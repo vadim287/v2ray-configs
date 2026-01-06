@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=9103#MCI-@V2rayAlpha--16
 vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=9103#🇩🇪AZARBAYJAB1
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupgrade&path=/@saeedtelcom?ed=2048&host=unitedkingdom.iranfastspeed.net&security=tls&fp=chrome&alpn=h2,http/1.1&sni=unitedkingdom.iranfastspeed.net#@CaV2ray ⚡️
@@ -253,3 +252,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.141:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?mode=gun&security=none&encryption=none&authority=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=grpc#🇫🇷⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
