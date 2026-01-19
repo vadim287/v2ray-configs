@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:4d5b::1]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ConfigV2RayNG
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:8453::1]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ConfigV2RayNG
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:c427::1]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@ConfigV2RayNG
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ConfigV2RayNG
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=nalog.ru#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
@@ -253,3 +251,5 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws?ed&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&type=ws&allowInsecure=0&sni=terazhedi.info#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://1c7b120a-1744-4917-8f3a-edee04e84d6b@v2shop10.bing-net.com:4910?flow=&type=tcp&headerType=http&host=varzesh3.com&path=&security=none#@vmessorg
