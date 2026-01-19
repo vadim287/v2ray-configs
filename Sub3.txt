@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#WiFi-@V2rayAlpha-40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjc1MTQ5NjBhODY5MDdk@54.37.78.193:11201#WiFi-@V2rayAlpha-5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.185.37:990#ALL-@V2rayAlpha--37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#✅سرورهابیشتردرکانال:prrofile_purple@✅
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#WiFi-@V2rayAlpha-1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMmZONVpod0tya2dZMDJneVpVeVR0@92.62.251.201:443#@v2rayngzendegimamad🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#✅سرورهای بیشتردرکانال:prrofile_purple@✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#🇳🇱 ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#ConfigV2RayNG
@@ -253,3 +247,9 @@ vless://28fc5226-e0bc-42c0-877d-b5159b6324ce@141.227.134.118:18928?mode=gun&secu
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@v2rayngzendegimamad🕊️
 vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.77:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f4b4a6365558ea2e#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+vless://298a5e17-6af7-43ec-8582-c6f7312e3592@fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=364994a6f61fc955#All-@V2rayAlpha--3
+vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?encryption=none&type=xhttp&mode=auto&host=jetuk43.global.ssl.fastly.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇺🇸 @EVAY_VPN
+vless://2ad3d767-3527-4f11-b277-5c5e9105bc96@104.16.1.106:8080?mode=auto&path=/&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@maxb17.musicdoon.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#All--@V2rayAlpha-21
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@maxb17.musicdoon.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#✅سرورها بیشتردرکانال:prrofile_purple@✅
+vless://2ce48b7b-6271-4dae-b894-2a58bf382787@frx.fastdbn.com:443?mode=auto&security=reality&encryption=none&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&fp=chrome&spx=/&type=xhttp&sni=deb.debian.org#@v2rayngzendegimamad🕊️
