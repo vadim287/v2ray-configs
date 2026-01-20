@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.109.47:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.0.228:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn5.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.0.64:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn1.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://00c49863-6d15-4289-9229-841ee5f7868c@84.23.53.103:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AEE
@@ -253,3 +252,4 @@ vless://e258977b-e413-4718-a3af-02d75492c349@74.48.200.172:443/?type=ws&encrypti
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e4027120-8fa4-4cb2-8ca3-a5a6cbe38c2b@check-host.net:8080/?type=ws&encryption=none&flow=&host=rayOtanOtrmNnOtenOtl.terminal-kaneop-none.SARBAZIT.COM&path=%2Ftelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%3Fed%3D80#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e258977b-e413-4718-a3af-02d75492c349@77.238.231.179:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://e5620157-a9aa-4c61-aeee-111d905a0f11@5a8zk0c-rv2iu7qvhjvxcxkwqeru95sw.lymary829.workers.dev:443?encryption=none&security=tls&sni=5A8ZK0c-RV2Iu7QvHjVxCxkwqeru95sw.LyMarY829.WoRKERS.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=5a8zk0c-rv2iu7qvhjvxcxkwqeru95sw.lymary829.workers.dev&path=%2FeyJqdW5rIjoieXI0ZlhmZktNUTUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
