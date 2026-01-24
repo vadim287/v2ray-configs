@@ -4,9 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-
-
-
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiaWNlc291cmNlIiwicG9ydCI6ODAsIm5ldCI6IndzIiwiYWRkIjoiam9pbi1iZWRlLnZtZXNzb3JnLmZ1biIsImFpZCI6IjAiLCJpZCI6IjA2OTA0ZjAxLTQxMjAtNDVkNS1iMGNlLWZlNzY0ZWU1OWU5OCIsImhvc3QiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiXC8ifQ==⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
 
 
@@ -253,3 +250,6 @@ vless://495c0dad-3268-4470-ac57-887c5089db0d@visa.com:443?path=%2F&security=tls&
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?encryption=none&security=tls&sni=ziyong.boringdad.netlib.re&allowInsecure=1&type=ws&path=%2F#%3E%3E%40v2line%3A%3AUS
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443/?type=ws&encryption=none&flow=&host=ziyong.boringdad.netlib.re&path=%2F&security=tls&sni=ziyong.boringdad.netlib.re&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=&encryption=none&host=snapp.ir&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AIN
+vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@www.perplexity.ai:80/?type=ws&encryption=none&flow=&host=icy-block-acf1.exhume-skirt-smirk.workers.dev&path=%2FHLW3JoJi6BADhOry16#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ANL
