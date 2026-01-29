@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://x79svebo1f7b@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=1&host=5m2b654fvfrv.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=5m2b654fvfrv.zjde5.de5.net#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://u2k1jh0og5vn@104.17.162.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=1&host=oq788320mz7kfruyec7b0q1l4bojfire1bp9lmu7.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=oq788320mz7kfruyec7b0q1l4bojfire1bp9lmu7.zjde5.de5.net#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#%3E%3E%40prrofile_purple%3A%3AUS
 vless://07a21b46-f4a6-47b6-89d1-98375c44262f@104.17.164.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net#%3E%3E%40prrofile_purple%3A%3AUS
@@ -253,3 +252,4 @@ vless://2dfb0dd6-65c9-46fe-bd43-776a9e015d8e@69.84.182.20:443?security=tls&sni=r
 
 vless://2dfb0dd6-65c9-46fe-bd43-776a9e015d8e@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.9
 
+vless://2dfb0dd6-65c9-46fe-bd43-776a9e015d8e@94.131.123.236:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20TR%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
