@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://482b0b81-a1ed-4000-889e-7ca01dbf3838@lortboas.srjofood.ir:9447?security=none&type=tcp&headerType=http&path=/&host=soft98.ir#Telegram:@config_proxy
 vless://488bf4fc-ae7d-48da-a1e7-31429996e0b5@ens.zdshop.ir:80?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
 vless://488bf4fc-ae7d-48da-a1e7-31429996e0b5@its.zdshop.ir:80?mode=packet-up&path=/category/music?ed=8880&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=newsong.ir&type=xhttp#🚀 | @ConfigV2RayNG 65
 vless://488bf4fc-ae7d-48da-a1e7-31429996e0b5@its.zdshop.ir:80?mode=packet-up&path=/category/music?ed=8880&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=newsong.ir&type=xhttp#@filembad
@@ -253,3 +252,4 @@ vless://82002dfb-ed44-485c-8f64-5bff2ba8c4f9@tun.sap-rehan.ir:6189?encryption=no
 vless://82002dfb-ed44-485c-8f64-5bff2ba8c4f9@tun.sap-rehan.ir:9682?encryption=none&type=tcp&headerType=http&path=/path&host=soft98.ir#@meliproxyy
 vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@n1761184282.74qxv.top:443?path=/824dc1b1-e35b-4121-ad73-9acaf13d6410&security=tls&encryption=none&insecure=0&host=n1761184282.74qxv.top&type=ws&allowInsecure=0&sni=n1761184282.74qxv.top#⚡Telegram = @prrofile_purple
 vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@n1761184282.74qxv.top:443?path=/824dc1b1-e35b-4121-ad73-9acaf13d6410&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=n1761184282.74qxv.top&type=ws&allowInsecure=0&sni=n1761184282.74qxv.top#@icv2ray
+vless://8295a1e0-ab60-4626-b45a-319eda66b1f7@kamyab.b-cdn.net:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kamyab.b-cdn.net#
