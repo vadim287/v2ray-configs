@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://bpb-trojan@ipbaz.ping-box.com:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#WiFi-@V2rayAlpha--4
 trojan://bpb-trojan@ipbaz.ping-box.com:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#جهت اتصال رایگان و دور زدن فیلترینگ به ما بپیوندید @chlra85
 trojan://bpb-trojan@singbox.lu567890.us.kg:443?path=/tr?ed=2560&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#@proxymelimon لطفا برای حمایت جوین شید
 trojan://bpb-trojan@www.csgo.com:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#@meliproxyy
@@ -253,3 +252,4 @@ vless://235197ba-d15f-456b-a3c4-cce04dd5149c@chatgpt.com:2087?path=/?TELEGRAM-MA
 vless://235a353d-7995-43ec-9fb4-c8b3fa0313e6@st2.pmme5.top:27443?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#channel : @freedomofinfor
 vless://236e6345-7ca2-4569-85b4-b6172a783896@178.239.145.4:13857?security=none&encryption=none&host=webmail.yjc.ir&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://236e6345-7ca2-4569-85b4-b6172a783896@178.239.145.4:13857?security=none&encryption=none&host=webmail.yjc.ir&headerType=http&type=tcp#Config 4 - @lebertad
+vless://23738bc2-fced-4b6f-872c-08140d40b392@172.64.152.23:2053?security=tls&encryption=none&insecure=1&host=lahes.viwo.online&fp=chrome&type=ws&allowInsecure=1&sni=lahes.viwo.online#Telegram:@config_proxy
