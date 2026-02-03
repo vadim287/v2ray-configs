@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?security=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=r4fnviw9jl4i4rx.zjde5.de5.net&amp%3Bfp=random&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=r4fnviw9jl4i4rx.zjde5.de5.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40itv2ray%20%231
-vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3Dabasbijan2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40itv2ray%20%232
-vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=capitalnet.jokerv2ray.store&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=joinchannel.jokerv2ray.store#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%231
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&amp%3Bpath=/&amp%3Bhost=capitalnet.sameasyou.sbs&amp%3Bsecurity=tls&amp%3Bfp=firefox&amp%3Balpn=h2%2Chttp/1.1&amp%3Bsni=joinchannel.sameasyou.sbs#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%232
 vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?amp%3Bencryption=none&amp%3Bhost=snapp.ir&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@188.114.98.0:443?path=/%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=l.ayovo.netlib.re&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=l.ayovo.netlib.re#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
@@ -252,4 +249,7 @@ vmess://eyJhZGQiOiJkZWFybWIuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJl
 
 
 vmess://eyJhZGQiOiJkdWJhd3RnZm5ld2kuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZmxrZmh6eiIsInBvcnQiOjIwNTIsInBzIjoi5b635Zu9SHrkuIvovb3kuJPnlKggfCAweF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+
+
+vmess://eyJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoidHRhc2ZzZ3dyLjc2ODk4MTAyLnh5eiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J2ZGZ5dWV1c2YiLCJwb3J0IjoxMTgyNywicHMiOiLmvrPlpKfliKnkupo0LVR1bm5lbCB8IDAuOHhfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 
