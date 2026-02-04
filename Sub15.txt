@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@172.64.152.23:443?path=/35.78.229.176:443&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#channel : @freedomofinfor
 vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?path=/35.78.229.176:443&security=tls&encryption=none&insecure=1&host=delta090.qzz.io&type=ws&allowInsecure=1&sni=delta090.qzz.io#@v2rayngzendegimamad🕊️
 vless://ea1ec3ca-ba07-41a2-925f-7fdb24fba880@f1.springpaatogh8.store:2083?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=gamepc.sorza.ir#💗 @Bluefilter_org | تلگراممون 💗
 vless://ea1ec3ca-ba07-41a2-925f-7fdb24fba880@f3.springpaatogh8.store:2087?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=chess.sorza.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=chess.sorza.ir#💗 @Bluefilter_org | تلگراممون 💗
@@ -252,4 +253,3 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tl
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@icv2ray
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@meliproxyy
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@vpnbaz 🪟
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#Channel : @Mrsoulb 🏴🏳

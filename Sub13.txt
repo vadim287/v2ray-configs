@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://c191fbad-8e14-414f-b861-3852207a000b@sr63.bexra.fun:2082?security=none&encryption=none&headerType=none&type=tcp#@config_v2rayy
 vless://c1c41a89-a647-4fde-a77a-49d65922e836@zone.dea.fx2hub.ir:31665?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@filembad
 vless://c1c41a89-a647-4fde-a77a-49d65922e836@zone.lv.flicknet.ir:54233?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@filembad
 vless://c1c41a89-a647-4fde-a77a-49d65922e836@zone.lv.flicknet.ir:54233?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram:@config_proxy 💦
@@ -252,4 +253,3 @@ vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=/Tel-@V2ray
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#IR-@V2rayAlpha-5
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=/Tel-@YamYamProxy&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#IR-@YamYamProxy-5
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=/assets&security=tls&encryption=none&host=DiprOX.pages.DEV&fp=chrome&type=ws&sni=DiprOX.pages.DEV#@PRS_MLBB
-vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=/assets&security=tls&encryption=none&host=DiprOX.pages.DEV&fp=chrome&type=ws&sni=DiprOX.pages.DEV#@meliproxyy
