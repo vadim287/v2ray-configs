@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a9fb751f-26c2-45fa-9480-8b9ac8a8a511@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#telegram : @datax_proxy
 vless://ab24332f-18a9-4394-90fd-3319787b4e12@k1.site.asan-ps.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=Orghosin1.com&type=xhttp#⚡Telegram = @prrofile_purple
 vless://abb26a5a-3223-476f-a732-4c66f6a116ab@fi4.srv.cdnopl.link:6443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=debug.resolvertest.doh.umbrella.com&sid=6ba85179e30d4fc2#channel : @freedomofinfor
 vless://abfee984-e98c-4081-bfcf-71446001d63c@80.253.249.4:2020?security=reality&encryption=none&pbk=nE2hZn0u63xEpxsPPy-Ey-X7GF8ukrHOMnACtetllSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=acff98#AL 32 @Outline_Vpn
@@ -253,3 +252,4 @@ vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?encrypt
 vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@config_v2rayy
 vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@lyriffy
 vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#lyriffy
+vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#⚡Telegram = @prrofile_purple

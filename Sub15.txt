@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?path=/213.35.108.135:12596&security=tls&encryption=none&host=afrcloud4.c01.kr&type=ws&sni=afrcloud4.c01.kr#پروکسی دایمی
 vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?path=/213.35.108.135:12596&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#جهت اتصال رایگان و دور زدن فیلترینگ به ما بپیوندید @chlra85
 vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?path=/213.35.108.135:12596&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#🇪🇬@SimChin_iR جوین شید
 vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?path=/213.35.108.135:12596&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#@Magsin_Vpn
@@ -253,3 +252,4 @@ vless://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&typ
 vless://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#VayNora
 vless://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#👽[TELEGRAM"@ALIXTSO]👽
 vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#@V2RAY_VMESS_free mci
+vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#@V2rayBaaz
