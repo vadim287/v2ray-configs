@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@172.105.29.241:8086?security=reality&type=tcp&headerType=none&path=&host=&sni=stackoverflow.com&fp=chrome&pbk=OIYG0kOVwCLP_Zkw_-uKRwX0jCcJkZxMADpTML4n0yU&sid=9b1a0779152db496#🇨🇦 Canada (Reality)
-vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@193.134.100.165:1133?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@filembad
-vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@193.134.100.165:1133?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#Config 4 - @lebertad
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@193.134.100.165:1133?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#جوین شید قط نشید @shankamil
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@193.134.100.165:1133?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#یام یام پروکسی
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@193.134.100.165:1133?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
@@ -253,3 +250,6 @@ vless://b2ca47b5-d8c1-4303-b2db-701f2ab2db00@support-for-teachers.ir.new19server
 vless://b2ca47b5-d8c1-4303-b2db-701f2ab2db00@support-for-teachers.ir.new19server.ir:80?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
 vless://b2ca47b5-d8c1-4303-b2db-701f2ab2db00@support-for-teachers.ir.new19server.ir:80?security=none&encryption=none&headerType=none&type=tcp#⚪678 @v2ray_configs_pools (ملی شکن)
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#IR-@V2rayAlpha-13
+vless://b39af306-2967-4b68-931e-f78a8065678e@pol2.creativelife.monster:49873?security=none&encryption=none&headerType=none&type=tcp#@OnNetX جوین شو
+vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#Config 2 - @lebertad
+vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
