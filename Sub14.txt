@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9f0d6a8a-4a41-4295-8fa4-32957ccc59fa@nelsonmandela.elterido.ir:2083?path=/api03&security=tls&alpn=h2,http/1.1&encryption=none&host=de.elterido.ir&fp=chrome&type=ws&sni=de.elterido.ir#⚡Telegram = @SOSkeyNET
-vless://9f0d6a8a-4a41-4295-8fa4-32957ccc59fa@vladimirputin.elterido.ir:2083?path=/api03&security=tls&alpn=h2,http/1.1&encryption=none&host=de.elterido.ir&fp=chrome&type=ws&sni=de.elterido.ir#⚡Telegram = @SOSkeyNET
-vless://9f3716f3-739e-472f-b1a1-5f875f4eb76f@love.abriabri.ir:8001/?type=tcp&encryption=none&path=///AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVAbriVAbriVPN--AbriVPN--AbriVPN--AbriVPN--v&headerType=http&security=none#@AbriVPNbot-نصف شبی
 vless://9f53e1cf-95f1-4e07-85f5-3cd07d3685a4@5.75.205.170:12263?security=&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
 vless://9f53e1cf-95f1-4e07-85f5-3cd07d3685a4@5.75.205.170:12263?security=&encryption=none&headerType=none&type=tcp#🇩🇪
 vless://9f53e1cf-95f1-4e07-85f5-3cd07d3685a4@5.75.205.170:12263?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@sogoandfuckyourlove
@@ -253,3 +250,6 @@ vless://b2ca47b5-d8c1-4303-b2db-701f2ab2db00@support-for-teachers.ir.new19server
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#IR-@V2rayAlpha-13
 vless://b345a751-61fd-42c4-c7d8-c18cc117210f@cf.mahdi383ir.website:2082?path=/mahdi_383ir&security=none&encryption=none&host=kh2w7vurh3iplepp5zkyjtwclmwuvvp0iwgpvwy.mahdi383ir.website&type=httpupgrade#Channel : @Mrsoulb 🏴🏳
 vless://b34a3f27-77da-4416-bee2-af614620829a@188.121.121.223:1000/?encryption=none&type=tcp&headerType=http&host=AKLISvpn@AKLISvpn@AKLISvpn@@AKLISvpn@AKLISvpn@@AKLISvpn@AKLISvpn@@AKLISvpn@AKLISvpn@@AKLISvpn@AKLISvpn@@AKLISvpn@AKLISvpn@&path=/football/league/28/جام-جهانی#@v2rays_ha 7665
+vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837/?encryption=none&host=myket.ir&type=tcp&headerType=http#⚡Telegram = @SOSkeyNET
+vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#کانفیگ رایگان = t.me/arisping
+vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#⚡Telegram = @SOSkeyNET
