@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4f5077b-3628-450c-92f9-b129b8a641a7@212.113.123.230:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.denditop.site&fp=chrome&security=reality&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&sid=9c2378562188c3cb#%E2%98%A2%EF%B8%8F77%40proxy_kafee
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%E2%98%A2%EF%B8%8F87%40proxy_kafee
-vless://4603e54d-b023-4947-83e7-70025416f306@158.160.105.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#%E2%98%A2%EF%B8%8F88%40proxy_kafee
 vless://4603e54d-b023-4947-83e7-70025416f306@158.160.221.132:51102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#%E2%98%A2%EF%B8%8F89%40proxy_kafee
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#shankamil
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@chatgpt.com:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=ds1-mx-fn154-protection.iranlease.com&path=/&sni=ds1-mx-fn154-protection.iranlease.com&fp=chrome&alpn=http/1.1#@irmeliy
