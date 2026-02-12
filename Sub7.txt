@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://11a1ac42-9e55-4977-b24e-6f6026a32765@Ge10.Jet-Channel.Top:443?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&fp=chrome&type=tcp&sni=skyroom.online,gharar.ir,igap.net#channel : @freedomofinfor
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
 vless://11e41a32-6672-48a0-b9cb-c8694242ecff@158.160.223.36:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#🦚86@oneclickvpnkeys
 vless://11e41a32-6672-48a0-b9cb-c8694242ecff@158.160.223.36:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#🦚81@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://288c4dca-6236-46fb-989c-5b3f9ed361fe@eng29.digitunnel.org:444?flow=&type
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=/&security=tls&alpn=h3&encryption=none&insecure=0&host=vless.hubp.de&fp=chrome&type=ws&allowInsecure=0&sni=vless.hubp.de#@V2rayNG3
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=gozar1.i2fed.com&fp=chrome&type=ws&allowInsecure=1&sni=gozar1.i2fed.com#@v2rayngzendegimamad🕊️
+vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
