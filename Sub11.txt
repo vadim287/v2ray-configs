@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@icv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.89.138:2096/?allowInsecure=0&encryption=none&insecure=0&security=tls&sni=sni.111000.indevs.in&type=ws#@v2rays_ha 8294
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.89.138:2096/?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@v2rays_ha 8306
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.89.138:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@Kamkarstore
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.89.138:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@erfanandroid
@@ -253,3 +251,5 @@ vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?encryption=none
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.60:9831?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#Telegram:@meowvip1 *201*
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@94.183.162.68:9850?encryption=none&security=none&type=tcp&headerType=http&host=pro30afzar.com#🔥 Telegram: @wiki_tajrobe
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@Pinterest.com:80?path=/containers/fi&security=none&encryption=none&host=filterchi-zanet-jendas.global.ssl.fastly.net&type=ws#Telegram:@meowvip1 *196*
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@imgur.com:80?encryption=none&security=none&type=ws&host=madar-benyamin-salavat.global.ssl.fastly.net&path=/containers/fi#🔥 Telegram: @wiki_tajrobe
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@imgur.com:80?path=/containers/fi&security=none&encryption=none&host=madar-benyamin-salavat.global.ssl.fastly.net&type=ws#Telegram:@meowvip1 *198*
