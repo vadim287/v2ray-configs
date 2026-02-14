@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.152.23:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🦌CONFIGFARSI
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.configfarsi695fce27aa549.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.configfarsi695fce27aa549.workers.dev#@configfarsi
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev#@configfarsi
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.configfarsi695fd4636f1c8.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.configfarsi695fd4636f1c8.workers.dev#🦌CONFIGFARSI
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.configfarsi69805c0f2aac7.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.configfarsi69805c0f2aac7.workers.dev#🦌CONFIGFARSI
@@ -251,5 +253,3 @@ vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@access-fl18.agveit.pro:443?type=tcp
 vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@access-fl19.agveit.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=S-D4kQId5XHhQxYh_TD5fUAW9zfa_4_OrlAjtnOWhRE&sid=ba3fe1630303a6fd&sni=queuev4.vk.com&path=&host=#Config 2 - @lebertad
 vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@access-fl2.agveit.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Of-nyhm70iX_X3XkNG66QavhNT24UX4OH-JczZtu6Fw&sid=bbd09923a56acca1&sni=queuev4.vk.com&path=&host=#Config 1 - @lebertad
 vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@access-fl20.agveit.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NVWVdnXU9u2-BYijDIu1a7eMghHhswdvKRcpkV-PGnE&sid=d4400be266704385&sni=queuev4.vk.com&path=&host=#Config 2 - @lebertad
-vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@access-fl21.agveit.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mrJIDpjeflH1MlMAay2yTm7A4hb89ZrJR7xtJufisAE&sid=b68b2c6feedc0c05&sni=queuev4.vk.com&path=&host=#Config 3 - @lebertad
-vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@access-fl22.agveit.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=qFtvR1w8LHcwmmO5AvrRbOjeKx1PCWtsvEu1U1to6lw&sid=6f8a26f3d476b9ed&sni=queuev4.vk.com&path=&host=#Config 4 - @lebertad
