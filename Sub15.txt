@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=asbs-osds.global.ssl.fastly.net#@filembad
-vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#[2946] - Telegram : @V2All
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#✅سرورهایبیشتردر:prrofile_purple@✅
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#@icv2ray
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@172.64.152.23:443?path=/45.76.183.217=49292&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#@X_RAY_VPN1 ♨️
@@ -253,3 +251,5 @@ vless://7c268c1a-f64a-49ad-b0be-6dc3d9678866@CF3.FASTSPEEDS.IR:8443?mode=multi&s
 vless://7c268c1a-f64a-49ad-b0be-6dc3d9678866@CF8.FASTSPEEDS.IR:8443?mode=multi&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=vless&sni=de5.roshdadcollection.ir#Config 4 - @lebertad
 vless://7c36b51d-8360-4109-8eb1-f804aeb9d9af@f1.springpaatogh8.store:8443?path=?ed=2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#@canfingV2rayNG
 vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#🇨🇭@V2RAY_VMESS_free mtn
+vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@93.115.25.177:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#Telegram:@config_proxy 🔥
+vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@93.115.25.177:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#🇱🇹 @V2RAY_VMESS_free

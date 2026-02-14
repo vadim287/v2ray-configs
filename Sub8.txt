@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0f1e2d3c-4b5a-6978-8091-a2b3c4d5e6f7@104.26.10.78:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=edge.example.io&type=ws&sni=edge.example.io#@kamkarstore
-vless://0f6595f3-adf7-4ed3-b922-09aeb15d66b4@193.111.248.88:15018?path=/&security=none&encryption=none&host=193.111.248.88&type=ws#@v2box
 vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@193.9.49.212:2087?encryption=none&security=tls&sni=vaaaaay.i-farm.ir&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#کانفیگ رایگان = t.me/arisping
 vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?encryption=none&security=tls&sni=dariush-kharabkar.global.ssl.fastly.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/site#کانفیگ رایگان = t.me/arisping
 vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?path=/site#TELEGRAM-ConfigV2rayy---#TELEGRAM-ConfigV2rayy---#TELEGRAM-ConfigV2rayy---#TELEGRAM-ConfigV2rayy---#TELEGRAM-ConfigV2rayy&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dariush-kharabkar.global.ssl.fastly.net#⚡Telegram = @prrofile_purple
@@ -253,3 +251,5 @@ vless://2029f593-b286-4cfa-9e66-a32911ead107@5.75.196.213:16544?security=none&en
 vless://2029f593-b286-4cfa-9e66-a32911ead107@5.75.196.213:16544?security=none&encryption=none&headerType=none&type=tcp#جوین چنل شید قط نشید@shankamil
 vless://2029f593-b286-4cfa-9e66-a32911ead107@5.75.196.213:16544?security=none&encryption=none&headerType=none&type=tcp#🛡 V 26 @Outline_Vpn
 vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
+vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#@X_RAY_VPN1
+vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#@icv2ray
