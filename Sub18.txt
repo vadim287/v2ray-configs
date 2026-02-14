@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a41e01c3-94a3-4fd0-c1e1-e7bab798c4c0@srfremehdi-1.vahidtoni.life:2096?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=@v2raysrv&sni=srfremehdi-1.vahidtoni.life#VayNora
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#@V2rayNG3
 vless://a44e0875-210f-4941-9062-89b6361a14c6@185.21.14.199:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#IR-@V2rayAlpha--24
 vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&insecure=1&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=teams.live.com.afrcloud1.c01.kr#@v2rayngzendegimamad🕊️
@@ -253,3 +252,4 @@ vless://b8313afd-5754-4be3-89fb-31741e3c26f6@172.67.175.120:443?path=/&security=
 vless://b83a74d9-1b86-49fe-8aa0-02036f999d4e@85.133.197.32:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#کانفیگ بیشتر @famoushaji
 vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?encryption=none&type=tcp&headerType=none&security=none#@FREE_VPN02🎳
 vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=&encryption=none&headerType=&type=tcp#@meliproxyy
+vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#@Golestan_VPN - 🕊️
