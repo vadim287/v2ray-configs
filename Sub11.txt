@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@cpanel.j-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#https://t.me/allproconf
 vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@cpanel.whaletm2.site:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@filembad
 vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@cpanel.whaletm2.site:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#https://t.me/allproconf
 vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@ir-2.j-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@filembad
@@ -253,3 +252,4 @@ vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?path=/download&securit
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?security=none&type=ws&path=/download&host=diarasup2.global.ssl.fastly.net#🇩🇪[openproxylist.com] vless-DE
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&allowInsecure=0&encryption=none&type=tcp&host=uptvs.com&path=/&headerType=http&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN

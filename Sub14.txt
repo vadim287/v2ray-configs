@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.178.227:8443?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#Telegram:@config_proxy 🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.178.227:8443?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#⚡Telegram = @SOSkeyNET
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.200.30.202:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@flyv2ray
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.58.50.134:443?path=/?ed=2560&Telegram🇨🇳@vpnbaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@vpnbaz 🎗
@@ -253,3 +252,4 @@ vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#@MxV2ray
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#@shankamil عضو چنل شید متصل بمونید
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#@vpnbaz 🎗
+vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#https://t.me/VIPV2rayNGNP
