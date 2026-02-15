@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.2.219:80?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?ed=2560&security=none&encryption=none&host=eston.global.ssl.fastly.net&type=ws#TM (@AZARBAYJAB1)
 vless://0910a0ab-bbf3-450e-a91a-a3dfb85ee33a@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=1&allowInsecure=1&type=ws&host=afrcloud22.mmv.kr&path=/#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night#hope of freedom - @anotherme_night
 vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80/?type=ws&encryption=none&flow=&path=/getWorkerUpdates#🪝64@oneclickvpnkeys
 vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?encryption=none&security=none&sni=nl-78w-c.southnetworks.cloud&type=ws&path=/getWorkerUpdates#Config 1 - @lebertad
@@ -253,3 +249,7 @@ vless://1a5b443d-42f3-4e8e-b980-2ebf9e74a45d@87.239.110.251:443?encryption=none&
 vless://1a5b443d-42f3-4e8e-b980-2ebf9e74a45d@89.169.162.214:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747&sni=yandex.ru#⚡Telegram = @SOSkeyNET
 vless://1a5b443d-42f3-4e8e-b980-2ebf9e74a45d@89.169.162.214:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=yandex.ru#⚡Telegram = @SOSkeyNET
 vless://1a76028b-537d-4f52-87b5-4a97d80212b7@8.pcaspian-service.ir:443/?path=/path&security=tls&encryption=none&insecure=0&host=deytafarest.shop-games.ir&fp=chrome&type=ws&allowInsecure=0&sni=deytafarest.shop-games.ir#@v2rays_ha 8788
+vless://1a76028b-537d-4f52-87b5-4a97d80212b7@8.pcaspian-service.ir:443?path=/path&security=tls&encryption=none&insecure=0&host=deytafarest.shop-games.ir&fp=chrome&type=ws&allowInsecure=0&sni=deytafarest.shop-games.ir#⭕ @vpnbaz
+vless://1a76028b-537d-4f52-87b5-4a97d80212b7@8.pcaspian-service.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=deytafarest.shop-games.ir&path=/path&sni=deytafarest.shop-games.ir&fp=chrome#@+config_v2rayy+
+vless://1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws#🥊 Tel : @ProxyVPN11 ⟵
+vless://1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws&note=@freeOnlineVPN#🇨🇦 - CA - @freeOnlineVPN

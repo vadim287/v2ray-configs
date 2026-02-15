@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱@FreakConfig
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱@black_star_vpn
-vless://891300bc-11b2-4b24-8056-b329b098888b@144.124.228.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=CAeYEGeK9PPbDDn1l-_qzK0gwYN9-zFaF7k8LiZqlQQ&sid=7dc11b109bb00df1#💞30@oneclickvpnkeys
-vless://891300bc-11b2-4b24-8056-b329b098888b@216.106.187.194:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=t.me&fp=chrome&security=reality&pbk=sg2tKPvraASV-iF2qIJ1Tk4MpIdymoMOrFO9-ANaUVA&sid=30c2592b42db6b#⚡Telegram = @SOSkeyNET
 vless://891300bc-11b2-4b24-8056-b329b098888b@216.106.187.194:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=t.me&fp=chrome&security=reality&pbk=sg2tKPvraASV-iF2qIJ1Tk4MpIdymoMOrFO9-ANaUVA&sid=30c2592b42db6b#🪝17@oneclickvpnkeys
 vless://891300bc-11b2-4b24-8056-b329b098888b@216.106.188.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=replit.com&fp=chrome&security=reality&pbk=nB_v48IVDHr2iFctMv2nFh_QjoZc4msXmHw362IIiS8&sid=22a0a4382482#💞69@oneclickvpnkeys
 vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=readthedocs.org&fp=chrome&security=reality&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&sid=a1590469acbe31#💞56@oneclickvpnkeys
@@ -253,3 +249,7 @@ vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=t
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#E122
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#vmesskhodam
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#✅سرورهایبیشتردر:prrofile_purple@✅
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=backup.f-sub.cfd&fp=chrome&type=ws&sni=backup.f-sub.cfd#Telegram+:+v2ray_configs_pools
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=backup.f-sub.cfd&fp=chrome&type=ws&sni=backup.f-sub.cfd#https://t.me/v2ray_configs_pools
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#@icv2ray
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#@canfingV2rayNG

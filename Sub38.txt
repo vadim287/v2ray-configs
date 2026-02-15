@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%ACSG-3.1.195.148-0292
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.130.53-0289
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#%F0%9F%87%B2%F0%9F%87%A6MA-154.70.207.97-0309
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%ACSG-3.1.195.148-4749
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-0297
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-0299
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%ACSG-3.1.195.148-0291
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0285
@@ -253,3 +248,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443/?type=ws&encrypti
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.238:2096?path=%2F%3Fed%3D2560%26%2@V2rayng_Fast-&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%A5%B9%F0%9F%A5%B97
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?encryption=none&security=tls&sni=o00o.snip.qzz.io&fp=chrome&type=ws&host=o00o.snip.qzz.io&path=/Tel-@V2rayAlpha#@chillguy_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#@chillguy_vpn
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.64.155.209:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#@chillguy_vpn
+vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@104.17.147.22:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@chillguy_vpn
+vless://f625ba3b-93dc-4a87-9e69-f39a2f16ff98@51.250.4.119:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=7426b0c03ef009dc#@chillguy_vpn
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@pl.jojack.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=a7ab02dfcc1f2c04#@chillguy_vpn
