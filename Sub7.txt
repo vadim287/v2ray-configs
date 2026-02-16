@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@188.114.98.0:443/?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=/assignment#@v2rays_ha 9159
+trojan://humanity@188.114.98.0:443/?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rays_ha 9082
+trojan://humanity@188.114.98.0:443/?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@v2rays_ha 9064
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@X_RAY_VPN1
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🛡 V 45 @Outline_Vpn
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#https://t.me/allproconf
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[[@KIA_NET] 🇨🇦 CA-11997
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[[@config_v2rayy] 🇨🇦 CA-11997
@@ -248,8 +253,3 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#@v2rayngzendegimamad🕊️
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#🇮🇷 IR 40 @Outline_Vpn
-vless://09ef4c6e-fcb2-4e51-a5bd-bea6ef4f66aa@am.citymobileshop.top:24171?security=&encryption=none&headerType=http&type=tcp#telegram ☂️ dailyv2ry
-vless://09ef4c6e-fcb2-4e51-a5bd-bea6ef4f66aa@am.citymobileshop.top:24171?security=&encryption=none&headerType=http&type=tcp#telegram ⚡️ dailyv2ry
-vless://09ef4c6e-fcb2-4e51-a5bd-bea6ef4f66aa@am.citymobileshop.top:24171?security=&encryption=none&headerType=http&type=tcp#telegram 🌟 dailyv2ry
