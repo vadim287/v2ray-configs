@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443?path=/hV829BTVzg35A6ueyyZnWd&security=tls&alpn=http/1.1&host=nMk.288288.sHOP&type=ws&sni=nMk.288288.sHOP#@Black_Star_Vpn
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443?security=tls&sni=nMk.288288.sHOP&alpn=http/1.1&type=ws&host=nMk.288288.sHOP&path=/hV829BTVzg35A6ueyyZnWd#⚡Telegram = @SOSkeyNET
 trojan://5e95dfjr-jwdi-p5d6-mg6m-zil2maz2k9fw@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 trojan://612qc4uq-vcs3-sjdf-cvsp-sxeaoao5d84e@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
@@ -252,4 +253,3 @@ trojan://ow1fm0qtt1nh@www.visa.com:8443?path=/?ed=2560&security=tls&alpn=http/1.
 trojan://telegram-id-directvpn@13.36.190.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#VayNora
 trojan://telegram-id-directvpn@13.37.141.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@13.39.52.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@13.39.52.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#سرورهای رایگان و پرسرعت : vpn_Sra@

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b16bb9a9-8247-4937-939f-08b179699249@vpnazadie.voicesofiran.org:443?encryption=none&security=tls&sni=vpnazadie.voicesofiran.org&insecure=1&allowInsecure=1&type=ws&host=voicesofiran.org&path=/vless-tls#@VPNAZADIE
 vless://b16bb9a9-8247-4937-939f-08b179699249@vpnazadie.voicesofiran.org:80?encryption=none&security=none&type=ws&host=voicesofiran.org&path=/vless-ntls#@VPNAZADIE
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?path=/IVApi/UK/3&security=none&encryption=none&type=ws#Em010
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?path=/IVApi/UK/3&security=none&encryption=none&type=ws#IR-@V2rayAlpha--12
@@ -252,4 +253,3 @@ vless://be6111d8-5844-4b25-95aa-e64a08662db5@ihp.masterdom.ir:443?path=/?ed=2560
 vless://be6111d8-5844-4b25-95aa-e64a08662db5@ihp.masterdom.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=tr15sa.mrnafis.com&type=ws&allowInsecure=0&sni=tr15sa.mrnafis.com#@ConfigV2RayNG
 vless://be6111d8-5844-4b25-95aa-e64a08662db5@ihp.masterdom.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=tr15sa.mrnafis.com&type=ws&allowInsecure=0&sni=tr15sa.mrnafis.com#@V2rayngSeven
 vless://be6111d8-5844-4b25-95aa-e64a08662db5@ihp.masterdom.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=tr15sa.mrnafis.com&type=ws&allowInsecure=0&sni=tr15sa.mrnafis.com#@flyv2ray
-vless://be6111d8-5844-4b25-95aa-e64a08662db5@ihp.masterdom.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=tr15sa.mrnafis.com&type=ws&allowInsecure=0&sni=tr15sa.mrnafis.com#Channel : @Mrsoulb 🏴🏳
