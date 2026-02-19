@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-privatevpns@15.237.153.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.158.73.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.158.73.0:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#@Trick_mobil
+trojan://telegram-id-privatevpns@3.124.221.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.126.3.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.69.220.38:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+trojan://telegram-id-privatevpns@3.69.220.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.75.51.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_proxy_npv+❄️+@ClouddVPN
 trojan://telegram-id-privatevpns@3.78.198.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.78.198.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 trojan://telegram-id-privatevpns@3.78.198.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 TCP-TLS | @Express_alaki | src @PrivateVPNs
@@ -245,11 +253,3 @@ vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&alpn
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=b12a6eea4807ca4e.1323.world#VayNora
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@uk.1323.world:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=1323.world#@canfingV2rayNG
 vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#@meliproxyy
-vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#MCI-@V2rayAlpha--15
-vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#shankamil
-vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@194.87.216.7:47030?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&path=&host=#⚡Telegram = @SOSkeyNET
-vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@194.87.216.7:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&sni=github.com&path=&host=#⚡Telegram = @SOSkeyNET
-vless://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=best1.api-tel.xyz&fp=chrome&type=ws&allowInsecure=0&sni=best1.api-tel.xyz#@V2rayNG3
-vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rapidpars.com&fp=chrome&security=reality&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&sid=661ee8b0696b45#📥27@oneclickvpnkeys
-vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443?security=reality&encryption=none&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rapidpars.com&sid=661ee8b0696b45#🔘 T.me/V2HUBIR | Join Now ✅️
-vless://0eda410f-ef9a-40b6-99c9-917ffb6d4b22@1002.kingfisher.top:10000?security=reality&type=tcp&sni=www.python.org&fp=chrome&flow=xtls-rprx-vision&pbk=xaL947o_X586spUQ-Q956KA7RnEeSAjeONwbAnonGTE#Config 3 - @lebertad
