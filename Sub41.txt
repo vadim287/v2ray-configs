@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443/?type=tcp&encryption=none&flow=&security=tls&sni=b12a6eea4807ca4e.1323.world&alpn=h2&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@85.192.40.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&sid=#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://0a542d0e-4d05-418f-97c2-94d0455005da@31.56.205.56:20553?path=%2Fupload&security=&encryption=none&type=ws#%3E%3E%40v2rayng_fast%3A%3AFI
@@ -253,3 +252,4 @@ vless://ffc1bcfa-4846-4bee-be26-5d7464f91e3d@chatgpt.com:443?path=%2FeyJqdW5rIjo
 vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AAU
 vless://jina@20.79.160.49:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 vless://jina@4.185.113.10:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-418511310-direct.yektanet.co#%3E%3E%40v2rayng_fast%3A%3ADE
+vless://nasnet@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&headerType=none#%3E%3E%40ultrasurf_12%3A%3AXX
