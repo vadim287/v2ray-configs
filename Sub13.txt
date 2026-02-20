@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@5.160.152.113:2075?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
 vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@dendenmark.madarhome.ir:2075?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#Black_Star_Vpn
 vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@dendenmark.madarhome.ir:2075?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@NetZoneNews
 vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engen.madarhome.ir:2076?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@NetZoneNews
@@ -253,3 +252,4 @@ vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=/aza
 vless://3e0f8249-3f4e-4368-b31a-23f6af0fdfe4@c1.3.site.azadsb.sbs:8443?path=/azad74562&security=tls&alpn=h2,http/1.1&encryption=none&type=ws&sni=siNgle.lenalizmy0ve.ir#🐦‍🔥-@SPEEDS_VPN
 vless://3e2c0c52-2fa3-4851-823e-55865703cd1e@F1.HaMrAhCoNf.Ir:8443?path=/&security=tls&encryption=none&insecure=0&host=p3-sync-01.hamrahconfig.ir&fp=chrome&type=ws&allowInsecure=0&sni=sp.hamrahconfig.ir#@flyv2ray
 vless://3e2c0c52-2fa3-4851-823e-55865703cd1e@F1.HaMrAhCoNf.Ir:8443?path=/&security=tls&encryption=none&insecure=0&host=p3-sync-01.hamrahconfig.ir&fp=chrome&type=ws&allowInsecure=0&sni=sp.hamrahconfig.ir#منبع کانفینگ : V2rayNG_SPDNet
+vless://3e2c0c52-2fa3-4851-823e-55865703cd1e@F3.HaMrAhCoNf.Ir:2086?path=/&security=none&encryption=none&host=e78bf6bdb8c11525.p3.node3.hamrahconfig.ir&type=httpupgrade#@flyv2ray
