@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.198.19:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#⚡Telegram = @config_v2rayy
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.198.19:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.86.22:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.86.22:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@chillguy_vpn
@@ -252,4 +253,3 @@ vless://1464720a-a342-4e1c-ae46-b23d01797b43@172.64.145.38:443?path=/SpringHQ@Sp
 vless://1467dff0-8dc8-47c4-b610-a3f4d3c957fa@amin3.trmas-ps.ir:5365?mode=gun&security=reality&encryption=none&pbk=NK3PvnX2gb2OtICilZNiotEzrx7fauEvr4JNQyWaJkc&fp=chrome&type=grpc&serviceName=20987vless&sni=google.com#[@ConfigPositive]+#8
 vless://1467dff0-8dc8-47c4-b610-a3f4d3c957fa@vip.aminvip.online:8368?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#[@ConfigPositive]+#6
 vless://1467dff0-8dc8-47c4-b610-a3f4d3c957fa@vip2.aminvip.online:5362?security=reality&encryption=none&pbk=NK3PvnX2gb2OtICilZNiotEzrx7fauEvr4JNQyWaJkc&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[@ConfigPositive]+#3
-vless://1467dff0-8dc8-47c4-b610-a3f4d3c957fa@vip3.aminvip.online:5358?security=reality&encryption=none&pbk=LX5xXGMnMyrGl7gjHbZEzcRclDnsTKg2uZBSYwKp9iY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[@ConfigPositive]+#5
