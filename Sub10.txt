@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-privatevpns@13.39.26.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.51.180.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@15.188.233.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.236.213.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.195.254.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.120.252.86:22222?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#@v2_mod_shop🚀 🇩🇪
 trojan://telegram-id-privatevpns@3.65.47.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.65.47.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
@@ -253,3 +248,8 @@ vless://0d2df56b-f9a0-41ee-88a0-1097a32a1d54@81.12.93.4:2087?security=reality&en
 vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@91.234.147.72:6663?security=none&encryption=none&headerType=http&type=tcp#Em8
 vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@91.234.147.72:6665?security=none&encryption=none&headerType=http&type=tcp#Em10
 vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@cp4.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_sw2c336e5d63601c9e-sfX.digitstocks.ir#Em7
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@cpo1.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_swc440fac7cc7d4e2c-sfX.digitstocks.ir#Em3
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@cpo2.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_sw0e3c715e776bde30-sfX.digitstocks.ir#Em4
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@cpo3.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_sw25cab2f05fc83d28-sfX.digitstocks.ir#Em5
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@fsxtl1.azangooo.ir:443?mode=packet-up&path=/fsxh&security=tls&encryption=none&insecure=0&host=mawxich.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#Em6
+vless://0d8f14c2-2a17-4ceb-aa99-00f6b4d812cb@my.kiomars.shop:6610?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c3b6ed4da7a983c7#Em1
