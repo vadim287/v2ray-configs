@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.225:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.240:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@V2rayBaaz 🌏
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@51.75.69.164:2003?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&serviceName=cdn-cgi&allowInsecure=1#@meliproxyy
 vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&sid=5f22&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
@@ -253,3 +252,4 @@ vless://9f51682b-487d-4912-9418-c659cbe8f4ed@zen-core.megaconfig.com:1198?securi
 vless://9f582467-6af2-4bdd-848e-93fdd84486ad@chatgpt.com:2087?encryption=none&type=ws&host=ce.xo-connection.ir&path=/darkstrange&security=tls&sni=ce.xo-connection.ir#Free_vpn02 Free_vpn02
 vless://9f9e4cd6-8713-48f4-8a3c-6cfdcc90d0ba@ip4.hamrahto.com:2082?encryption=none&security=none&type=ws&host=hm3333.mutee.com.tr&path=/api/stream?ed=2080#[@ConfigPositive]+#5
 vless://9fb89911-315d-46b3-9d9a-720a46bedde9@85.133.202.88:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#✅کانفیگهای بیشتردر:prrofile_purple@✅
+vless://9fdcde3e-e48b-4b83-aedb-5b0de9b9f5e0@85.133.228.75:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@meliproxyy
