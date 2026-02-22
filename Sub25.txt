@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:443?path=/?ed=2048&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=duseldorf.appleseraj.ir&type=ws&allowInsecure=0&sni=duseldorf.appleseraj.ir#@icv2ray
-vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:443?path=/?ed=2048&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=1&host=france.mastermarly.ir&type=ws&allowInsecure=1&sni=france.mastermarly.ir#@icv2ray
-vless://a4d89b95-0e8a-454a-ab13-f89d22e045f8@18.159.51.221:46860?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
-vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?encryption=none&security=none&type=httpupgrade&host=hotchoclate.graphapp.ir&path=/v2rayroad#@V2rayBaaz
 vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?path=/v2rayroad&security=none&encryption=none&host=hotchoclate.graphapp.ir&type=httpupgrade#@AzadioNet راه بازه
 vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?path=/v2rayroad&security=none&encryption=none&host=hotchoclate.graphapp.ir&type=httpupgrade#configraygan_14
 vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?path=/v2rayroad&security=none&encryption=none&host=hotchoclate.graphapp.ir&type=httpupgrade#⚡Telegram = @
@@ -253,3 +249,7 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&s
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&sni=all-fm2.netsnap.ir.#configraygan_86
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&sni=all-fm2.netsnap.ir.#⚡️🇨🇦•|@confegraigan
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#@MxV2ray
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#@V2rayBaaz🫧
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#@proxy_kafee
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#@vmess_iran 👈جوین شو اینجا
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#ConfigV2RayNG_86

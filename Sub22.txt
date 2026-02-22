@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@18.185.95.213:443?security=none&encryption=none&headerType=none&type=tcp#🌐 TCP-None | @Express_alaki | src @FarazV2ray
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@18.185.95.213:443?security=none&encryption=none&headerType=none&type=tcp@freenettir
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.121.74.249:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 12
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.121.74.249:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 12
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.121.74.249:443?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🎱
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 8
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 8
@@ -253,3 +249,7 @@ vless://90d41578-2041-4b68-a8eb-18f22acab21a@103.21.244.48:443?path=/ws&security
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@173.245.49.206:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=posit.kindling.workers.dev&fp=chrome&type=ws&sni=posit.kindling.workers.dev#https://t.me/V2ry_Proxy
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@173.245.49.206:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@173.245.49.59:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel
+vless://90d41578-2041-4b68-a8eb-18f22acab21a@173.245.58.80:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=posit.kindling.workers.dev&fp=chrome&type=ws&sni=posit.kindling.workers.dev#https://t.me/V2ry_Proxy
+vless://90d41578-2041-4b68-a8eb-18f22acab21a@173.245.58.80:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel
+vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.135:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=posit.kindling.workers.dev&fp=chrome&type=ws&sni=posit.kindling.workers.dev#https://t.me/V2ry_Proxy
+vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.135:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel

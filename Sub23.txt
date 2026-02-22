@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://90d41578-2041-4b68-a8eb-18f22acab21a@173.245.58.80:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=posit.kindling.workers.dev&fp=chrome&type=ws&sni=posit.kindling.workers.dev#https://t.me/V2ry_Proxy
-vless://90d41578-2041-4b68-a8eb-18f22acab21a@173.245.58.80:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel
-vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.135:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=posit.kindling.workers.dev&fp=chrome&type=ws&sni=posit.kindling.workers.dev#https://t.me/V2ry_Proxy
-vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.135:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.191:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.194:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=posit.kindling.workers.dev&fp=chrome&type=ws&sni=posit.kindling.workers.dev#https://t.me/V2ry_Proxy
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.194:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#@WedBaZTel
@@ -253,3 +249,7 @@ vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?encryption=none&
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#🇩🇪All³ | @BigSmoke_Config تلگرام و روبیکا
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#@V2RAYROZ | 👻
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#@meliproxyy
+vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#@vpnbaz 🎱
+vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#🇳🇱@FreakConfig
+vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#🔥 Telegram: @wiki_tajrobe
+vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#🔵@chillguy_vpn
