@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-privatevpns@3.65.47.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.75.51.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_proxy_npv+❄️+@ClouddVPN
+trojan://telegram-id-privatevpns@35.156.94.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.11.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.11.162:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#https://t.me/allproconf
 trojan://telegram-id-privatevpns@35.181.213.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -250,6 +253,3 @@ vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.72.49.247:443?security=&encryptio
 vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.72.49.247:443?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.72.49.247:443?security=none&encryption=none&headerType=none&type=tcp#@VPNFARDAD
 vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.72.49.247:443?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
-vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.79.229.48:443/?type=tcp&encryption=none&flow=#تو کانال نتورلد نباشید قطع میشن@networld_vpn
-vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.79.229.48:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 11
-vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.79.229.48:443?security=none&encryption=none&headerType=none&type=tcp#@V2rayBaaz
