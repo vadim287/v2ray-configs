@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.122.209:80?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
-ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.191.146:80?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
 ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.40.47:80?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
 ss://dea6986e-f445-48cc-be0b-a39b5296485f@199.232.86.255:80?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
 ss://e2a10e9f-2d3e-4d49-ab59-d2ea39dfa3d1@77.232.142.30:443?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=W4hZiiPSnSBqrrYkD0z6J_DVR8wTfP5epmuQ6RbV_Sc&sid=43dcff53849b81e6&type=tcp&headerType=none#https://t.me/allproconf
@@ -253,3 +251,5 @@ trojan://telegram-id-directvpn@35.181.213.186:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@35.181.35.59:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.181.68.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@52.28.169.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@52.28.169.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
+trojan://telegram-id-directvpn@52.29.75.76:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN

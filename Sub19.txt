@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5cc29db0-b892-4b20-f553-1492ffab1818@3.70.239.118:44053?type=tcp&encryption=none&security=none#@meliproxyy
-vless://5cccb4da-8aee-4b01-be84-2056265e52dc@104.21.75.124:443?encryption=none&security=tls&sni=bBBbBB.taiWan2028.indeVs.iN&type=ws&host=BBBbBb.tAIWAn2028.iNDevS.IN&path=/s2VHv9VUVzg35A6ueyyZnWd#@chillguy_vpn
 vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?encryption=none&security=none&type=ws&host=shatel5.imstron.org&path=/=@mhsenivxx##@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
 vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?encryption=none&security=none&type=ws&host=shatel5.imstron.org&path=/=@mhsenivxx#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
 vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?path=/=@mhsenivxx&security=&encryption=none&host=shatel5.imstron.org&type=ws#@Hddify
@@ -253,3 +251,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=/&securit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@chillguy_vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🛡 V 80 @Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.245.108.104:2053?path=/?ed=2560&telegram🇨🇳@wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@AzadioNet کانفیگ تست شده⚡️
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳@wangcai2#🇳🇱The+Netherlands+->+🇩🇪Germany+⚡@DeamNet_Proxy
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#@chillguy_vpn

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@FarazV2ray
-vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@Hddify
 vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@Selinc
 vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@VPNFARDAD
 vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@WedBaZTel
@@ -253,3 +251,5 @@ vless://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053/?path=/&securit
 vless://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?path=/&security=tls&encryption=none&host=kcx4.sellink.ir&fp=chrome&type=ws&sni=kcx4.sellink.ir#@@V2rayng_Fast کانال تلگرام 🕊️
 vless://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?path=/&security=tls&encryption=none&host=kcx4.sellink.ir&fp=chrome&type=ws&sni=kcx4.sellink.ir#@appsooner کانال تلگرام 🕊️
 vless://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?path=/&security=tls&encryption=none&host=kcx4.sellink.ir&fp=chrome&type=ws&sni=kcx4.sellink.ir#@filembad
+vless://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?path=/&security=tls&encryption=none&host=kcx4.sellink.ir&fp=chrome&type=ws&sni=kcx4.sellink.ir#@freenettir
+vless://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?path=/&security=tls&encryption=none&host=kcx4.sellink.ir&fp=chrome&type=ws&sni=kcx4.sellink.ir#@meliproxyy

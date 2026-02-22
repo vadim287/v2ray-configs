@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a09d2931-c961-4f4e-9288-eab639c5fc03@91.234.147.37:6666?security=none&encryption=none&headerType=http&type=tcp#E13
-vless://a09d2931-c961-4f4e-9288-eab639c5fc03@91.234.147.37:6666?security=none&encryption=none&headerType=http&type=tcp#⚜️@HajmVPN⚜️
 vless://a09d2931-c961-4f4e-9288-eab639c5fc03@91.234.147.68:6665?security=none&encryption=none&headerType=http&type=tcp#E12
 vless://a09d2931-c961-4f4e-9288-eab639c5fc03@91.234.147.68:6665?security=none&encryption=none&headerType=http&type=tcp#⚜️@HajmVPN⚜️
 vless://a09d2931-c961-4f4e-9288-eab639c5fc03@94.183.150.47:8081?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@V2RAYROZ | 👻🚀
@@ -253,3 +251,5 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🥊 Tel : @ProxyVPN11 ⟵
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=afrcloud22.mmv.kr&path=/43.218.77.16&sni=Pulavpn11.afrcloud22.mmv.kr&fp=chrome#FooTNooD
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.97.6:443?path=/103.6.207.108=8080&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#🔆 Tel : @ProxyVPN11 ⟵
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/150.109.11.223=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#🔆 Tel : @ProxyVPN11 ⟵

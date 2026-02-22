@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f59916ed-86b0-4ca0-8652-4d99ef6db46d@nl.ir.netlinr.ir:443?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#@SPARTAN_YT قطع شد بیا چنل جدید میزارم
-vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@147.45.178.107:443?security=reality&type=tcp&headerType=&path=/&host=www.google.com&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#🇩🇪 Germany (FREE EOFVPN) Vless
 vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@194.87.216.140:443?security=reality&type=tcp&headerType=&path=/&host=www.google.com&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#🇳🇱​​ Netherlands (FREE EOFVPN) Vless
 vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@45.95.233.133:443?security=reality&type=tcp&headerType=&path=/&host=www.google.com&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#🇫🇷 France (FREE EOFVPN) Vless
 vless://f6436f4b-2bd5-4cd5-a388-2915bce1ecb3@home.asperwild.com:443?security=reality&encryption=none&pbk=9IHMTVOYFag2mm1hQuoL-JtyEnRyaP-XcVsHadXjZFM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=home.asperwild.com&sid=fabfbb5fb852cfd8#@VpnPinks 🎀 عضو باشید قطع نشید
@@ -253,3 +251,5 @@ vless://ff932085-992a-4a05-9361-6f6f9ddd56d9@190.93.244.96:2087/?security=tls&sn
 vless://ffc1bcfa-4846-4bee-be26-5d7464f91e3d@172.64.155.209:443?path=/eyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&host=withered-hall-2564.alirezaisamazing.workers.dev&fp=chrome&type=ws&sni=WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV#@chillguy_vpn
 vless://jina@135.220.73.1:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=jina-135220731-direct.yektanet.co&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#@en_vpn/کانفیگ های بیشتر
 vless://jina@135.220.73.1:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-135220731-direct.yektanet.co#فیلترشکن رایگان👈vpnowl@
+vless://jina@135.220.73.1:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-135220731-direct.yektanet.co#@V2rayng_market_1378
+vless://jina@135.220.73.1:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-135220731-direct.yektanet.co#@en_vpn/کانفیگ های بیشتر

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.173.11:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@filembad
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.173.11:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🌐 WS-TLS | @Express_alaki | src @Hope_Net
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.68.69:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
 vless://da0e29ec-9407-43a7-a70e-94f005504427@ip3-cloud.tyryqyserver.ir:2052/?path=/?ed=2053&security=none&encryption=none&host=norbert-cloud-de.ocean-pro.top&type=ws#@v2rays_ha 10572
 vless://da0e29ec-9407-43a7-a70e-94f005504427@ip3-cloud.tyryqyserver.ir:2052?path=/?ed=2053&security=none&encryption=none&host=norbert-cloud-de.ocean-pro.top&type=ws#Channel : @Daily_Configs
@@ -253,3 +251,5 @@ vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.67.73.233:443?security=tls&sni=
 vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@94.183.167.22:2027?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@speedtest.net:80?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#Telegram : @V2ynpv
 vless://e17bc97a-fc76-44e8-841a-89f3f0d8a198@fi.ezhikvpn.xyz:443/?type=grpc&encryption=none&flow=&sni=m.vk.com&fp=chrome&security=reality&pbk=YnlyHcYN37RANVyV8dRsj6LYMh99SQOcry0qJCNXHy4&sid=e7b5137aad54906f#Config 5 - @lebertad
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@FarazV2ray
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@Hddify
