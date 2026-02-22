@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0154d742-3233-4c61-f81c-7407fcf28b87@18.153.93.127:443?security=none&encryption=none&headerType=none&type=tcp#https://t.me/ConfigX2ray
 vless://0154d742-3233-4c61-f81c-7407fcf28b87@18.153.93.127:443?security=none&encryption=none&headerType=none&type=tcp#https://t.me/V2ry_Proxy
 vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.76.212.185:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 9
 vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.76.212.185:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 9
@@ -252,4 +253,3 @@ vless://10d7df50-b22d-406d-9e64-3e831fa0149e@3.71.50.207:44586?type=tcp&encrypti
 vless://10d7df50-b22d-406d-9e64-3e831fa0149e@3.71.50.207:44586?type=tcp&encryption=none&security=none#@meliproxyy
 vless://10d7df50-b22d-406d-9e64-3e831fa0149e@3.71.50.207:44586?type=tcp&encryption=none&security=none#[10127] - Telegram : @V2All
 vless://10d7df50-b22d-406d-9e64-3e831fa0149e@3.71.50.207:44586?type=tcp&encryption=none&security=none#⚡Telegram = @SOSkeyNET
-vless://1103ca05-8884-4099-afa8-99246dd8abe4@zari.hackers855.sbs:721?type=tcp&path=/&host=bmw.com&headerType=http&security=none#@Hope_Net-join-us-on-Telegram
