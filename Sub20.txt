@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@172.236.1.18:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#سرورهای رایگان و پرسرعت : vpn_Sra@
 vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@freenettir
 vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Telegram : @Daily_Configs
@@ -253,3 +252,4 @@ vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&enc
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#📤75@oneclickvpnkeys
 vless://7b471aa5-9344-4567-96a9-82bec6427f85@18.159.129.85:443?security=none&encryption=none&headerType=none&type=tcp#configraygan_22
 vless://7b471aa5-9344-4567-96a9-82bec6427f85@18.199.103.58:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 22
+vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.64.7.13:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig

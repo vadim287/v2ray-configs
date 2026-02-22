@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ce837763-c7dc-4df6-9336-8edd2a0fcf3f@f2.hamrahconf.ir:8443/?type=ws&encryption=none&host=app-core-02.hamrahconfig.ir&path=/&security=tls&sni=uiuyoyw.hamrahconfig.ir#🌐 WS-TLS 📁 @ConfigV2rayNG (3)
 vless://ce837763-c7dc-4df6-9336-8edd2a0fcf3f@f3.hamrahconf.ir:8443/?type=ws&encryption=none&host=app-core-07.hamrahconfig.ir&path=/&security=tls&sni=uiuyoyw.hamrahconfig.ir#🌐 WS-TLS 📁 @ConfigV2rayNG (4)
 vless://ce9a9ca9-dd19-4329-9de8-bf6b6cf1d464@85.133.161.168:8080?path=/v1/stream/trk&security=none&encryption=none&host=anten.ir&type=ws#[@ConfigPositive]+#2
 vless://ce9a9ca9-dd19-4329-9de8-bf6b6cf1d464@85.133.161.168:8080?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=anten.ir&type=ws#Telegram : @V2ynpv
@@ -253,3 +252,4 @@ vless://d8cbb264-318d-4701-b517-f5355ae2923c@chatgpt.com:2053?path=/&security=tl
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@188.92.28.204:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#IR-@V2rayAlpha--6
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@93.152.207.254:34045/?type=tcp&encryption=none&flow=&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#📤50@oneclickvpnkeys
 vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@172.64.152.23:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/sw&sni=sw.getasa.ir&fp=chrome&mode=packet-up&alpn=h2#@config_v2rayy
+vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@172.65.139.41:25565?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@config_v2rayy
