@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://510d1634-6118-4639-8ba3-66d8d838b74d@firan.dtgoldservices.com:8443?encryption=none&security=tls&sni=firan.dtgoldservices.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://51278ccf-c9ad-438c-b9e7-12de5a9ac021@146.185.240.23:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#@v2ray_configs_pools 🌓
 vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=/eyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#@chillguy_vpn
 vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=/eyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#Config 5 - @lebertad
@@ -252,4 +253,3 @@ vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@18.153.207.189:39781?security=none&
 vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.125.18.51:39781?security=none&allowInsecure=0&encryption=none&type=tcp&path=Telegram=@N3TWRK &headerType=none#Join 🪖 @N3TWRK
 vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.125.18.51:39781?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.125.18.51:39781?security=none&encryption=none&headerType=none&type=tcp#@VPNFARDAD
-vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.125.18.51:39781?security=none&encryption=none&headerType=none&type=tcp#@v2_mod_shop🚀

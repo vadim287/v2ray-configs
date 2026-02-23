@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0a58ada9-9876-48f6-b44f-f23d51beb152@85.133.201.53:2526?security=none&encryption=none&host=telewebion.com/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=http&type=tcp#@FarazV2ray
 vless://0a707c67-adf3-4f94-b681-d41d548e6a09@50.7.87.85:443/?security=tls&flow=xtls-rprx-vision&sni=guixgnu.com&type=tcp&fp=chrome&alpn=h2,http/1.1#@v2rays_ha 10684
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#@v2rayngzendegimamad🕊️
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#MCI-@V2rayAlpha--13
@@ -252,4 +253,3 @@ vless://15fd0898-cc6f-4c8d-be37-742a6eb4c597@45.33.16.39:443?type=xhttp&path=/&h
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@146.75.64.0:80?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=none&encryption=none&host=sudo2018.ir&type=xhttp#@free_shekan
 vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.14.21:443/?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/131.186.26.129=30443#@v2rays_ha 10762
 vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.14.21:443/?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/131.186.26.129=30443#🇨🇦 WS-TLS | @Express_alaki | src @v2ray_configs_pool
-vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.14.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/131.186.26.129=30443#@chillguy_vpn
