@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443/?path=/107.174.121.122=443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#@v2rays_ha 10598
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.122=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@V2RAYROZ | 🍑
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.122=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@vpnbaz ☂️
 vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.122=443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr# vpnsal
 vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.122=443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#@V2rayBaaz
 vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.122=443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#@meliproxyy
@@ -250,6 +253,3 @@ vless://dfe772dd-48d6-44f4-9f2a-f19c9c5e798d@188.114.98.0:443?encryption=none&se
 vless://dfebedd9-0103-4a80-bdeb-4c7fe38c8848@masterserver1-masterserver1-masterserver1-masterserver1.canope7544.workers.dev:443?path=ws&security=tls&encryption=none&host=masterserver1-masterserver1-masterserver1-masterserver1.canope7544.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.canope7544.workers.dev#🔟 All Operators @MaSTeRSeRVeR1
 vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?security=none&encryption=none&headerType=none&type=tcp#[@ConfigPositive]+#1
 vless://e027cfe4-2fe9-4ff0-8203-433eaa3f6527@217.198.190.233:22560?encryption=none&security=none&type=tcp&headerType=http&host=Aparat.com#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-vless://e027cfe4-2fe9-4ff0-8203-433eaa3f6527@g2-de2-hz.a1mshop2.xyz:22560?encryption=none&security=none&type=tcp&headerType=http&host=aparat.com#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-vless://e027cfe4-2fe9-4ff0-8203-433eaa3f6527@g2-tun-uk.a1mshop2.xyz:13000?encryption=none&security=none&type=tcp&headerType=http&host=aparat.com#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-vless://e027cfe4-2fe9-4ff0-8203-433eaa3f6527@tr-tun.a1mshop2.xyz:22560?encryption=none&security=none&type=tcp&headerType=http&host=aparat.com#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
