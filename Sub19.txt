@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=/containers/fi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#horn_proxy 1
+vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@atawich.global.ssl.fastly.net:443?path=/containers/fi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=atawich.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=atawich.global.ssl.fastly.net#horn_proxy 8
+vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@pizzakakhi.global.ssl.fastly.net:443?path=/containers/fi&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=pizzakakhi.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=pizzakakhi.global.ssl.fastly.net#horn_proxy 7
+vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.70.227.1:28027/?type=tcp&encryption=none&flow=#Telegram:@config_proxy 🔥
+vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.70.227.1:28027?security=&encryption=none&headerType=&type=tcp#@canfingV2rayNG
 vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.70.227.1:28027?security=&encryption=none&headerType=&type=tcp#@v2raycan1 1
 vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.70.227.1:28027?security=&encryption=none&headerType=&type=tcp#Telegram: @proxyiranip آلمان 🇩🇪 566
 vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.70.227.1:28027?security=&encryption=none&headerType=&type=tcp#🇩🇪 TCP-None | @Express_alaki | src @v2ray_configs_pool
@@ -248,8 +253,3 @@ vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&se
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443/?encryption=none&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/#@v2rays_ha 10643
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?encryption=none&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/?ed&security=tls&fp=chrome&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#@FREE_VPN02-@FREE_VPN02
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?path=/?ed&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#@chillguy_vpn
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?path=/?ed&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#Config 4 - @lebertad
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?path=/?ed&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#Leviko 3
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?path=/?ed&security=tls&encryption=none&insecure=0&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾
-vless://5e01c65c-c662-4cf6-8d4f-7721f8ae523c@62.50.146.224:443?security=reality&encryption=none&pbk=ICOLwK5XaCT4d8pyRuDBwoT8WLp84_WfU0pUu3htBlE&headerType=none&fp=chrome&spx=/&type=tcp&sni=s3.firstvds.ru&sid=eb#💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇳🇱
-vless://5e488e2e-ad6b-45cd-b26f-e55f8d80957d@jquery.com:443?path=/eyJqdW5rIjoiSTBLNW9VSlBnbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=hek1x4b3bns6ue7lj3qqepfe4cn4br4uqkzxvqhzj9r6zhccz6i5ci8oud.hxq4tzmbzvlaulknzcsj.workers.dev&fp=chrome&type=ws&sni=Hek1X4B3Bns6uE7lj3QQePfe4Cn4br4uqKZxVQhZJ9r6zhccZ6I5ci8oUD.hxQ4tZmbzvlAUlkNzcsj.wOrKerS.Dev#فیلترشکن رایگان👈vpnowl@
