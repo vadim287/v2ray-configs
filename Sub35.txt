@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@37.218.247.35:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#🧿 Tel : @ProxyVPN11 ⟵
-vless://f5409195-0cae-410e-a4ce-f671347c06aa@94.182.129.246:22838?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none#🇩🇪[Telegram:NetifyVpn]
-vless://f5409195-0cae-410e-a4ce-f671347c06aa@94.182.129.246:22838?security=none&encryption=none&headerType=none&type=tcp#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
-vless://f55d25a5-3bb5-4209-a10f-729eb5482d95@vimopanel.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#🇫🇷@FreakConfig
 vless://f5625566-9b18-44ed-8837-ddcba63fb6d6@89.44.240.116:1000?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@meliproxyy
 vless://f5625566-9b18-44ed-8837-ddcba63fb6d6@89.44.240.116:1000?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#سرور های پرسرعت بیشتر در چنل🌋@vmesc
 vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@147.45.178.107:443?security=reality&type=tcp&headerType=&path=/&host=www.google.com&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#🇩🇪 Germany (FREE EOFVPN) Vless
@@ -253,3 +249,7 @@ vless://jina@135.220.73.1:443?encryption=none&flow=xtls-rprx-vision&security=tls
 vless://jina@135.220.73.1:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-135220731-direct.yektanet.co#فیلترشکن رایگان👈vpnowl@
 vless://jina@135.220.73.1:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-135220731-direct.yektanet.co#@V2rayng_market_1378
 vless://jina@135.220.73.1:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-135220731-direct.yektanet.co#@en_vpn/کانفیگ های بیشتر
+vless://jina@20.218.137.249:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=jina-20218137249-direct.yektanet.co&alpn=http/1.1&fp=chrome#🇩🇪DE_8|2.4MB/s
+vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#Telegram : @V2ynpv
+vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#فیلترشکن رایگان👈vpnowl@
+vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#IR-@V2rayAlpha-19

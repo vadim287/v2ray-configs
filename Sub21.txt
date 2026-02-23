@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.234.155:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#https://t.me/allproconf
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.234.155:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#configraygan_92
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&path=/#@chillguy_vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@v2ray_proxy_npv+❄️+@ClouddVPN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.238:2096?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#🔘 T.me/V2HUBIR | Join Now ✅️
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#@chillguy_vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇺🇸@Black_Star_Vpn
@@ -253,3 +249,7 @@ vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tl
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#🇳🇱@FreakConfig
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#🇺🇸@Black_Star_Vpn
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#🇺🇸@FreakConfig
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#@MARAMBASHI 💟
+vless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@18.199.80.116:19285?security=none&encryption=none&headerType=none&type=tcp#@v2_mod_shop🚀
+vless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@3.71.102.229:19285?type=tcp&encryption=none&security=none#@freenettir
