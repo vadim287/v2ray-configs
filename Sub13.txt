@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@198.62.62.99:2052?encryption=none&security=none&type=xhttp&host=updn.pabloping.pro&path=/pabloping&mode=auto#@en_vpn/کانفیگ های بیشتر
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052/?encryption=none&type=xhttp&mode=auto&host=atus.pabloping.pro&path=/pabloping&security=none#@v2rays_ha 11021
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?encryption=none&security=none&type=xhttp&host=nlbv1.pabloping.pro&path=/pabloping&mode=auto#@V2rayBaaz
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?encryption=none&security=none&type=xhttp&host=nlbv1.pabloping.pro&path=/pabloping&mode=auto#@WedBaZtel
@@ -253,3 +252,4 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&pa
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#@Hddify
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#@FarazV2ray
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?security=none&encryption=none&type=xhttp#configraygan_21
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?security=none&encryption=none&type=xhttp#configraygan_61
