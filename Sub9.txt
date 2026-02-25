@@ -3,6 +3,44 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@tgh.iran2029.indevs.in:443?path=/ElrtQ8CAz6RgfMaiN9LMya&security=tls&alpn=http/1.1&insecure=0&host=tgh.iran2029.indevs.in&type=ws&allowInsecure=0&sni=tgh.iran2029.indevs.in#Config 5 - @lebertad
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@yhj.huangshang2026.indevs.in:443?security=tls&alpn=h2&insecure=0&type=grpc&serviceName=ElrtQ8CAz6RgfMaQ7PCejkt2o&allowInsecure=0&sni=yhj.huangshang2026.indevs.in#Config 1 - @lebertad
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@yhj.iran2026.indevs.in:443?path=/ElrtQ8CAz6RgfMaiN9LMya&security=tls&alpn=http/1.1&insecure=0&host=yhj.iran2026.indevs.in&type=ws&allowInsecure=0&sni=yhj.iran2026.indevs.in#Config 1 - @lebertad
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@yu.huangdi2031.dpdns.org:443?security=tls&alpn=h2&insecure=0&type=grpc&serviceName=ElrtQ8CAz6RgfMaQ7PCejkt2o&allowInsecure=0&sni=yu.huangdi2031.dpdns.org#Config 4 - @lebertad
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@27.122.59.45:443?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#@v2ray_configs_pools
+trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#@chatbuzzteam
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?security=tls&sni=nji9768.006660666.xyz&alpn=http/1.1&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#Config 2 - @lebertad
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tls&sni=ttt6.006660666.xyz&alpn=http/1.1&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#Config 3 - @lebertad
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tls&sni=ttt6.006660666.xyz&alpn=http/1.1&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#Config 4 - @lebertad
+trojan://7M72gQuaaH@148.251.173.125:16512?type=tcp&security=tls#@V2rayNpvFilTer
+trojan://7b0ed263-ed4d-375f-9002-a932b1da098a@19249tj.matrixxx888.com:19249?security=tls&sni=eplcgame.com#Config 2 - @lebertad
+trojan://869e9086806483ca4744a4cb0f3d6e16@52.195.170.6:491?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#ConfigPositive TROJAN TLS
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be&path=/&host=_acme-challenge.2go.cloudns.be#Config 4 - @lebertad
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443/?type=tcp&security=tls#🇸🇬#ShineNET VPN (28)
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?path=/&security=tls&host=_acme-challenge.2go.cloudns.be&type=ws&sni=_acme-challenge.2go.cloudns.be#Config 5 - @lebertad
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443?security=tls&sni=hk1.sanfen001.pics#Config 1 - @lebertad
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tls#Config 2 - @lebertad
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#Config 4 - @lebertad
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#Config 5 - @lebertad
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#Config 1 - @lebertad
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@V2rayNG3
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#✅@AR14N24b
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#@V2rayNG3
+trojan://898kvvsh-br4z-vwlf-cn3u-mwdges51zd5h@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://8be1f222-92fc-4e84-a6e9-26c74713e3d3@bestcdn4.868863.xyz:2096?allowInsecure=1&sni=17720002261980.206352.xyz&type=ws&host=17720002267030.206352.xyz&path=/agraeabtegrrh#Config 3 - @lebertad
+trojan://8be1f222-92fc-4e84-a6e9-26c74713e3d3@bestcdn4.868863.xyz:8443?allowInsecure=1&sni=17720002268807.206353.xyz&type=ws&host=17720002261418.206353.xyz&path=/agrbniuh#Config 4 - @lebertad
+trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#Config 5 - @lebertad
+trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19211tj.matrixxx888.com:19211?type=tcp&sni=eplcgame.com&allowInsecure=1#Config 1 - @lebertad
+trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19226tj.matrixxx888.com:19226?type=tcp&sni=eplcgame.com&allowInsecure=1#Config 2 - @lebertad
+trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19236tj.matrixxx888.com:19236?type=tcp&sni=eplcgame.com&allowInsecure=1#Config 3 - @lebertad
+trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19237tj.matrixxx888.com:19237?type=tcp&sni=eplcgame.com&allowInsecure=1#Config 4 - @lebertad
+trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19239tj.matrixxx888.com:19239?type=tcp&sni=eplcgame.com&allowInsecure=1#Config 5 - @lebertad
+trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19242tj.matrixxx888.com:19242?type=tcp&sni=eplcgame.com&allowInsecure=1#Config 1 - @lebertad
+trojan://8r<[9'l6hAO#8ZQi@172.66.44.230:8443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=/tro8sFW1S91B6sZrM1?ed=2560#✅@AR14N24b
+trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@hinet.mjt000.com:443?security=tls#Config 2 - @lebertad
+trojan://92544946-dea2-4cd9-bd5b-32be565a5a62@bestcdn0.868863.xyz:2053?security=tls&sni=17718944728586.682637.xyz#Config 3 - @lebertad
+trojan://92544946-dea2-4cd9-bd5b-32be565a5a62@bestcdn0.868863.xyz:2087?security=tls&sni=17718944721098.682637.xyz#Config 4 - @lebertad
+trojan://92544946-dea2-4cd9-bd5b-32be565a5a62@bestcdn0.868863.xyz:2087?security=tls&sni=17718944721466.682637.xyz#Config 5 - @lebertad
 trojan://92544946-dea2-4cd9-bd5b-32be565a5a62@bestcdn0.868863.xyz:2096?security=tls&sni=17718944726671.682637.xyz#Config 2 - @lebertad
 trojan://92544946-dea2-4cd9-bd5b-32be565a5a62@bestcdn0.868863.xyz:8443?security=tls&sni=17718944725958.682637.xyz#Config 4 - @lebertad
 trojan://92544946-dea2-4cd9-bd5b-32be565a5a62@bestcdn1.868863.xyz:2053?allowInsecure=1&sni=17718944723450.206352.xyz&type=ws&host=17718944724815.206352.xyz&path=/agraeabtegrrh#Config 5 - @lebertad
@@ -215,41 +253,3 @@ trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=/assign
 trojan://humanity@chatgpt.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@v1.dabache.top:443/?type=tcp&security=tls&sni=www.multiplydose.com#@AkbarConfig👈کانفیگ روزانه در
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#vpnsal
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇩🇪All³ | @BigSmoke_Config
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇳🇱 |⚡@EuServer
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2_mod_shop🧨
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#Telegram @Ettehad_vpn
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#@v2rayngzendegimamad🕊️
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@Golestan_VPN 🆓 IRAN
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#@appsooner کانال تلگرام 🕊️
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Selinc
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#✅@AR14N24b
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷@FreakConfig
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#proxy (8)
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#🧿 Tel : @ProxyVPN11 ⟵
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
-trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@V2rayNG3
-trojan://lpdn6ip3-55g9-zp5y-tzfx-2n7hp9cpcvyu@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://m2mjd3hoa4fm@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&host=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net#telegram : @FergalVpnMod
-trojan://masterserver1@masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev#1️⃣ All Operators @MaSTeRSeRVeR1
-trojan://masterserver1@masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev#https://t.me/ConfigX2ray
-trojan://masterserver1@masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev#https://t.me/V2ry_Proxy
-trojan://masterserver1@masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev#⚡Telegram = @v2ray_configs_pools
-trojan://masterserver1@masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev:443?path=/?ed=2560&security=tls&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev#@vpnserverrr
-trojan://nozzfjrp-3g31-q8c4-2h4p-pj9h6pp4encn@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-trojan://ol0vhdoi-yyjz-fujr-2qlz-4hzl0xcjs3co@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://ow1fm0qtt1nh@www.visa.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=b0iepi8ffi9cjrl73wld5gri3f5rvb9.zjde5.de5.net#[🇨🇦]Telegram = @FergalVpnMod
-trojan://pgn1vq7r-e5mh-5nil-dnfd-10zn5wm44r2f@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://psycho@104.21.112.1:443/?type=tcp&security=tls&sni=pSYcho.sUeX12.IR#🏁RELAY-104.21.112.1-4647
-trojan://psycho@104.21.80.1:443/?type=tcp&security=tls&sni=PSYchO.SueX12.Ir#🏁RELAY-104.21.80.1-4646
-trojan://qauvj0rg-2qxu-q256-ft7e-6vcmiapoy8mg@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-trojan://qikju1vq-48fo-w75x-utk3-xpdb45gezz7t@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://s9ottrrg-euuc-w352-usbm-lzfn9kh8w9aq@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://telegram-id-directvpn@13.39.202.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@13.39.202.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🦉@FreeConfigForYou
-trojan://telegram-id-directvpn@15.188.162.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@15.188.225.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@15.188.225.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @v2ray_configs_pools
-trojan://telegram-id-directvpn@15.224.39.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
