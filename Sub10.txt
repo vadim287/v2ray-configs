@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#@meliproxyy
+trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#All-@V2rayAlpha-8
+trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#All-@WedBaZtel-8
+trojan://zp630tdUuD@194.150.166.151:52047?security=reality&sni=aws.amazon.com&fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sid=1abe0c286879&spx=/&allowInsecure=1&type=grpc#t.me/v2Line | Free | 3435 | United Kingdom
 trojan://zy6m4bv3-ily4-fc3n-809v-j0hyompv14bq@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 tuic://ce247dd9-adb8-465b-8e6a-3f841eccfd70:ce247dd9-adb8-465b-8e6a-3f841eccfd70@143.20.37.17:20000/?congestion_control=bbr&udp_relay_mode=native&sni=www.python.org&alpn=h3#🥎15@oneclickvpnkeys
 tuic://ce247dd9-adb8-465b-8e6a-3f841eccfd70:ce247dd9-adb8-465b-8e6a-3f841eccfd70@143.20.37.17:50000/?congestion_control=bbr&udp_relay_mode=native&sni=www.python.org&alpn=h3#🥎1@oneclickvpnkeys
@@ -249,7 +253,3 @@ vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@18.185.107.230:443?security=&encryp
 vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@18.193.89.207:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 16
 vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@18.193.89.207:443?security=none&encryption=none&headerType=none&type=tcp#🧢-@turbov2box
 vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@18.195.148.65:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 18
-vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.70.206.65:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 20
-vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.72.49.247:443?security=none&encryption=none&headerType=none&type=tcp#@VPNFARDAD
-vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.79.229.48:443?security=none&encryption=none&headerType=none&type=tcp#@WedBaZTel
-vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.79.229.48:443?security=none&encryption=none&headerType=none&type=tcp#Join : @MTMVPN 3

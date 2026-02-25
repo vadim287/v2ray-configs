@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9b4bf821-7aa5-48f1-8de4-c072c0574f90@3.64.10.232:33356?security=&encryption=none&headerType=none&type=tcp#@bored_vpn
+vless://9b4bf821-7aa5-48f1-8de4-c072c0574f90@3.64.10.232:33356?security=&encryption=none&headerType=none&type=tcp#@mehrosaboran
+vless://9b79496c-89b9-4284-a2b2-345bf7d30ae7@mnext.pingstore.net:8080?encryption=none&security=none&type=tcp&headerType=none#ConfigPositive VLESS 1
+vless://9b984ff2-2e5e-4e42-8557-fdf453f5ac9a@87.248.156.94:42020?security=none&encryption=none&headerType=none&type=tcp#[@ConfigPositive]+#1
 vless://9b984ff2-2e5e-4e42-8557-fdf453f5ac9a@87.248.156.94:42020?security=none&encryption=none&headerType=none&type=tcp#🆔️@AI_Duet🆔️@V2rayngsupbot
 vless://9be93141-a5d0-42d3-885d-0b2536f12a03@www.speedtest.net:8880?path=/@iraniV2ray_config,+@iraniV2ray_config/?ed=2560&security=none&encryption=none&host=iraniV2ray.nanowaash-shop.ir.&type=httpupgrade#🇩🇪---iraniV2ray_config
 vless://9c90d5bf-f232-4590-88c3-d4e24b7d5981@application-de-gateway.gocdn.ir:85?encryption=none&security=none&type=xhttp&host=application-de-gateway.gocdn.ir&path=/&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#ConfigPositive VLESS XHTTP 7
@@ -249,7 +253,3 @@ vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none
 vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#تلگرام : MTMVPN@
 vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#سرور های پرسرعت بیشتر در چنل🌋@vmesc
 vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
-vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir/V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz&headerType=http&type=tcp#@V2rayBaaz
-vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&headerType=http&type=tcp#telegram @mtmvpn
-vless://a44e0875-210f-4941-9062-89b6361a14c6@185.21.14.199:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#IR-@V2rayAlpha--24
-vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&insecure=1&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=teams.live.com.afrcloud1.c01.kr#@v2rayngzendegimamad🕊️
