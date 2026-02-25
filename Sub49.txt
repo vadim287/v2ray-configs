@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.214.104:3423?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0286
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU2hjZWs1eWRJV2JYRW5oSTJ2SXlt@62.113.114.116:42320#%F0%9F%87%B7%F0%9F%87%BARU-62.113.114.116-0265
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.1.175-0294
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.116.227:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.116.227-0304
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0295
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.89.176:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-0289
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.105-0298
-vmess://ewogICAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6jwn4emQ0EtNTEuNzkuMTAyLjI1My0wODM2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.236.32:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0290
 vmess://ewogICAgImFkZCI6ICJ2Zmd0eTYuMm5uLmNjd3UuY2MiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ2Zmd0eTYuMm5uLmNjd3UuY2MiLAogICAgImlkIjogIjRlNDVjMWI0LTkxMDctNDVkZC05OTk1LWNkZjdjYmI0NGQ5ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9pU1JXU0tVSktOdVh2VnpzWUhtc01ybk8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjIxNS4yNDAtNTIwMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInZmZ3R5Ni4ybm4uY2N3dS5jYyIKfQ==
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0296
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.132.38:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0306
@@ -253,3 +244,12 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260&type=tcp&headerType=none#🔵@chillguy_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc1Y2JmNjJkNmEzYTRm@57.129.95.45:11201
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#🔵@chillguy_vpn
+vless://94712dd9-17d8-4813-a118-cc487fadd137@77.83.245.189:27414/?type=tcp&encryption=none&sni=yandex.ru&alpn=irmeliy-channel%40.irmeliy-channel%40.irmeliy-channel%40.irmeliy-channel%40.irmeliy-channel%40.irmeliy-channel%40.irmeliy-&fp=chrome&security=reality&pbk=eiA4uP7O29DoX6lvwhjaIXPTANlwvPB1Jzom_V2Z5gE&sid=1ba8b4cd54627171#%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D8%AA%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%20%DA%A9%D9%86%DB%8C%D8%AF
+vless://3dcd6767-ec3e-4eeb-9fa6-c70b8661072f@panelsaf.netvip1.ru:2087?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&sid=e004&spx=/qZXSueXKzDB2L3I&type=tcp&headerType=none#@chillguy_vpn
+vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de3.teleport.lat&allowInsecure=1#@chillguy_vpn
+vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#@chillguy_vpn
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#@chillguy_vpn
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@Enzewa_Network👈جوین‌شوقطع‌نشی
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?path=%2F158.101.152.6%3D2919&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@Enzewa_Network👈جوین‌شوقطع‌نشی
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.1.195.148:8319#Telegram%3A%20%20%40CroSs_Guildd
