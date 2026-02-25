@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-directvpn@15.224.39.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@15.224.39.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#✅@AR14N24b
 trojan://telegram-id-directvpn@15.236.148.130:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.158.87.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -253,3 +252,4 @@ vless://05c11086-0adf-4219-8358-44d48cd9e09e@72.56.89.20:443?mode=auto&security=
 vless://05c11086-0adf-4219-8358-44d48cd9e09e@72.56.89.20:443?mode=auto&security=reality&encryption=none&pbk=vEtMCVEXkAJW1mF1oA-KNHb2JqS2NDeN8mtuAtVhNhk&fp=chrome&spx=/&type=xhttp&sni=www.speedtest.net&sid=e136d594039f#All-@V2rayAlpha-16
 vless://05c11086-0adf-4219-8358-44d48cd9e09e@72.56.89.20:443?mode=auto&security=reality&encryption=none&pbk=vEtMCVEXkAJW1mF1oA-KNHb2JqS2NDeN8mtuAtVhNhk&fp=chrome&spx=/&type=xhttp&sni=www.speedtest.net&sid=e136d594039f#All-@WedBaZtel-16
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@94.156.154.88:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#IR-@V2rayAlpha--20
+vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@94.156.154.88:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#🇩🇪All⁴ | @BigSmoke_Config

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.164:443?security=tls&sni=hkc.ylks.link&type=ws&path=/#t.me/entryNET/config=1858119752279353
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.180.51:2096?security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.180.51:2096?security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=/blue#@chillguy_vpn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.76.37.57:2083?path=/&security=tls&encryption=none&host=TG@juzibaipiao-橘子分享&type=ws&sni=kkd.ylks.link#🦉@FreeConfigForYou
@@ -253,3 +252,4 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#🇩🇪 |⚡@EuServer
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#🛡 V 34 @Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#🛡 V 43 @Outline_Vpn
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#@chillguy_vpn

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e68f6ab4-d2d0-4185-aae3-145e77b8bec6@mX-prO-WeB-Nine-Vs-Nl.gLOBaL.SSl.FAStly.NEt:443/?path=/&security=tls&encryption=none&host=mX-prO-WeB-Nine-Vs-Nl.gLOBaL.SSl.FAStly.NEt.&type=ws&sni=mX-prO-WeB-Nine-Vs-Nl.gLOBaL.SSl.FAStly.NEt.#@v2rays_ha 11199
 vless://e69ba407-fd9d-4185-bca7-7227ea50b8ad@CDN.halazzon.ir:443?path=/opt/W122DQP56XxXklMBRTXILPXVN32c011378932HPqc12Wq0Mlks0QoPpLlIisAB88?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ali-gr.sdcards1.ir&fp=chrome&type=ws&allowInsecure=0&sni=ali-gr.sdcards1.ir#🇩🇪 • configfarsi
 vless://e69ba407-fd9d-4185-bca7-7227ea50b8ad@cx1113.prodatabase.ir:1900?security=&encryption=none&headerType=http&type=tcp#🇮🇷 🇫🇮 • configfarsi
 vless://e69ba407-fd9d-4185-bca7-7227ea50b8ad@cx55141.prodatabase.ir:1500?security=&encryption=none&headerType=http&type=tcp#🇮🇷 🇩🇪 • configfarsi
@@ -253,3 +252,4 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=n
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=p1.thisiswe.uno&fp=chrome&allowInsecure=1&type=ws&host=p1.thisiswe.uno&path=/#کانال تلگرام : Free_VPN_CH@
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=p1.thisiswe.uno&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=p1.thisiswe.uno&path=/#🔥 Telegram: @wiki_tajrobe
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=p1.thisiswe.uno&fp=chrome&type=ws&host=p1.thisiswe.uno&path=/#کانال تلگرام : Free_VPN_CH@
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws#⚜️@HajmVPN⚜️

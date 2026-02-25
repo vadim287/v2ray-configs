@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws#⚜️@HajmVPN⚜️
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws#🧢-@turbov2box
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno# @MTMVPN 1
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#@mtmvpn
@@ -253,3 +252,4 @@ vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#@Spartan_YT
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#@v2box
 vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=&encryption=none&host=digikala.sorza.ir&type=ws#@chillguy_vpn
+vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=&encryption=none&host=digikala.sorza.ir&type=ws#https://t.me/V2ry_Proxy

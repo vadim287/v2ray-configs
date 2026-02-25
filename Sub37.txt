@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=&encryption=none&host=digikala.sorza.ir&type=ws#https://t.me/V2ry_Proxy
 vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=none&encryption=none&host=digikala.sorza.ir&type=ws#https://t.me/V2ry_Proxy
 vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?type=ws&path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&host=digikala.sorza.ir&security=none#@𝗣𝗨𝗟𝗔𝗩𝗣𝗡 ı 🇳🇱 ı 𝐕𝐢𝐏-cwoeotlk
 vless://f91b9e49-0cea-4793-9cb8-2d8d41690f47@info.speedtest2028.com:3289?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#[@ConfigPositive]+#3
@@ -253,3 +252,4 @@ vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&headerT
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#@v2rayngzendegimamad🕊️
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#IR-@V2rayAlpha-9
 vless://jina@20.79.160.49:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#@meliproxyy
+vless://jina@20.79.162.37:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-207916237-direct.yektanet.co#Telegram : @V2ynpv

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@www.wto.org:443?path=/sni.111000.dynv6.net/?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=wandering-term-f40f.moshe01.workers.dev&fp=chrome&type=ws&sni=wandering-term-f40f.moshe01.workers.dev#🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@www.wto.org:443?path=sni.111000.dynv6.net/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wandering-term-f40f.moshe01.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wandering-term-f40f.moshe01.workers.dev#@canfingV2rayNG
 vless://620e45f4-92f1-4be6-e118-3bc515509320@18.159.51.49:28279?encryption=none&security=none&type=tcp&headerType=none#بیا تا قطع نشی @proxy_v2ray_meli
 vless://620e45f4-92f1-4be6-e118-3bc515509320@18.159.51.49:28279?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 15
@@ -253,3 +252,4 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?encryption=none&
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?encryption=none&type=tcp&headerType=http&host=bmw.com&security=none#@FREE_VPN02
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp# telegram @mtmvpn
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@@V2rayng_Fast
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@ConfigV2RayNG

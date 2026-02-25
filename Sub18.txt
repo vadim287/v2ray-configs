@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&sni=aka.ms&type=grpc&alpn=h2,http/1.1#t.me/entryNET/config=1858108427734525
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&host=yopk.pages.dev&type=ws&sni=yopk.pages.dev#🐦‍🔥-@SPEEDS_VPN
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&host=yopk.pages.dev&type=ws&sni=yopk.pages.dev#🔘 @V2rayng_Fast | Join Now ✅️
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&insecure=1&host=yopk.pages.dev&type=ws&allowInsecure=1&sni=yopk.pages.dev#@Hddify
@@ -253,3 +252,4 @@ vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=&
 vless://4ca14b7d-7719-4756-df72-905e9cf37a73@18.196.176.150:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://4ca14b7d-7719-4756-df72-905e9cf37a73@18.196.176.150:443?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
 vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.71.111.224:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 19
+vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.71.78.215:443?security=&encryption=none&headerType=&type=tcp#@canfingV2rayNG

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@ConfigV2RayNG
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@ConfigV2RayNG کانالمون 💚
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@FarazV2ray
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#@VPNFARDAD
@@ -253,3 +252,4 @@ vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.192.239.112:443?security=none&en
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.195.116.169:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.195.116.169:443?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.121.110.238:443?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
+vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.121.110.238:443?security=&encryption=none=-@vmess_iran---@vmess_iran---@vmess_iran---@vmess_iran---@vmess_iran---@vmess_iran&headerType=none&type=tcp#@vmess_iran 2

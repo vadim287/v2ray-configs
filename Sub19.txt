@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.71.78.215:443?security=&encryption=none&headerType=&type=tcp#@canfingV2rayNG
 vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.76.221.181:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 17
 vless://4cb986b2-f314-4a99-b207-6cc82f10878a@83.228.231.196:56249?mode=gun&security=reality&encryption=none&pbk=H7KH4KYHGvXjsveYiAeVBxI-eOEjMC8A3-ZZrS493GA&fp=chrome&spx=/&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=cloudflare.com&sid=709dc24f43#@filembad
 vless://4cb986b2-f314-4a99-b207-6cc82f10878a@83.228.231.196:56249?mode=gun&security=reality&encryption=none&pbk=H7KH4KYHGvXjsveYiAeVBxI-eOEjMC8A3-ZZrS493GA&fp=chrome&spx=/&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=cloudflare.com&sid=709dc24f43#@freenettir
@@ -253,3 +252,4 @@ vless://591400f6-9db5-4e2f-8b56-4bcf99be1de5@2.188.233.3:443?security=none&encry
 vless://5921e091-fd96-473e-ed51-626e6b61f089@18.196.156.140:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 5
 vless://5921e091-fd96-473e-ed51-626e6b61f089@18.196.156.140:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://5921e091-fd96-473e-ed51-626e6b61f089@18.196.156.140:443?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
+vless://5921e091-fd96-473e-ed51-626e6b61f089@3.127.218.176:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none&headerType=none#🇩🇪[Telegram:NetifyVpn]
