@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2ray_NG
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
@@ -253,3 +252,4 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw2.ariahost1.top:2087?mode=gun&se
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw2.ariahost1.top:2087?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=&sni=SmArT.wEsTyAlI.iNfO#https://t.me/VIPV2rayNGNP
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw2.ariahost1.top:2087?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=SmArT.wEsTyAlI.iNfO#https://t.me/V2ry_Proxy
 vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?security=&encryption=none&headerType=none&type=tcp#MCI-@V2rayAlpha--27
+vless://e9d6b936-5164-40a0-9279-4b588ae1e29a@tamam-1.conf-tun.site:44441?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#Telegram : @V2ynpv

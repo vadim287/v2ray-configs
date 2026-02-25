@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443/?type=ws&encryption=none&flow=&host=rukawa.pages.dev&path=%2F&security=tls&sni=rukawa.pages.dev&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@172.64.155.209:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
@@ -253,3 +252,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#%F0%9F%87%A7%F0%9F%87%ACBG-95.164.113.198-0305
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#%F0%9F%87%A9%F0%9F%87%AADE-178.17.61.67-0302
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-0311
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU2hjZWs1eWRJV2JYRW5oSTJ2SXlt@62.113.114.116:42320#%F0%9F%87%B7%F0%9F%87%BARU-62.113.114.116-0264
