@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.132:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.187:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#@V2rayBaaz⛄️
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.187:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#@WedBaZtel
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.187:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#@chillguy_vpn
@@ -252,4 +253,3 @@ vless://ed9a0afe-1f54-40af-8821-0995cef0225a@api6.maps-yandex.net:10970?encrypti
 vless://eda30ec9-8200-449e-8cde-ccd8a558c2e3@etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080?encryption=none&security=tls&sni=etherfox.mzerati.vip.gift.cdn-pardaz.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=1&allowInsecure=1&type=tcp&headerType=http&host=tgju.org&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 vless://edc05328-3e8b-4268-ac76-0af4e53fdf81@94.156.237.204:2051?security=reality&encryption=none&pbk=W4RbkpY1YsjA499rCDIGkJtBG6yhhCrpPVN7i53i0HM&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=305be87f337d1db7#🇩🇪@FreakConfig
 vless://ee459310-2b43-43b6-9b8c-9cdff0976f62@ir.phonoma.ir:80?mode=auto&path=/&security=none&encryption=none&host=XDs13jkdFasxcl2gKKl.global.ssl.fastly.net&type=xhttp#azadiiivpn 🎀
-vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@v2ray_configs_pools 🥀❤

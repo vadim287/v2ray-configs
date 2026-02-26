@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?path=@BluebberyNetWork&security=none&encryption=none&type=ws#@V2rrayVPN
 vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?path=@BluebberyNetWork&security=none&encryption=none&type=ws#⚡Telegram = @config_v2rayy
 vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?path=@BluebberyNetWork&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
 vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?path=@BluebberyNetWork&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&type=ws#@icv2ray
@@ -252,4 +253,3 @@ vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?path=/&security=t
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#🧿 Tel : @ProxyVPN11 ⟵
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.119:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#@chillguy_vpn
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#@chillguy_vpn
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.132:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#[🇫🇷]t.me/ConfigsHub

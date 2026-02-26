@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9983b901-28a8-4dcf-a8b9-8304bc6dc804@85.133.161.168:2086?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=anten.ir&type=ws#Telegram : @V2ynpv
 vless://998df05b-3af8-cd7a-dce0-82721b0ea97f@172.65.147.63:3389?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
 vless://998df05b-3af8-cd7a-dce0-82721b0ea97f@172.65.147.63:3389?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#@icv2ray
 vless://99ae469c-ab90-4ece-8e65-c93b05bb8e59@212.80.8.22:10780?security=none&encryption=none&headerType=none&type=tcp#@Hddify
@@ -252,4 +253,3 @@ vless://a25233a1-b8e7-48a8-a012-27834248ade7@51.250.9.25:7443?security=reality&e
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@188.114.97.3:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=az.downloadgameiran.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=az.downloadgameiran.ir#@V2rayngSeven
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@188.114.97.3:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=az.downloadgameiran.ir&fp=chrome&type=httpupgrade&allowInsecure=1&sni=az.downloadgameiran.ir#@V2RAYROZ | 👻🍫
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@188.114.97.3:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=az.downloadgameiran.ir&fp=chrome&type=httpupgrade&allowInsecure=1&sni=az.downloadgameiran.ir#@V2rayngSeven
-vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@45.130.125.160:2082?path=/?ed=1024&security=&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#@V2rayngSeven

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJhZGQiOiIxMy40OC40OC40NCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMTExIiwicHMiOiJb8J+HuPCfh6pdIOKeoCBAdnBuXzQ0MyIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9🗿 @vpn_443
 
 
 vmess://eyJhZGQiOiI1Ljc1LjI0Ni4xNjIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAdnBuXzQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=🗿 @vpn_443
@@ -252,4 +253,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?path=/?ed=2560&/Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%3E%3E%40ShadowSocks_s%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.138:2096?path=/?ed=2560&telegram+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%3E%3E%40configshub2%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.180.157:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%3E%3E%40v2rayng_fast%3A%3ANL
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.233.205:2053?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&fp=chrome#%3E%3E%40v2ray_configs_pool%3A%3ADE

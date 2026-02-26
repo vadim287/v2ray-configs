@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#proxy (8)
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#🧿 Tel : @ProxyVPN11 ⟵
@@ -252,4 +253,3 @@ vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-r1.wiki-mobile-one.com:443?secu
 vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-r1.wiki-mobile-one.com:4443?security=reality&encryption=none&pbk=-bW6fE_FOxpi6PaxCKaS_WcAkhXsIcphlhtx0CGrODc&fp=chrome&type=xhttp&sni=ads.x5.ru&sid=5adca8064e5217c9#Config 1 - @lebertad
 vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-r1.wiki-mobile-one.com:5443?security=reality&encryption=none&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=5cae63084b3281f3#Config 3 - @lebertad
 vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-r1.wiki-mobile-one.com:6443?security=reality&encryption=none&pbk=cU1GzQyCOwEEMsVpmg-pz1eATFa_lBxBRodNRtu0n0g&fp=chrome&type=xhttp&sni=api-maps.yandex.ru&sid=7517969c3d440cea#Config 5 - @lebertad
-vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-r1.wiki-mobile-one.com:7443?security=reality&encryption=none&pbk=o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=0a2585c3c950f29a#Config 2 - @lebertad
