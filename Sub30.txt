@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@51.38.64.226:2345?security=none&encryption=none&headerType=none&type=tcp#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
 vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345/?type=tcp&encryption=none#👔1@oneclickvpnkeys
 vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP
 vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
@@ -253,3 +252,4 @@ vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443/?path=/Tel-@V2ra
 vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:8080/?encryption=none&security=none&type=ws&host=0221.enedrehd.workers.dev&path=/?ed=2560#@v2rays_ha 11351
 vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@edge-tr01.onvanet.com:8164/?security=reality&alpn=h2,http/1.1&encryption=none&pbk=v3qSUlegZwTvEziNnU2_g7-crFM4UjARJ0chqTRJ-UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992b2ba067fe6a4b#@v2rays_ha 11336
 vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@fr.apikeder.ir.onvanet.com:8952/?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&alpn=h2,http/1.1&fp=chrome&pbk=R_OoHDE8DiBiroU4UrI-V5d8Dr42QgU2mlKKjpMSSBg&sid=d3650411ff51ef76&type=tcp&headerType=none#@v2rays_ha 11423
+vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@fr.apikeder.ir.onvanet.com:8952/?security=reality&alpn=h2,http/1.1&encryption=none&pbk=R_OoHDE8DiBiroU4UrI-V5d8Dr42QgU2mlKKjpMSSBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d3650411ff51ef76#@v2rays_ha 11408

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@219.79.214.159:443?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#@Trick_mobil
 trojan://BxceQaOe@43.198.227.190:50446?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#@WedBaZtel
 trojan://BxceQaOe@43.198.227.190:50446?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#https://t.me/VIPV2rayNGNP
@@ -253,3 +252,4 @@ trojan://telegram-id-privatevpns@35.181.181.24:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.57.120.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.181.122.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://u2gxq118-12z2-5bzt-ctug-9u708k7mc3dc@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
+trojan://v6vswxu5-eyp4-391h-fi49-a9diw0gij7iy@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
