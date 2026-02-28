@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.20.1.252:443?path=/156.244.1.250=8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#🐦‍🔥-@SPEEDS_VPN
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80/?path=/64.181.218.67&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#@v2rays_ha 11679
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=/64.181.218.67=443#🌐 WS-None 📁 @V2rayng_Fast
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?encryption=none&security=none&type=ws&host=afrcloud22.mmv.kr&path=/64.181.218.67=443#🔥 Telegram: @wiki_tajrobe
@@ -253,3 +252,4 @@ vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@87.228.101.143:443?security=reality
 vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#@AkbarConfig👈کانفیگ روزانه در
 vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#All-@V2rayAlpha-15
 vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#IR-@V2rayAlpha--32
+vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?type=tcp&security=reality&sni=msn.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#@Trick_mobil

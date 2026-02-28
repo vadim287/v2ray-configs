@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&host=yopk.pages.dev&type=ws&sni=yopk.pages.dev#🐦‍🔥-@SPEEDS_VPN
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@chatgpt.com:443?type=ws&security=tls&sni=yopk.pages.dev&alpn=&path=/&host=yopk.pages.dev#black_star_vpn
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@188.114.98.0:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@V2ynpv : تلگرام
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@188.114.98.0:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@V2ynpv : تلگرام
@@ -253,3 +252,4 @@ vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.121.74.211:29044?type=tcp&encrypt
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@150.241.94.142:7443?encryption=none&type=grpc&mode=gun&serviceName=vless&security=reality&fp=chrome&sni=www.google.com&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&sid=ab1c1a11#telegram | @Free_World2
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@free2.spectrum.vu:7443?encryption=none&type=grpc&mode=gun&serviceName=vless&security=reality&fp=chrome&sni=www.google.com&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&sid=ab1c1a11#@FREE_VPN02
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@free2.spectrum.vu:7443?encryption=none&type=grpc&mode=gun&serviceName=vless&security=reality&fp=chrome&sni=www.google.com&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&sid=ab1c1a11#『♨️ 𝐹𝑟𝑒𝑒𝑊𝑜𝑟𝑙𝑝 ♨️』@Free_World2
+vless://4bc7d558-1943-44de-bd82-56920bc9383e@free2.spectrum.vu:7443?mode=gun&security=reality&encryption=none&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&fp=chrome&type=grpc&serviceName=vless&sni=www.google.com&sid=ab1c1a11#@V2rayngSeven
