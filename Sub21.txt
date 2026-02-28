@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#@chillguy_vpn
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#سرور های پرسرعت بیشتر در چنل🌋@vmesc
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.32:2053?encryption=none&security=tls&sni=ir1.airpanel.top&allowInsecure=1&type=ws&host=ir1.airpanel.top&path=/#@chillguy_vpn
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#@GozargahAzad|🏁
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -251,5 +253,3 @@ vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?path=/?ed&securit
 vless://f91b9e49-0cea-4793-9cb8-2d8d41690f47@info.speedtest2028.com:3289?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#[@ConfigPositive]+#3
 vless://f9c16a2a-2598-40dc-9aa0-8b5a2001396b@dns5.golden-ping.ir:56149?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#
 vless://f9c16a2a-2598-40dc-9aa0-8b5a2001396b@dns5.golden-ping.ir:56149?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#( داخل کانال جوین نشی قطع میشه🤍 config_v2rayy@ )
-vless://f9c16a2a-2598-40dc-9aa0-8b5a2001396b@dns5.golden-ping.ir:56149?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#https://
-vless://f9c16a2a-2598-40dc-9aa0-8b5a2001396b@dns5.golden-ping.ir:56149?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#vpnsal
