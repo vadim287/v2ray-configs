@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-directvpn@15.224.7.21:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@15.236.70.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@18.153.170.41:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#@Trick_mobil
+trojan://telegram-id-directvpn@18.153.205.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.65.251.210:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#@Trick_mobil
 trojan://telegram-id-directvpn@3.75.163.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.78.14.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.181.181.24:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#OurChannel : @DirectVPN
@@ -248,8 +253,3 @@ vless://109d18a0-57ea-4f62-a084-a672fa52c690@mehrgan2.mirkad.ir:2083?mode=auto&p
 vless://10d7df50-b22d-406d-9e64-3e831fa0149e@3.127.211.41:44586/?type=tcp&encryption=none#🌐 TCP-None 📁 @Free_World2 (25)
 vless://10d7df50-b22d-406d-9e64-3e831fa0149e@3.71.50.207:44586?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://118a5e62-703c-4bc3-9ad6-30dcbdb4c13c@ir.teslafn.com:1010?security=&encryption=none&host=Skype.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://118a5e62-703c-4bc3-9ad6-30dcbdb4c13c@ir.teslafn.com:1010?security=&encryption=none&host=Skype.com&headerType=http&type=tcp#✅@AR14N24b
-vless://118a5e62-703c-4bc3-9ad6-30dcbdb4c13c@ir.teslafn.com:1010?type=tcp&encryption=none&path=/&host=Skype.com&headerType=http&security=none#⚡Telegram = @SOSkeyNET
-vless://118a5e62-703c-4bc3-9ad6-30dcbdb4c13c@ir.teslafn.com:1010?type=tcp&encryption=none&path=/&host=Skype.com&headerType=http&security=none#✅@AR14N24b
-vless://11ba9239-8266-4376-888f-2b4017e3fa8e@194.1.155.171:443?hiddify=1&sni=www.google.com&type=tcp&alpn=http/1.1&host=www.google.com&encryption=none&fp=chrome&headerType=none&flow=xtls-rprx-vision&security=reality&pbk=ONGvU6auVp3jikVNUFAhfY7i-w80qW4Zvo0z4s3zz1o&sid=2f7f06&headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0', 'Pragma': 'no-cache'}#⚡Telegram = @SOSkeyNET
-vless://11ba9239-8266-4376-888f-2b4017e3fa8e@194.1.155.171:443?hiddify=1&sni=www.google.com&type=tcp&alpn=http/1.1&host=www.google.com&encryption=none&fp=chrome&headerType=none&flow=xtls-rprx-vision&security=reality&pbk=ONGvU6auVp3jikVNUFAhfY7i-w80qW4Zvo0z4s3zz1o&sid=2f7f06&headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0', 'Pragma': 'no-cache'}#✅@AR14N24b
