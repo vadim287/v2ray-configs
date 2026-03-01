@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://299ee660-0ad5-4366-9b34-f4bb51eb73ee@147.45.178.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🥎8@oneclickvpnkeys
 vless://29e64e77-e9db-4578-8937-e283216baa7d@us1.alligatostore.shop:443?path=/&security=tls&encryption=none&host=us1.alligatostore.shop&type=ws&sni=us1.alligatostore.shop#🇩🇪All¹ | @BigSmoke_Config
 vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=gozar1.i2fed.com&fp=chrome&type=ws&allowInsecure=1&sni=gozar1.i2fed.com#@v2rayngzendegimamad🕊️
 vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?encryption=none&host=shaggy-agreementspufz4utdi.sportland.company.&path=/?ed&security=none&type=ws#⚡Telegram = @SOSkeyNET
@@ -253,3 +252,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?encryp
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#🇩🇪 |⚡@EuServer
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#🇩🇪@FreakConfig
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&fp=chrome#🌐 WS-TLS 📁 @V2HUBIR (12)
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#IR-@V2rayAlpha-4

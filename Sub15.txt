@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
 vless://7f1cb083-d142-48db-bcf6-9b0cca4b9131@46.101.98.103:10022?type=tcp&security=reality&fp=chrome&sni=fonts.googleapis.com&pbk=25Da3IRo9LFgqsGNYo-y8YDd3vRrZSUUZ3NnZJiuER4&sid=e3fc7b58&spx=/#@HosseinStore_Za
 vless://7f54e49b-e093-4154-acb3-266d48597d30@nice11.armoserver.top:3782?encryption=none&security=none&type=tcp&headerType=none#🔥 Telegram: @wiki_tajrobe
@@ -253,3 +252,4 @@ vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/V2ynpv-
 vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?encryption=none&packetEncoding=xudp#⚡Telegram = @SOSkeyNET
 vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?encryption=none&packetEncoding=xudp#✅@AR14N24b
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=/?ed=2048&security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#@torang_vpn
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@MxV2ray

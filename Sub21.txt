@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#⚡Telegram = @prrofile_purple
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#@bored_vpn
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#⚡Telegram = @prrofile_purple
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=cd11.thisiswe.uno&path=/#کانفیگ رایگان = t.me/arisping
@@ -253,3 +252,4 @@ vless://jina@4.182.217.232:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&s
 vless://jina@4.182.217.232:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-4182217232-direct.yektanet.co#فیلترشکن رایگان👈vpnowl@
 vless://jina@4.185.113.10:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-418511310-direct.yektanet.co#فیلترشکن رایگان👈vpnowl@
 vless://m3DNSziinlblZ5H76Rwvnh@46.8.31.94:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=kz6.alice#azadiiivpn 🎀
+vless://m3DNSziinlblZ5H76Rwvnh@46.8.31.94:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=kz6.alice#E131
