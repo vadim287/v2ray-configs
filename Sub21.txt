@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ec3633fb-18be-4fe7-a0e5-7c3296dd7b0d@test.programming-gaming.com:2096?encryption=none&flow=none&type=grpc&mode=gun&security=none#@chillguy_vpn
 vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.120.177.126:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.120.177.126:443?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
 vless://ec95205b-50b4-496c-891f-5e8087089c4f@62.60.214.57:2087?encryption=none&security=none&type=grpc#@vpn4ir_1 : کانال
@@ -252,4 +253,3 @@ vless://m3DNSziinlblZ5H76Rwvnh@46.8.31.94:443?security=tls&encryption=none&heade
 vless://m3DNSziinlblZ5H76Rwvnh@46.8.31.94:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=kz6.alice#E131
 vless://mahanvpn-free-iran5@104.19.177.157:443?path=/assets&security=tls&alpn=h2,http/1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=chrome&type=ws&sni=MAHANteAm.noD32Cpu.iR#🇩🇪🔑Tel@mahanvpn-4-free iran
 vless://mahanvpn-free-iran5@162.159.10.81:443?path=/assets&security=tls&alpn=h2,http/1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=chrome&type=ws&sni=MAHANteAm.noD32Cpu.iR#🇩🇪🔑Tel@mahanvpn-3-free iran
-vless://mahanvpn-free-iran5@188.114.98.0:443?path=/assets&security=tls&alpn=h2,http/1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=chrome&type=ws&sni=MAHANteAm.noD32Cpu.iR#🇩🇪🔑Tel@mahanvpn-2-free iran
