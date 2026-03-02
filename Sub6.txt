@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://8qprckye-f8px-u5pj-82ji-ji638ehwsyqv@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://921mznfe-sxbe-se37-3n8v-aee51ry4olzm@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇭🇰@FreakConfig
@@ -252,4 +253,3 @@ vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345/?type=tcp&enc
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#@WedBaZtel
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#https://t.me/V2ry_Proxy
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#سرور های پرسرعت بیشتر در چنل🌋@vmesc

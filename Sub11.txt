@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#🇵🇱@FreakConfig
 vless://426aee4a-bfdc-4be1-f5ee-0245c8ef15c2@3.123.23.152:34838?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#IR-@V2rayAlpha-14
 vless://42a7df85-0739-4760-a248-32a491abfa2a@tr01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&sni=hls-svod.itunes.apple.com&spx=/#Config 2 - @lebertad
@@ -252,4 +253,3 @@ vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=n
 vless://4ca14b7d-7719-4756-df72-905e9cf37a73@18.196.176.150:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://4ca14b7d-7719-4756-df72-905e9cf37a73@18.196.176.150:443?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
 vless://4cb986b2-f314-4a99-b207-6cc82f10878a@83.228.231.196:56249?mode=gun&security=reality&encryption=none&pbk=H7KH4KYHGvXjsveYiAeVBxI-eOEjMC8A3-ZZrS493GA&fp=chrome&spx=/&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=cloudflare.com&sid=709dc24f43#@V2Ray_Rolly
-vless://4d259f79-e02b-4aa3-ebde-92c177df2d87@3.120.187.17:36632?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
