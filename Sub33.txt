@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.135.124:443?allowInsecure=1&encryption=none&host=hio-awx.pages.dev&path=%2Ffast&security=tls&sni=hio-awx.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80/?type=ws&encryption=none&flow=&host=vps.zakir.web.id&path=vless#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%F0%9F%94%92&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn%2F%3FI&security=&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%3E%3E%40configV2rayNG%3A%3AXX
 vless://ci49kfwjrc@172.67.175.118:8880?mode=auto&path=%2Fcompass%2Fcdn&security=&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%3E%3E%40v2ray1_ng%3A%3AXX
@@ -251,5 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0209
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.199.111-0203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#%F0%9F%87%B0%F0%9F%87%BFKZ-109.61.39.28-0205
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.5.253-0207

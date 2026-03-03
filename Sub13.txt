@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#@v2ray_proxy_npv+❄️+@ClouddVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.83.129.17:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#t.me/v2Line | Free | 3443 | Slovenia
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.187.62:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇱🇻Latvia+->+🇱🇻Latvia+⚡@DeamNet_Proxy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.4.230.8:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#@AkbarConfig👈کانفیگ روزانه در
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.4.230.8:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#@VPN_PASARGAD
@@ -251,5 +253,3 @@ vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@95.163.210.173:443?encryption=none&
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@37.139.34.145:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=04bf0403f96e5b4b#@Golestan_VPN - IRAN
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.195.116.169:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.70.230.188:443?security=none&encryption=none&headerType=none&type=tcp#@configraygan+G1
-vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.70.230.188:443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
-vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.70.230.188:443?security=none&encryption=none&headerType=none&type=tcp#✅@AR14N24b
