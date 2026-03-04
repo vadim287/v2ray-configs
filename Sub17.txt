@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a7fbea79-18c8-41b8-d519-457d66f2d798@3.65.2.0:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://a800f19a-4a0f-4d57-969a-2e866553ee77@ips.md-teach.com:32075?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://a800f19a-4a0f-4d57-969a-2e866553ee77@ips.md-teach.com:32075?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#✅@AR14N24b
 vless://a801fce1-3cc4-468b-bda6-143e37617e7f@my.kiomars.shop:6664?encryption=none&type=tcp&security=reality&fp=chrome&sni=play.google.com&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7#🇫🇮 @V_P_N_Ahmad
@@ -253,3 +252,4 @@ vless://bc4be589-7a35-4d39-9939-a69ba455ea2a@emergency2.layer-ziro.ir:2002?secur
 vless://bc4be589-7a35-4d39-9939-a69ba455ea2a@emergency2.layer-ziro.ir:2002?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#✅@AR14N24b
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=/?ed=2048&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=chrome&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#@torang_vpn

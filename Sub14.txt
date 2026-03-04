@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=/&type=tcp&headerType=none#https://t.me/allproconf
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#https://t.me/allproconf
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=7426b0c03ef009dc&spx=/&type=tcp&headerType=none#https://t.me/allproconf
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&spx=/&type=tcp&headerType=none#https://t.me/allproconf
@@ -253,3 +252,4 @@ vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?security=reality&
 vless://897da4d2-543a-4cbc-bb38-1a4a599d6543@www.speedtest.net:8443?path=/eyJqdW5rIjoiNGxXdzBkdEdZSGdjRkVyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.pavof74662.workers.dev&fp=chrome&type=ws&sni=v2nGFASt.pavof74662.wOrkErs.dEv#1 🇩🇪 @V2ngFast
 vless://8992a806-e060-457d-acea-34262cd31043@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#Telegram:@config_proxy 🔥
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@visa.org:8880?security=none&type=httpupgrade&headerType=&path=/dhcfh/?ed=2560&host=Ger2.nanowaash-shop.ir#@iraniV2ray_config
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?path=/bmkpskkiym1rrlxm?ed&security=tls&encryption=none&host=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&type=ws&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV#@torang_vpn

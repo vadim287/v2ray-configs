@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.70.129.145:443/?type=tcp&encryption=none#🌐 TCP-None 📁 @Free_World2 (23)
 vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.70.129.145:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?security=reality&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#کانال تلگرام : Free_VPN_CH@
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?security=reality&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&host=Join---AliXTso---Join---AliXTso---Join---AliXTso---Join---AliXTso&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#کانال تلگرام : Free_VPN_CH@
@@ -253,3 +252,4 @@ vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@185.162.11.223:443?security=reality
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@185.162.11.223:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#Telegram @Ettehad_vpn
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&sid=edbc04c389&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#Telegram @Ettehad_vpn
+vless://a7fbea79-18c8-41b8-d519-457d66f2d798@3.65.2.0:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn

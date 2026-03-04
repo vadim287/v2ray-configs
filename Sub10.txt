@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2d3e46a3-8b5e-4f20-b694-54892f15f3fa@158.160.21.97:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#https://t.me/allproconf
 vless://2d3e46a3-8b5e-4f20-b694-54892f15f3fa@158.160.21.97:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c&type=tcp&headerType=none#https://t.me/allproconf
 vless://2d3e46a3-8b5e-4f20-b694-54892f15f3fa@158.160.21.97:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#https://t.me/allproconf
 vless://2d3e46a3-8b5e-4f20-b694-54892f15f3fa@158.160.3.138:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c&type=tcp&headerType=none#https://t.me/allproconf
@@ -253,3 +252,4 @@ vless://41536a4e-0218-4b0f-a2a7-3af08fc8bd48@grandmas-hotel.wp-toolbox.ir:2305?e
 vless://41536a4e-0218-4b0f-a2a7-3af08fc8bd48@grandmas-hotel.wp-toolbox.ir:2305?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://41536a4e-0218-4b0f-a2a7-3af08fc8bd48@grandmas-hotel.wp-toolbox.ir:2305?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@icv2ray
 vless://41536a4e-0218-4b0f-a2a7-3af08fc8bd48@grandmas-hotel.wp-toolbox.ir:2305?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Join us : @configv2net
+vless://41536a4e-0218-4b0f-a2a7-3af08fc8bd48@grandmas-hotel.wp-toolbox.ir:2305?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#https://
