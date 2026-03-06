@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1ac712db-5b72-4374-b009-2937bb7d8495@tak7.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://1ac712db-5b72-4374-b009-2937bb7d8495@tak7.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@VPN_PASARGAD
 vless://1b0ad61b-1be2-4cda-9979-984a965b0da5@162.248.166.66:4444/?type=grpc&encryption=none&serviceName=grpc&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#🇩🇪 GRPC-Reality | @v2ray_configs_pool (1)
 vless://1b0ad61b-1be2-4cda-9979-984a965b0da5@162.248.166.75:4444/?type=grpc&encryption=none&serviceName=grpc&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#🇩🇪 GRPC-Reality | @v2nodes
@@ -253,3 +252,4 @@ vless://2dd47d3e-62aa-479c-a5c2-34b4826f3773@162.159.153.187:8443?allowInsecure=
 vless://2dd47d3e-62aa-479c-a5c2-34b4826f3773@162.159.153.187:8443?allowInsecure=1&encryption=none&host=52yunwang.dpdns.org&path=/&security=tls&sni=52yunwang.dpdns.org&type=ws#⚡Telegram = @SOSkeyNET
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.71.217:443?path=/?ed=8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#🩵+@Azarakhsh_Proxy+🩷
 vless://2e0c37cf-d746-4264-89c6-76df8995218f@74.48.142.49:20299?security=reality&flow=xtls-rprx-vision&sni=apple.com&type=tcp&fp=chrome&pbk=dMSJb9t_gfHkMT9sQGSAjxVcX_Vc-JUSihPyd9JPNzc&sid=1a3236d7#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.16.241.253:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#👽Tel: @pPal03👽جوین بدید گوگولیا👽

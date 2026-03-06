@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=/&security=tls&encryption=none&insecure=1&host=rukawa.pages.dev&type=ws&allowInsecure=1&sni=rukawa.pages.dev#🛡 V 109 @Outline_Vpn
 vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=/&security=tls&encryption=none&insecure=1&host=rukawa.pages.dev&type=ws&allowInsecure=1&sni=rukawa.pages.dev#🛡 V 117 @Outline_Vpn
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&sni=vbox.ping-box.com#@Golestan_VPN - 3
 vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2087?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
@@ -253,3 +252,4 @@ vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?p
 vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws#✅@AR14N24b
 vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#@AkbarConfig👈کانفیگ روزانه در
 vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#All-@TeleProxyTele--7
+vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#All-@V2rayAlpha--7
