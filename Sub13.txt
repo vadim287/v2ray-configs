@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6da8b872-302f-462a-8730-568073f128f1@Si.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://6da8b872-302f-462a-8730-568073f128f1@Si.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@VPN_PASARGAD
 vless://6da8b872-302f-462a-8730-568073f128f1@unl.sanflow.ir:520?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://6da8b872-302f-462a-8730-568073f128f1@unl.sanflow.ir:520?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@VPN_PASARGAD
@@ -253,3 +252,4 @@ vless://8409d5d2-ae02-4027-b5a5-c3cca340ca6c@109.120.188.140:443/?type=tcp&encry
 vless://8409d5d2-ae02-4027-b5a5-c3cca340ca6c@37.139.34.237:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://8409d5d2-ae02-4027-b5a5-c3cca340ca6c@5.188.143.115:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a&type=tcp&headerType=none#https://t.me/allproconf
 vless://84306d25-e61b-4f21-b55e-67ab6699060f@130.185.73.92:80?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha-9
+vless://84fc796b-6ac3-4465-98cf-2ae6fd58b4a7@188.114.99.99:2053?type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&authority=&security=tls&fp=chrome&alpn=http/1.1&sni=kanon.parhamtraberthos.IR.#VIP Channel-FREE CONFIG

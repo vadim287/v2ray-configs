@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=/db10240eb751d6ab&security=tls&encryption=none&insecure=0&host=dabaius2.sylu.net&type=ws&allowInsecure=0&sni=dabaius2.sylu.net#IP_CF
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@31.7.78.80:46036?security=none&encryption=none&host=skype.com&headerType=http&type=tcp#@torang_vpn
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@irancell.zafarinocrm.ir:80?path=/&security=none&encryption=none&host=2.fruitsstore.ir&type=ws#@torang_vpn
 vless://3fceb82d-bbe7-446f-89e1-bea39b611816@79.175.167.147:80?security=&encryption=none&headerType=none&type=tcp#وصل شدی بیا کانالمون@ConfigV2RayNG
@@ -253,3 +252,4 @@ vless://501dfe1a-be73-4b89-b3bf-7f8a21c6f2ee@emergency3.layer-ziro.ir:2003?secur
 vless://501dfe1a-be73-4b89-b3bf-7f8a21c6f2ee@emergency3.layer-ziro.ir:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://501dfe1a-be73-4b89-b3bf-7f8a21c6f2ee@emergency3.layer-ziro.ir:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#جهت خرید به آیدی زیر پیام بدین       TeleProxyTele@
 vless://501dfe1a-be73-4b89-b3bf-7f8a21c6f2ee@emergency3.layer-ziro.ir:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
+vless://501f51e6-468b-48d7-a458-929f45bb2d10@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#@torang_vpn

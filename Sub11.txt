@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://501f51e6-468b-48d7-a458-929f45bb2d10@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#@torang_vpn
 vless://5020768e-ef63-4783-b430-f25560bf8d27@tiemx.nimatiem.de:3333?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--0
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&host=ahlekarbala.global.ssl.fastly.net&type=ws#Telegram : @V2ynpv
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=/containers/fi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#Telegram : @V2ynpv
@@ -253,3 +252,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096/?type=ws&encry
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🛡 V 98 @Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.238:2096?path=/?ed=2560&tm🇨🇳+@i2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#telegram | @Free_World2
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.238:2096?path=/?ed=2560&tm🇨🇳+@i2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#vpnsal
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#@v2ray_proxy_npv+❄️+@ClouddVPN
