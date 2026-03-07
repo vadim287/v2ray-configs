@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6ded99f7-4dd3-443f-b988-dbe5bff846a5@152.89.244.30:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=apple.com&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#@FREE_VPN02 تلگرام
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.250:443/?type=ws&encryption=none&flow=&host=vtolink.ayatollahnajafi.cf&path=/?ed=2048?@vtolink&security=tls&sni=AYATOLLAHNAJAFI.CF#🇩🇪 HamrahAval @vtolink
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.99:443/?type=ws&encryption=none&flow=&host=vtolink.ayatollahnajafi.cf&path=/?ed=2048?@vtolink&security=tls&sni=AYATOLLAHNAJAFI.CF#🇩🇪 HamrahAval @vtolink
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.42.88.244:443/?type=ws&encryption=none&flow=&host=vtolink.ayatollahnajafi.cf&path=/?ed=2048?@vtolink&security=tls&sni=AYATOLLAHNAJAFI.CF#🇩🇪 HamrahAval @vtolink
@@ -252,4 +253,3 @@ vless://7d09fd8d-e69d-44b2-9b0b-c7fcefcd4950@russia3.proxy-tlg.ru:443?security=r
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.76.205.110:19592?security=none&encryption=none&headerType=none&type=tcp#v2rayNplus 15
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?encryption=none&type=tcp&headerType=http&host=fast.com#VayNora
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
-vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Black_star_vpn
