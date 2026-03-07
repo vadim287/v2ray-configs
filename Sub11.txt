@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4ca14b7d-7719-4756-df72-905e9cf37a73@18.196.176.150:443?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://4cb986b2-f314-4a99-b207-6cc82f10878a@83.228.231.196:56249?mode=gun&security=reality&encryption=none&pbk=H7KH4KYHGvXjsveYiAeVBxI-eOEjMC8A3-ZZrS493GA&fp=chrome&spx=/&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=cloudflare.com&sid=709dc24f43#@V2Ray_Rolly
 vless://4ce367e8-89bf-43f7-a04d-d94bab948fc6@v10.atlax.ir:59680?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--1
 vless://4ce367e8-89bf-43f7-a04d-d94bab948fc6@v10.atlax.ir:59680?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--17
@@ -252,4 +253,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.238:2096?path=/?ed=2560&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#@v2ray_proxy_npv+❄️+@ClouddVPN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.83.129.17:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#t.me/v2Line | Free | 3443 | Slovenia
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=/?ed&security=tls&encryption=none&host=sni.111000.v6.navy&fp=chrome&type=ws&sni=sni.111000.v6.navy#🇺🇸 |⚡@EuServer
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.100.9:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳+@WangCai2#⚡Telegram = @SOSkeyNET
