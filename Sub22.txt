@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://jina@20.79.162.37:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-207916237-direct.yektanet.co#فیلترشکن رایگان👈vpnowl@
 vless://jina@4.182.217.232:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=jina-4182217232-direct.yektanet.co&fp=chrome#🇩🇪 机场推荐:dafei.de 德国 07
 vless://jina@4.182.217.232:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-4182217232-direct.yektanet.co#فیلترشکن رایگان👈vpnowl@
 vless://jina@4.185.113.10:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-418511310-direct.yektanet.co#فیلترشکن رایگان👈vpnowl@
@@ -253,3 +252,4 @@ vmess://eyJhZGQiOiJEYy0yLkNlTnRSYUxuRXQuY1YiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 vmess://eyJhZGQiOiJEYy0yLkNlTnRSYUxuRXQuY1YiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmM2NTg2OGMtOTdmZC00YThiLWJmM2MtYjMwZmUwNmIzOGE5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDAzIiwicHMiOiJAQ29uZmlnVjJSYXlORyBBMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJEYy0yLkNlTnRSYUxuRXQuY1YiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmM2NTg2OGMtOTdmZC00YThiLWJmM2MtYjMwZmUwNmIzOGE5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDAzIiwicHMiOiJAbWVsaXByb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJEYy0yLkNlTnRSYUxuRXQuY1YiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmM2NTg2OGMtOTdmZC00YThiLWJmM2MtYjMwZmUwNmIzOGE5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDAzIiwicHMiOiJAWWFtWWFtUHJveHkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJEYy0yLkNlTnRSYUxuRXQuY1YiLCJhaWQiOiIwIiwiaWQiOiIyMzNlZWFmNy1lODBmLTRkOWMtOTNmMS1hMmRiNWVmZTFkOTIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozMDAyLCJwcyI6IkNvbmZpZyAyIC0gQGxlYmVydGFkIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
