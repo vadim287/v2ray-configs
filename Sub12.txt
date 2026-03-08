@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#سرور های پرسرعت بیشتر در چنل🌋@vmesc
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🛡 V 104 @Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@vpnbaz 🎳
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🛡 V 81 @Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#کانال تلگرام : Free_VPN_CH@
@@ -251,5 +253,3 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?encrypti
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=/---&headerType=http&type=tcp#اتصال دائمی با سرور های چنل🍦@Outline_ir
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=/---V2RRVIP&headerType=http&type=tcp#اتصال دائمی با سرور های چنل🍦@Outline_ir
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=/---V2RRVIP&headerType=http&type=tcp#🇩🇪 |⚡@EuServer
-vless://6bfdf438-007f-4aa0-8093-19b4cc4e29cb@smartvip.taksedashop.xyz:22315?security=&encryption=none&headerType=&type=tcp#@Proxyiranip
-vless://6bfdf438-007f-4aa0-8093-19b4cc4e29cb@smartvip.taksedashop.xyz:22315?security=&encryption=none&headerType=&type=tcp#⚡Telegram = @SOSkeyNET
