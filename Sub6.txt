@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#@v2rayngzendegimamad🕊️
-trojan://humanity@188.114.96.3:443/?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#🇨🇦Canada -> 🇫🇷France ⚡@DeamNet_Proxy
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#t.me/v2Line | Free | 3452 | Cloudflare
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🛡 V 45 @Outline_Vpn
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@WedBaZtel
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱@FreakConfig
 trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#
@@ -253,3 +249,7 @@ vless://06750866-200c-42c6-bd2c-80ee499b828f@haji.arezoni1.ir:666?security=none&
 vless://06750866-200c-42c6-bd2c-80ee499b828f@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#@NetZoneNews همین الان عضو شو
 vless://06750866-200c-42c6-bd2c-80ee499b828f@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#@harfbzaniiim
 vless://06750866-200c-42c6-bd2c-80ee499b828f@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#Config 2 - @lebertad
+vless://06750866-200c-42c6-bd2c-80ee499b828f@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#https://
+vless://06750866-200c-42c6-bd2c-80ee499b828f@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
+vless://06750866-200c-42c6-bd2c-80ee499b828f@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#✅@AR14N24b
+vless://06750866-200c-42c6-bd2c-80ee499b828f@haji.arezoni1.ir:666security=none&encryption=none&headerType=none&type=tcp#@harfbzaniiim
