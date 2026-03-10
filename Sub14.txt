@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.76.205.110:19592?security=none&encryption=none&headerType=none&type=tcp#v2rayNplus 15
-vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Black_star_vpn
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#V2rayng_Saz
 vless://7e015ae5-8173-4fbd-a9a1-a7d5ffa3826f@18.194.239.41:443/?type=tcp&encryption=none#🌐 TCP-None 📁 @Free_World2 (28)
@@ -253,3 +251,5 @@ vless://93b82d85-6b29-4808-a7df-5ea150427a8a@ir3.yooznet.top:9001?security=none&
 vless://93b82d85-6b29-4808-a7df-5ea150427a8a@ir3.yooznet.top:9001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#vpnsal
 vless://93e9b57e-0d96-40dd-a018-5304d0105d19@s3.tomandjery.eu:1004?security=reality&encryption=none&pbk=J6KjO1kPQZPPDhex23IhZwCbSlc2beKmsDGZ8em7sGg&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#All-@V2rayAlpha--14
 vless://93efc26b-4f15-4bc6-afba-308c925fefe2@wolfa02.gataserver.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#azadiiivpn 🎀
+vless://94161499-d94b-4f0d-9cd4-723e5b228cb3@m3.anthurium-wave.com:4845?path=/&security=&encryption=none&type=ws#وصل شدی بیا کانالمون@ConfigV2RayNG
+vless://94161499-d94b-4f0d-9cd4-723e5b228cb3@m3.anthurium-wave.com:4845?path=/&security=none&encryption=none&type=ws#@NETMelliAnti

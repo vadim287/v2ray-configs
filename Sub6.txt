@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
-trojan://dbjdhxny-kw3v-cgpk-8o85-edcjolokmzh5@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir#🏁RELAY-104.21.44.185-4645
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2rayNG3
 trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#t.me/v2Line | Free | 3411 | Cloudflare
@@ -253,3 +251,5 @@ vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ge-3.hotvpn.cc:443?encryption=none&
 vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ge-3.hotvpn.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#🚂25@oneclickvpnkeys
 vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ge-6.hothapp.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#Telegram:@config_proxy 🔥
 vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ge-6.hothapp.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#[20928] - Telegram : @V2All
+vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@ge-6.hothapp.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#🚂31@oneclickvpnkeys
+vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@uk-1.hotvpn.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&security=reality&sni=google.com&type=tcp#Telegram:@config_proxy 🔥
