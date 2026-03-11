@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪@FreakConfig
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪@configraygan
 vless://75353273-8f6f-4279-acf1-ed972f781316@nt5.vhuma.com:8443?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#@filembad
 vless://7536801d-8b86-4063-8ea4-107350dcbfd5@157.180.94.33:8880?type=grpc&serviceName=@cephalon_ai_bot&authority=@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala&security=none#🚸 Cephalon_ala-[16]
@@ -252,4 +253,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?path=/Telegram-pr
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.22.25.85:2083?path=/TSBgGkLqaxnignSz/NjIuMy4xMi4xODU=?ed=2560&security=tls&encryption=none&alpn=h3,h2&host=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&fp=chrome&type=ws&sni=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev#@torang_vpn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=/Telegram-proxy_mtm/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BbF9c21a.TecHNETbpB.paGEs.dEv&fp=chrome&type=ws&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#@torang_vpn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=/telegram-@v2ray_alpha/?ed=2560&security=tls&encryption=none&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#@torang_vpn
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/?ed=6094&security=tls&encryption=none&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#@torang_vpn
