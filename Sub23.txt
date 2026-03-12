@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7ce27a4e-10a6-459b-fd47-d078df5f22fe@104.17.187.102:2096?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=grpc&amp%3BserviceName=%28#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40dailyv2ray%20%231
 vmess://eyJpZCI6IjEyYzI1YjUwLWY2YzctMTFlZC1iMjMwLTIwNWM2ZDVmNWQ3OCIsInYiOiIyIiwiYWRkIjoiMTA0LjMxLjE2LjEwNCIsImhlYWRlclR5cGUiOiIiLCJmcCI6IiIsIm5ldCI6IndzIiwicHMiOiLwn4em8J+HuiBBVSB8IFZNRVNTIHwgQGRhaWx5djJyYXkgIzEiLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwiaG9zdCI6InVzLTQuMHJkLm5ldCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9xbWJka3l6biIsImFscG4iOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJhaWQiOiIwIiwicG9ydCI6IjgwIn0=
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?path=/tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40deli_servers%20%231
 vless://telegram-deli-servers@185.146.173.59:80?path=/tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=kia%E6%9D%A5%E8%87%AA%E6%88%91%E4%BB%AC%E5%9B%A2%E9%98%9F%E7%9A%84%E7%88%B101%E6%88%91%E7%88%B1%E7%86%9F%E9%A3%9F%E5%BA%97lovedeli.speedtest.net.gOogle.com.Arvancloud.ir.realKiaa.ninjA.&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40deli_servers%20%231
@@ -253,3 +252,4 @@ vmess://eyJhZGQiOiJieGF3ZGJ3ZHR5aGpzZ2QuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0Ijoi
 
 
 vmess://eyJhZGQiOiJiYXdmZXdid2Fnci43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVmOWM3YmRhLTMzZjktM2RkMC1iY2Y1LWFjYTMyNDQxOGUzMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9tYXdkdXZnZGRnIiwicG9ydCI6MjA4NiwicHMiOiLlt7Topb84IHwgMC4zeF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+
