@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram🇨🇳 @WangCai2@37.153.171.28:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#🇩🇪All¹ | @BigSmoke_Config
+vless://Telegram🇨🇳 @WangCai2@37.153.171.28:2096?path=/sg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#@WedBaZtel
+vless://Telegram🇨🇳 @WangCai2@8.34.146.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#https://t.me/allproconf
 vless://V2Net_iran@speed.cloudflare.com:8443?path=/V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN&security=tls&encryption=none&alpn=h2,http/1.1&host=v2net-iran-v2ray-nl.morgensport.nl&fp=chrome&type=ws&sni=v2net-iran-v2ray-nl.morgensport.nl#🆔@V2NET_IRAN
 vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@51.250.43.209:8443?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=FvOly67pgEBE5pxHE939c23pmLgjmXTb3M7TI9TAQ2Q&sid=7dbf7d3233971d5c&type=tcp&headerType=none#https://t.me/allproconf
 vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@94.131.105.12:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&security=reality&sni=max.ru&type=tcp#@GozargahAzad|🇳🇱
@@ -250,6 +253,3 @@ vless://aec0d3be-77ba-4372-a011-1e073df0dd7e@104.21.22.135:443?allowInsecure=1&a
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?path=/&security=none&encryption=none&type=ws#@Golestan_VPN - 🦁☀️
 vless://b0787a37-4259-4bf5-800c-da0d4ae881bc@81.12.92.125:5050?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
-vless://b0787a37-4259-4bf5-800c-da0d4ae881bc@81.12.92.125:5050?security=none&encryption=none&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN----JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&type=tcp#🇩🇪All | @JKVPN
-vless://b130c9b8-5e2f-4f96-9981-f70a8b1163f3@ne4.nilovip.net.tr:6512?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🔥 @ConfigForTrade
-vless://b14aeaee-2314-49c4-93b8-f01f053e3c50@meli.md-teach.com:42649?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#dalton

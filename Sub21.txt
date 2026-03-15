@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e8758aed-7680-47a9-aeed-7669f2265062@151.101.193.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#@AkbarConfig👈کانفیگ روزانه در
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#🛡 V 54 @Outline_Vpn
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#🛡 V 99 @Outline_Vpn
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#🛡 V 47 @Outline_Vpn
 vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=/&security=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
 vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&security=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
@@ -250,6 +253,3 @@ vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053/?type=grpc&servi
 vless://fccd7b68-1176-4947-8d7b-7e84261a19b9@188.121.102.71:555?security=none&allowInsecure=0&encryption=none&type=tcp&host=188.121.102.71&path=/XIXVPN?ed=2560&headerType=http#@icv2ray
 vless://fccd7b68-1176-4947-8d7b-7e84261a19b9@188.121.102.71:555?security=none&encryption=none&host=188.121.102.71&headerType=http&type=tcp#@FalconPolV2rayNG
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=none&encryption=none&headerType=none&type=tcp#اتصال دائمی با سرور های چنل🍦@Outline_ir
-vless://fd72c8a7-f926-4eeb-aac8-6236dffd79b6@172.232.10.154:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L938
-vless://fd72c8a7-f926-4eeb-aac8-6236dffd79b6@172.236.102.47:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L890
-vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.234.230.230:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L323
