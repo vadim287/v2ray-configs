@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?allowInsecure=1&encryption=none&host=rayan-007.nastaran.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.149.66:80?encryption=none&host=mute-violet-c674.poviy66273.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://aea708eb-d27f-453b-8eca-fb4f509c2562@cd4.baguvix.xyz:2053?allowInsecure=1&encryption=none&host=app3.phonepanel.ir&path=%2Fws&security=tls&sni=app3.phonepanel.ir&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://aec0d3be-77ba-4372-a011-1e073df0dd7e@104.21.22.135:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=royal-dream-1ee7.i-r-tunl.workers.dev&path=%2FeyJqdW5rIjoiQjZ4Q0g4SVFnUFEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0&security=tls&sni=rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://b3acfb3d-2511-4488-9302-63b0e98e0121@162.55.190.0:50219/?type=tcp&encryption=none&security=none#%3E%3E%40v2rayng_fast%3A%3ADE
-vless://b4f6c83f-9b67-424f-9a5a-1bd9ba6fc270@f2.hamrahconf.ir:8443?allowInsecure=1&encryption=none&host=app-core-02.secoxi.site&path=%2F&security=tls&sni=uiuyoyw.secoxi.site&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://bea7a5db-bb02-4bcd-bece-62832eb1bc94@146.185.242.30:1488?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#%3E%3E%40v2rayng_fast%3A%3AXX
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?encryption=none&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&security=reality&sid=df8611c07d&sni=yahoo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?allowInsecure=1&encryption=none&host=hex.1tb.workers.dev&path=ws&security=tls&sni=hex.1tb.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://c048bd88-3e84-4f98-9699-8379f690ac7b@185.112.59.4:8446?security=reality&encryption=none&pbk=Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%3E%3E%40v2rayng_fast%3A%3ANL
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@chatgpt.com:443?security=tls&type=ws&host=pedaratvpn.ar-ahmadiyan86.workers.dev&path=/eyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev&fp=chrome#%3E%3E%40v2ray1_ng%3A%3AUS
@@ -253,3 +241,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#%F0%9F%87%B5%F0%9F%87%B0PK-156.59.243.6-0230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#%F0%9F%87%A6%F0%9F%87%AAAE-147.78.0.182-0234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.5.253-0236
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0229
+vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy02OTE3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0817
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6CA-144.217.164.29-0256
+trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0302
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#%F0%9F%87%B2%F0%9F%87%B9MT-171.22.254.17-4564
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0278
+trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0255
+trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0251
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-4680
+vmess://ewogICAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6jwn4emQ0EtNTEuNzkuMTAyLjI1My0wNzg2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.105-0246
