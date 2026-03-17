@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vkvideo.ru&sid=6354585c37827955#@V2rayNG3
 vless://438aeb08-fafe-5c22-bda7-17baf4f24aaa@94.177.13.135:442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Cu05aaBasClv0QGPrbqbMoRmGqanTvIq-oXsmUbFUEo&sid=60&spx=/&type=tcp&headerType=none#https://t.me/allproconf
 vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://43ae26be-b39c-4264-90c9-45bb6e9990b4@taktun6.majalekhodrostore.ir:50330?security=&encryption=none&headerType=http&type=tcp#@chillguy_vpn
@@ -253,3 +252,4 @@ vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi.grizzlyvpn.work:443?encryption=n
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi2.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rPuuq2HGz8VfN9xjDjnjoi-HgTFi-ZvY5l8Ebktuqmc&security=reality&sid=7501ae7ef79c300d&sni=fi2.grizzlyvpn.work&type=tcp#🚜81@oneclickvpnkeys
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&security=reality&sid=1970a26157d7bf98&sni=nl.grizzlyvpn.work&type=tcp#🇳🇱[openproxylist.com] vless-NL
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&security=reality&sid=1970a26157d7bf98&sni=nl.grizzlyvpn.work&type=tcp#🚜14@oneclickvpnkeys
+vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?security=reality&encryption=none&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.grizzlyvpn.work&sid=1970a26157d7bf98#⚡Telegram = @SOSkeyNET
