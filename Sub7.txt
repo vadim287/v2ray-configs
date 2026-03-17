@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-directvpn@13.37.137.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
+trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#✅@AR14N24b
+trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@Proxyiranip
 trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@V2HUBIR
 trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@filembad
 trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#⚡Telegram = @
@@ -248,8 +253,3 @@ vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.33.118:443?allowInsecure=1&
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.33.118:443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#Telegram:@config_proxy 🔥
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.33.118:443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#⚡Telegram = @SOSkeyNET
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.33.118:443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#✅@AR14N24b
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.36.117:2087?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#🚜63@oneclickvpnkeys
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.36.117:2087?encryption=none&type=ws&host=m1.mwu.de5.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&alpn=h3#[22395] - Telegram : @V2All
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.36.117:2087?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#⚡Telegram = @SOSkeyNET
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.36.117:2087?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#✅@AR14N24b
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.46.78:443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#🚜33@oneclickvpnkeys
