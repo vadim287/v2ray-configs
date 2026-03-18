@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🛡 V 49 @Outline_Vpn
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🛡 V 53 @Outline_Vpn
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.195.45:2096?allowInsecure=1&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&type=ws#@AkbarConfig👈کانفیگ روزانه در
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@ConfigV2RayNG
@@ -253,3 +252,4 @@ vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?path=/?ed=2048&sec
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=chrome&type=ws&sni=Bia.alLhub.Ltd#https://t.me/V2Net_iran
 vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#@EXPRESSVPN_420 کانال تلگرام
 vless://52b625f4-0a52-4c7b-a907-c4dd4eeb3047@pl-1.124515.xyz:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZzM2TvnaI88FCpsA_ZpPLTgGJ6WSO3QSbIu2oRCdNxQ&sid=32f380ff402a43ae&sni=pl-1.124515.xyz#Telegram:@config_proxy 🔥
+vless://52b625f4-0a52-4c7b-a907-c4dd4eeb3047@pl-1.124515.xyz:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZzM2TvnaI88FCpsA_ZpPLTgGJ6WSO3QSbIu2oRCdNxQ&sid=32f380ff402a43ae&sni=pl-1.124515.xyz#https://t.me/allproconf

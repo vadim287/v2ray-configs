@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&insecure=1&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&type=ws&allowInsecure=1&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#@AkbarConfig👈کانفیگ روزانه در
 vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&insecure=1&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&type=ws&allowInsecure=1&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#@V2rayAlpha--12
 vless://d46f01f8-ce9a-4e1b-a4d6-1a4edb2332ad@144.31.14.130:443?security=reality&encryption=none&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=dde66ef1#⚡Telegram = @SOSkeyNET
 vless://d46f01f8-ce9a-4e1b-a4d6-1a4edb2332ad@94.131.9.231:443?security=reality&encryption=none&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=d7e1a111#@icv2ray
@@ -253,3 +252,4 @@ vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.14:2053/?type=ws&encryp
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.28:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#@AkbarConfig👈کانفیگ روزانه در
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.32:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#@AkbarConfig👈کانفیگ روزانه در
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#🛡 V 39 @Outline_Vpn
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️

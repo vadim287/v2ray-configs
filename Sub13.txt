@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪@FreakConfig
 vless://7536801d-8b86-4063-8ea4-107350dcbfd5@157.180.94.33:8880?type=grpc&serviceName=@cephalon_ai_bot&authority=@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala&security=none#🚸 Cephalon_ala-[16]
 vless://75522a99-2c6a-4401-9a75-4b10b31824e6@193.151.141.46:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=qrkd.ir#@netroovpn12حتما داخل کانال تلگرام باشید🔥🐦‍🔥
 vless://759918a1-e0bf-47ad-80fb-3b331f83a59b@37.27.212.52:8880?type=grpc&serviceName=@cephalon_ai_bot&authority=@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala&security=none#🚸 Cephalon_ala-[11]
@@ -253,3 +252,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?security=tls&enc
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@142.171.192.103:443?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#@AkbarConfig👈کانفیگ روزانه در
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@146.235.199.164:443?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#@AkbarConfig👈کانفیگ روزانه در
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@15.204.87.159:449?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=/danfeng#Telegram:@config_proxy 🔥
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@175.208.111.195:50001?security=tls&type=ws&path=/danfeng?ed=2560&host=snippet.danfeng.theworkpc.com&sni=snippet.danfeng.theworkpc.com&fp=chrome#VayNora
