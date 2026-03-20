@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-privatevpns@15.188.101.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.115.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.155.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -253,3 +252,4 @@ vless://2685d0c1-dfa8-4af5-bfd2-44fbb57c2313@172.67.193.88:443?path=/&security=t
 vless://278993f8-ce49-07d0-9156-85b62e460fc6@5.188.140.104:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#@v2rayconfigamir 5597
 vless://2864e305-d269-4b90-b1bd-9c8f3905ebc8@python.org:80?path=/containers/fi&security=none&encryption=none&host=mitisaker.io&type=ws#📍Telegram = @V2WRAY𓄂𓆃
 vless://28c22b90-2c31-4e46-9cb3-d55fcab64294@78.157.47.150:52356?security=none&encryption=none&host=Zula.ir&headerType=http&type=tcp#@V2rayAlpha-12
+vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@172.66.128.70:80?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
