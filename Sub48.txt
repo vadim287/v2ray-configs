@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://00000000-0000-4000-8000-000000000000@143.47.227.42:15805?allowInsecure=1&encryption=none&host=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?allowInsecure=1&encryption=none&host=atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://00000000-0000-4000-8000-000000000000@146.70.20.103:20205?allowInsecure=1&encryption=none&host=atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://00000000-0000-4000-8000-000000000000@146.70.20.108:20205?allowInsecure=1&encryption=none&host=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -253,3 +252,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.227:8443?allowInsecure=1&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.147.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.83.129.17:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F#%3E%3E%40v2line%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.245.108.104:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.171.76:8444?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
