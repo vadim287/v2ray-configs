@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bbd4e4e9-b56f-4b0d-a85b-9eb5aa65644c@91.242.229.129:4443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=nl18.fastlanehosting.ru#@V2rayAlpha--6
 vless://bbef005b-f4ee-4def-be03-f11c1976d84e@plcdn14.melodramaonline.net:443?type=tcp&security=tls&sni=plcdn14.melodramaonline.net#@v2rayconfigamir 1192
 vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#Telegram : @V2ynpv
 vless://bc2facdf-bbc4-42ba-aaad-e9e8bd7868fa@Gabnj.tony-ry.com:9717?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
@@ -253,3 +252,4 @@ vless://ea6afce9-933d-4e58-b592-93e3828ec7d6@46.38.150.38:12000?security=none&en
 vless://ea6d8aae-4ccb-4f9a-afdc-1abf53860930@94.183.149.237:8080?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://ea701249-075e-424f-b9fa-01ace3e0f8c4@n-s-1.m2nweb.site:2076?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🔵@chillguy_vpn
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ae.cdn.stun.su&fp=chrome&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#@icv2ray

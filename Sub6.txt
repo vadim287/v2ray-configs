@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?security=&encryption=none&headerType=none&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://24108840-6ae5-4700-b6a4-3cc52c99fa23@aa.blue-world.fun:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@proxy_kafee5
 vless://24108840-6ae5-4700-b6a4-3cc52c99fa23@aa.blue-world.fun:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@sunflowerplato🌻
 vless://2429a602-86f5-4caa-a3f8-f211c6336bb0@151.101.193.194:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto#@icv2ray
@@ -253,3 +252,4 @@ vless://56a210bb-8c6b-4148-80bc-2fec5099cb98@c27.prodnsspeed10.ir:2083?encryptio
 vless://57645522-6fcb-4567-aeef-67be27c9e285@nhgr08.nyber.org:15000?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@V2rayAlpha--7
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=plcdn6.dramatorg.net#@v2rayconfigamir 3938
 vless://57ae96d8-4250-4db4-b11e-c6216acc403a@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev#3 🇩🇪 @av2ngFast
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=/57ba2ab1&security=tls&encryption=none&insecure=0&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#@icv2ray
