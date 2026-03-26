@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.66.44.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80/?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@vip2.kaixincloud.top:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.16.250.22:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.17.25.173:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -251,5 +253,3 @@ vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443/?type=ws&encryptio
 vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.18.32.47:2096?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.harmony702.workers.dev&path=%2Faoz8sb9opsovdegg&security=tls&sni=inDEx.HArMOnY702.workeRS.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.3.150:443?allowInsecure=1&encryption=none&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=%2F&security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
