@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.2:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.154.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.15:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.66.44.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80/?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.18.185.26:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@vip2.kaixincloud.top:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.21.227.134:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -253,3 +247,9 @@ vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@162.159.152.196:443?allowInsecure=1
 vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@162.159.152.20:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fgames%2Fcb%2Falbums&security=tls&sni=edt2.btxst.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@165.232.43.156:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fwork%2Ff%2Fclassify&security=tls&sni=edt2.btxst.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@172.67.66.74:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fhelp%2Falbum%2Fapps&security=tls&sni=edt2.btxst.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@172.67.74.23:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fpost%2Fgroup%2Fitem&security=tls&sni=edt2.btxst.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@8.39.125.114:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Ftv%2Fstars%2Fsettings&security=tls&sni=edt2.btxst.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@31.59.40.34:8443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fchannel%2Fmember&security=tls&sni=edt2.btxst.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@173.230.151.159:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fstream%2Fads&security=tls&sni=edt2.btxst.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8e7269cd-e5c0-48fa-970e-bc0e63c35d19@104.16.133.220:443?allowInsecure=1&encryption=none&host=fornewiranvpn6.fornewiranvpn6.workers.dev&path=%2F&security=tls&sni=fornewiranvpn6.fornewiranvpn6.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@173.245.58.244:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Factivity%2Ffriend%2Fchannels&security=tls&sni=edt2.btxst.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
