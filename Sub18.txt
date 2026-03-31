@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.12.229:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%F0%9F%94%92&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://c8495c2c-9e10-4f24-90d8-c8c4a3e8bf9f@162.159.152.4:443?allowInsecure=1&encryption=none&host=020.electrocellco-cf-020.workers.dev&path=%2FeyJqdW5rIjoicnUxOEdKZ3dDeDYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=020.eleCtrOcellCo-cf-020.WORKeRS.dEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@chatgpt.com:443?security=tls&type=ws&host=pedaratvpn.ar-ahmadiyan86.workers.dev&path=/eyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev&fp=chrome#%3E%3E%40v2ray1_ng%3A%3AUS
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -252,4 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-20.90.186.36-0226
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#%F0%9F%87%A8%F0%9F%87%A6CA-23.95.76.59-0278
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011606bh.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-36.230.10.82-4669
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#%F0%9F%87%B5%F0%9F%87%B0PK-156.59.243.6-0286
