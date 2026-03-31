@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.187.251:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sant.atira-40.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sant.atira-40.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.192.0:443?allowInsecure=1&encryption=none&host=nameless-heart-02e4.ariya-696.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=nameless-heart-02e4.ariya-696.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.224.0:443?allowInsecure=1&encryption=none&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -253,3 +249,7 @@ vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80/?type=ws&encrypti
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%3E%3E%40outline_vpn%3A%3AXX
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.185.26:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.227.134:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.16.250.22:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@104.167.197.59:23335?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&security=reality&sid=67b1e94e4dd1ef90&sni=icloud.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.11:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
