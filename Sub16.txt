@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://48ddd7e3-5d31-46ab-9153-16c0e4d92adc@139.59.3.70:24725/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=PAAYOscWvc6-DIWjJ8cHWpgX-xkMUVmu8Nz24itmo34&sid=#%3E%3E%40oneclickvpnkeys%3A%3AIN
 vless://48129906-0fdc-482e-8c79-c78bfc6480b7@104.18.32.47:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=041.electrocellco-cf-041.workers.dev&path=%2FeyJqdW5rIjoiNTRZOXhhMTJCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&sni=041.electrOCElLcO-CF-041.woRKerS.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -252,4 +253,3 @@ vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@172.66.47.45:443?allowInsecure=1&en
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@173.245.59.217:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@v1.dabache.top:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://937d410f-1858-471d-bc0e-cdf3b43e78b8@104.21.89.15:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=60ysrd9-v10nswi4duhvlrv0yxuspeth.efownd9to.workers.dev&path=%2FeyJqdW5rIjoiMnlwZUVocGtVZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=60ysrd9-v10nswi4duhvlrv0yxuspeth.efownd9to.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@chatgpt.com:443?encryption=none&host=cf.cfvip.lol&path=%2Fpyip%3D47.251.95.178&security=tls&sni=cf.cfvip.lol&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
