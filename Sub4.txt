@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#@YamYamProxy  ترکیب کنید
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbGlyVXJHUUlmNnM@178.162.165.202:21114#@v2rayconfigamir 4751
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 1373
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 5276
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAzOC44OS4xNDIuNTY6OTkw#@v2rayconfigamir 9299
@@ -253,3 +251,5 @@ vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80/?type=ws&encryptio
 vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=/&security=none&type=ws#🧸24@TeleProxyTele
 vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=/&security=none&type=ws#🧸24@oneclickvpnkeys
 vless://57645522-6fcb-4567-aeef-67be27c9e285@nhgr08.nyber.org:15000?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@V2rayAlpha--7
+vless://57ae96d8-4250-4db4-b11e-c6216acc403a@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev#3 🇩🇪 @av2ngFast
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=/57ba2ab1&security=tls&encryption=none&insecure=1&host=ovhwuxian.pai50288.uk&type=ws&allowInsecure=1&sni=ovhwuxian.pai50288.uk#⚡Telegram = @prrofile_purple

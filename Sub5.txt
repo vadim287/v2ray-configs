@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://57ae96d8-4250-4db4-b11e-c6216acc403a@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev#3 🇩🇪 @av2ngFast
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=/57ba2ab1&security=tls&encryption=none&insecure=1&host=ovhwuxian.pai50288.uk&type=ws&allowInsecure=1&sni=ovhwuxian.pai50288.uk#⚡Telegram = @prrofile_purple
 vless://5874ce17-1e4a-4cf5-b67e-c88da6194616@172.67.181.144:443?path=/eyJqdW5rIjoicHFDN0R3VG1PTmZVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&encryption=none&host=royal-limit-4b1c.rosomo9596.workers.dev&fp=chrome&type=ws&sni=rOYAl-LiMIt-4B1C.ROSomO9596.workerS.deV#Join us : @TeleProxyTele
 vless://5874ce17-1e4a-4cf5-b67e-c88da6194616@172.67.181.144:443?path=/eyJqdW5rIjoicHFDN0R3VG1PTmZVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=royal-limit-4b1c.rosomo9596.workers.dev&fp=chrome&type=ws&sni=rOYAl-LiMIt-4B1C.ROSomO9596.workerS.deV#4  🇩🇪 @V2ngFast
 vless://595db874-accd-4e0c-be21-f90b43c6c56c@null.bache-molavi.sbs:34915?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
@@ -253,3 +251,5 @@ vless://e88a5233-df74-44e6-aed3-8e531d23040f@87.120.107.5:443?encryption=none&fl
 vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=/&security=none&type=ws#🧸36@oneclickvpnkeys
 vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&security=none&type=ws#🤖67@oneclickvpnkeys
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@78.158.166.180:2096?path=/api/v1/irc&security=tls&alpn=h2&encryption=none&host=vod.ensf.top&type=ws&sni=vod.ensf.top#[🇮🇷]t.me/ConfigsHub
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@78.158.166.180:2096?path=/api/v1/irc&security=tls&alpn=h2&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#@TeleProxyTele
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@78.158.166.180:2096?path=/api/v1/irc&security=tls&alpn=h2&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#@aloconfig_com
