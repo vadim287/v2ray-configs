@@ -3,17 +3,27 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-privatevpns@63.180.162.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+vless://00000000-0000-4000-8000-000000000000@147.45.68.252:8082?path=/@Marisa_kristi&security=tls&encryption=none&insecure=1&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws&allowInsecure=1&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me#@V2rayAlpha--14
+vless://00000000-0000-4000-8000-000000000000@176.124.203.183:8082?path=/@Marisa_kristi&security=tls&encryption=none&insecure=1&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws&allowInsecure=1&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me#@V2rayAlpha--13
+vless://00c2d153-ab37-4725-a465-7e1960aecef9@185.143.234.235:80?security=none&encryption=none&host=vix.idcenter.top&type=ws#⚡Telegram = @prrofile_purple
 vless://00c5261b-1ec2-4cac-b795-7324facd4dd2@run2.whoshere.site:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&security=tls&sni=run2.whoshere.site&type=tcp#@v2rayconfigamir 7368
 vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=&encryption=none&type=ws#🔵@chillguy_vpn
 vless://02e59f34-2912-42a7-acb3-fe657e25d2a1@newsrv.isfahangaming.com:8080?path=/orders/all&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
+vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002/?type=ws&encryption=none&flow=&host=igap.net&path=/#@Gangstersdonotcry
+vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002/?type=ws&encryption=none&flow=&host=igap.net&path=/#@TeleProxyTele
+vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002/?type=ws&encryption=none&flow=&host=igap.net&path=/#https://t.me/ConfigX2ray
+vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002?path=/&security=none&encryption=none&host=igap.net&type=ws#https://t.me/V2rayTun0
 vless://0457b106-5d4c-479f-9f88-c2910fd8d430@185.143.234.1:80?path=/&security=none&encryption=none&host=ir-st.ge9.ir&type=ws#@aloconfig_com
 vless://04714c9a-07f6-4a39-b3f2-b44f467ae8b4@snapp.ir:443?security=tls&type=ws&headerType=&path=/login/get/3929429349.rar/fortnite&host=database-cbv.persianstorebnd.ir&sni=database-cbv.persianstorebnd.ir&fp=chrome&alpn=h2,http/1.1#@cllubvpn لطفا برای حمایت جوین شید
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#🪺19@oneclickvpnkeys
 vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://0548b0ba-dca2-466a-8bff-faa0b0b90cab@shop.bizinesmezon.xyz:31732?security=none&encryption=none&headerType=http&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://05a17ccb-a231-4e8c-af1a-810691c27d88@VIP2.xQFire.iR:811?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
+vless://05ca02d5-4542-4b3e-b3f8-129c7422fdf4@v.pvnetwork.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@InfoTech_VK
 vless://0667652a-1b48-4eb5-99c4-47fb53f3229f@www.speedtest.net:443?path=/eyJqdW5rIjoiaEEzMlVhMzg5ZloyREMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.wrdzl.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT-V2NgfAST-V2NgfaST-V2nGfASt-V2NGfasT-v2NGFasT.WRDzL.wOrkeRs.DeV#3 🇩🇪 @V2ngFast
 vless://06e27e58-997a-499e-9a19-71d4980aaabf@snapp.ir:8080?path=/&security=none&encryption=none&host=download2erfan.sudoserver.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://092e5bb7-bbe3-44da-a46d-0bea017a9c14@srv2-germany.hajimamadcloud.com.tr:1992?security=&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#🔵@chillguy_vpn
@@ -61,6 +71,7 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&pa
 vless://22f196a2-cf9c-470d-b310-0ee76a2d433f@217.198.190.3:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://2491c11c-b958-4553-96f7-1aaa7cad8320@153.80.249.101:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T9-LNstrlOx3Bme7jREFDfDcvgYt3YGUpkTH4Uhwlws&security=reality&sid=4da040bb05be9f47&sni=dl.google.com&type=tcp#🪺12@oneclickvpnkeys
 vless://2491c11c-b958-4553-96f7-1aaa7cad8320@154.83.129.121:47653?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=RxvvBDrokkAF9Hbx2xyb5JLOqk3zckOv3W8TbLnrH1w&security=reality&sid=ab&sni=www.google.com&type=tcp#🪺11@oneclickvpnkeys
+vless://2491c11c-b958-4553-96f7-1aaa7cad8320@193.233.75.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zTH3m7h5RrVagZ5WnwEEoJIpFhHFW0bcKKf68h7eMno&security=reality&sni=business.max.ru&type=tcp#🪺20@oneclickvpnkeys
 vless://250b63c4-ebd7-4afb-96b0-4b2129cb839c@s1.foroshgah12.ir:2098?type=tcp&encryption=none&security=reality&pbk=5NjjTVzoNUIsndhLwYDHbqMKpeFDkZYUjq6RGAD77io&fp=chrome&sni=www.aparat.com&sid=789a&spx=/#@YamYamProxy
 vless://269e3247-d58e-4648-a13b-1f3126c4b87f@91.192.160.150:59943?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#2 🇩🇪 @av2ngFast
@@ -86,6 +97,7 @@ vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=no
 vless://35adf9b2-fa34-4983-a204-09da456448e1@185.143.233.68:443?path=/&security=tls&encryption=none&insecure=0&host=backend.parhamm2.ir&fp=chrome&type=ws&allowInsecure=0&sni=backend.parhamm2.ir#⚡Telegram = @prrofile_purple
 vless://35b9becb-2488-447c-ad69-e839f2fc13c1@92.118.234.151:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300&security=reality&sid=3ef8cdbc&sni=google.com&type=tcp#🐵74@oneclickvpnkeys
 vless://365edf09-5254-495f-8de2-155e7f6a17bc@v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev#3 🇩🇪 @V2ngFast
+vless://36e12441-e443-4b77-b8d9-aa84a77f2b3e@y01.dl5movis.ir:443?security=none&encryption=none&host=www.aparat.com&headerType=http&type=tcp#YamYamProxy
 vless://379becec-7e34-4281-943f-d222a981630d@teamlifez.ir:3000?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://37bd59ad-2606-4f67-9d8d-cca22120a0fe@turki.esrtz.onl:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?encryption=none&security=none&sni=1&type=tcp&headerType=http&host=fast.com#🔵@chillguy_vpn
@@ -102,6 +114,7 @@ vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@104.16.80.144:2083?path=/&security=
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?allowInsecure=1&alpn=http/1.1,h2&encryption=none&security=tls&serviceName=grpc&sni=nice.ducks.tel&type=grpc#🐵49@oneclickvpnkeys
+vless://3dbef62e-c9e2-483f-bb2a-b748d83a4aab@link2x09387.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#@V2rayTun0
 vless://3e4bad-a8dd-4eb5-989f-4151ddbf1315@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@Hddify
 vless://3eeddbbd-7f21-49e3-954c-1f41bba5771a@2.144.4.215:51824?type=tcp&encryption=none&security=none#🔵@chillguy_vpn
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#All-@V2rayAlpha--17
@@ -129,10 +142,8 @@ vless://464c70f6-6fbf-4fe2-b719-20acfc721b6c@link.mizbanertebatfarda.site:3010?p
 vless://48d28481-1d0f-4e3f-afd2-a0361ca50efa@nimbaha.yousefbn.com.turkcloud.ir:2022?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#🧸13@oneclickvpnkeys
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#
-vless://4a64ed05-277e-465b-b566-19a986f8f9ed@final.usdtbama.com:8443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@ghalagyann
 vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@150.251.145.242:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=deadbeef42&type=tcp&headerType=none#
 vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@202.155.11.73:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=deadbeef42&type=tcp&headerType=none#
-vless://4b746e77-27f8-481f-b39c-d6747939d50c@37.152.189.74:4431?security=none&type=ws&headerType=&path=/ek/irinn/live/1080p/&host=live-azd1102.telewebion.ir#[🇮🇷]t.me/ConfigsHub
 vless://4b75a44d-3c91-461e-b5a0-6060ac8aff68@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://4b8100e3-b1d2-4c2b-a433-3e8c7ff80fed@web.palmal.site:27811?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://4b873bf0-517c-4bb8-9852-5d41975eba3a@vip.gxnetshop.ir:3000?security=none&encryption=none&headerType=none&type=tcp#@FreeConffning
@@ -149,8 +160,15 @@ vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:80/?type=ws&encrypti
 vless://4e9a9d23-5b19-448c-a73b-d45fc90d7d9b@185.143.233.200:443?path=/?ed=443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#⚡Telegram = @prrofile_purple
 vless://4f5def46-1a54-11f1-9053-92000723b4ab@vipde2.persianpinggame.com:9091?security=&encryption=none&host=filmnet.ir&headerType=http&type=tcp#@V2rayAlpha--4
 vless://4f5def46-1a54-11f1-9053-92000723b4ab@vipde2.persianpinggame.com:9091?security=&encryption=none&host=filmnet.ir&headerType=http&type=tcp#@V2rayAlpha--8
+vless://4f8e5b8d-0a6f-4537-85c1-18bc5f5259e2@snapp.ir:80?path=/&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#@Hddify
+vless://4f8e5b8d-0a6f-4537-85c1-18bc5f5259e2@snapp.ir:80?path=/&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#YamYamProxy
+vless://4f8e5b8d-0a6f-4537-85c1-18bc5f5259e2@snapp.ir:80?path=/&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://4f8e5b8d-0a6f-4537-85c1-18bc5f5259e2@snapp.ir:80?path=/&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#جهت خرید: V2rayTun0
+vless://4f8e5b8d-0a6f-4537-85c1-18bc5f5259e2@snapp.ir:80?path=/&security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&
+vless://4f8e5b8d-0a6f-4537-85c1-18bc5f5259e2@snapp.ir:80?path=/&security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=dl700tobi.sudoserver.ir&type=ws#@ghalagyann
 vless://506e4a91-1d05-5683-b84c-2113f673cb19@104.26.2.138:443?allowInsecure=1&encryption=none&host=vltj.qzz.io&path=/id-pusat&security=tls&sni=vltj.qzz.io&type=ws#🐵92@oneclickvpnkeys
 vless://506e4a91-1d05-5683-b84c-2113f673cb19@104.26.3.138:443?allowInsecure=1&encryption=none&host=vltj.qzz.io&path=/id-pusat&security=tls&sni=vltj.qzz.io&type=ws#🐵96@oneclickvpnkeys
+vless://50dded86-b1fe-4eba-8797-2ea18ff619d1@dtm.apps.teh2.abrhapaas.com:443?type=ws&encryption=none&path=/movie&host=dtm.apps.teh2.abrhapaas.com&security=tls&fp=chrome&alpn=h2,http/1.1#[🇮🇷]t.me/ConfigsHub
 vless://510e2c1c-5178-4c1b-9181-ec35aa09928e@vid6.persiangame.sbs:55006?encryption=none&security=none&type=ws&host=rubika.ir&path=/#🔵@chillguy_vpn
 vless://532c9a78-307b-4e57-863d-b8d812708308@188.114.97.3:443?path=/dkU-cln2-GSPOV-q?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=FREE-AZadNet.PAges.dEV&fp=chrome&type=ws&sni=FreE-azADnet.pagEs.DeV#@v2rayconfigamir 6116
 vless://5354f779-aede-48dc-8190-1210865f7ab6@overvpn.overvpn.site:2013?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#All-@V2rayAlpha--1
@@ -161,8 +179,7 @@ vless://560c46be-d15d-4083-8fb5-c7ad5f4f24fd@www.speedtest.net:8880?path=/@LOCKE
 vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=/&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#@Gangstersdonotcry
 vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=/&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#@Moft_Vpn
 vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=/&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#@aloconfig_com
-vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=/&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=dsfr.parsimas.ir&path=/#[🇮🇷]t.me/ConfigsHub
+vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=dsfr.parsimas.ir&path=/#@TeleProxyTele
 vless://57645522-6fcb-4567-aeef-67be27c9e285@nhgr08.nyber.org:15000?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@V2rayAlpha--7
 vless://5781b499-6c56-452d-9e9f-fa43383f3b08@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://57ae96d8-4250-4db4-b11e-c6216acc403a@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ftdbcdh.workers.dev#3 🇩🇪 @av2ngFast
@@ -183,6 +200,8 @@ vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?security=none&enc
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.90.75.41:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵48@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🐵13@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.100:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🐵30@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#🪺21@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🪺26@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵23@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵10@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵5@oneclickvpnkeys
@@ -190,21 +209,19 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:2053?allowInsecure=1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵36@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱37@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🐵31@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱18@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.243.112.61:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#🐵53@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.123:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🪺3@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🐵18@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵16@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱24@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.19:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#🐵17@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🪺16@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🐵44@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#🪺9@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#🌱8@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.147.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🌱21@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.153.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🐵32@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.210.150.65:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵84@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.226.4:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵90@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.227.155:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵60@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.214.109:2053?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🪺23@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.100.9:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵43@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.102.163:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵61@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵56@oneclickvpnkeys
@@ -236,20 +253,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.16.72:2053?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.11:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵25@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.29:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵34@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.41:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵4@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.42:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🐵35@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.133:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🐵38@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.144:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🐵26@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.152:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵21@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🪺14@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.133.62.104:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵76@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.84.183.222:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵81@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.238.203.14:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵41@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#@Moft_Vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#⚡Telegram = @prrofile_purple
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#All-@V2rayAlpha--15
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#All-@V2rayAlpha--9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.23.106.39:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐵46@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.101.33:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐵47@oneclickvpnkeys
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.4.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&security=none&type=ws#🌱34@oneclickvpnkeys
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&security=none&type=ws#🌱47@oneclickvpnkeys
