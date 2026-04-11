@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&security=none&type=ws#🌱47@oneclickvpnkeys
-vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://636de463-b509-4631-adc6-400b21733278@104.21.59.114:8880?encryption=none&host=index.harmony510.workers.dev&security=none&type=ws#🐵40@oneclickvpnkeys
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#All-@V2rayAlpha--18
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955?type=grpc&security=reality&encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&sni=one-piece.com&serviceName=grpc#@v2rayconfigamir 6806
@@ -253,3 +251,5 @@ vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&s
 vless://e5933eb3-2aa8-4f20-b622-92677bf618f8@snapp.ir:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.siilaam.online&fp=chrome&type=ws&allowInsecure=0&sni=info.siilaam.online#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://e5d866f6-f999-44c9-9ba0-e88d466ab6a2@113.30.152.46:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#@v2rayconfigamir 4991
 vless://e70780b2-7ccc-4add-8ab2-7b7df57a74a7@null.bache-molavi.sbs:51456?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
+vless://e7312d71-f6e8-442d-8ed0-bff016d66678.superip.ir:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=brand.bi6x.ir&path=/API/superip#@WibeOfMe
+vless://e7312d71-f6e8-442d-8ed0-bff016d66678.superip.ir:2086?security=none&allowInsecure=0&encryption=none&type=ws&host=cd2.phill-up.ir&path=/API/superip#@WibeOfMe
