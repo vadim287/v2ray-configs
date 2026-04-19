@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?encryption=none&security=tls&sni=tom.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tom.ktbr.store&path=/GoOgLe&mode=auto#Tomcat @khosrow_v2ray
 vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?type=xhttp&encryption=none&path=/GoOgLe&host=tom.lmjk.shop&mode=auto&security=tls&alpn=h2&sni=tom.lmjk.shop&insecure=0&allowInsecure=0#TomtheCat @khosrow_v2ray
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🏳️ Join+Telegram:@Farah_VPN 🏳️
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.25.173:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#🌿17@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.43:443?allowInsecure=1&en
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌿22@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌿72@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌿75@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.187.98.185:443?path=/?ed=2560&Telegram🎖@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@v2rayconfigamir 2618
