@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.150.241:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%3E%3E%40ServerNett%3A%3AUS
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.206:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.55:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80/?type=ws&encryption=none&flow=&host=lucky-voice-d6f3.difat89954-0c6.workers.dev#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@chatgpt.com:443?encryption=none&host=cf.cfvip.lol&path=%2Fpyip%3D47.251.95.178&security=tls&sni=cf.cfvip.lol&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.61:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%3E%3E%40ServerNett%3A%3AUS
@@ -253,3 +247,9 @@ trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4380?security=tls&sni=www
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0248
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#%F0%9F%87%B1%F0%9F%87%BBLV-185.176.221.72-0240
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0253
+trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0254
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg004676x9e.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-61.231.153.242-0357
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034686rw.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-1.161.245.168-0371
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0260
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.165.233.93:989#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.93-0261
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.121:10369?security=tls&sni=fra33.chasem2026sud.com#%F0%9F%87%AC%F0%9F%87%A7GB-82.26.155.121-0267
