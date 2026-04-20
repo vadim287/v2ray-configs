@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&path=/http#@GozargahAzad|🇩🇪
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=/http#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://dcb7f770-7ee2-400c-b89e-efeebc51bf2a@2.144.6.243:50818?security=none&encryption=none&headerType=none&type=tcp#telegram: @hupivpn
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#Telegram : @V2ynpv
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#Telegram : @V2ynpv
@@ -251,5 +253,3 @@ vless://Telegram-Parsashonam@8.6.112.0:443?mode=auto&amp%3Bpath=/&amp%3Bsecurity
 vless://Telegram-Parsashonam@8.6.112.6:443?mode=auto&amp%3Bpath=/#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40parsashonam%20%232
 trojan://telegram-id-privatevpns@3.64.145.4:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=grpc&amp%3BserviceName=%40foxnim&amp%3Bsni=dd.foxnim.info#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40pro_chaneel%20%231
-vless://392afad2-43e3-4414-a5c3-b529a44df4e3@avalpardakht.com:80?path=/%40v2rayNG_VPNN&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=7.arsalanv2.sbs&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40prooxyk%20%231
-vless://f98e06c6-6b36-47f1-a0e3-77d7937c3ec7@104.21.62.144:443?type=xhttp&amp%3Bpath=/Sauron/&amp%3Bmode=auto&amp%3Bsecurity=tls&amp%3Bfp=randomized&amp%3Balpn=h3%2Ch2%2Chttp/1.1&amp%3BallowInsecure=1&amp%3Bsni=sauron.melkore.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40proxie%20%231
