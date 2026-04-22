@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-#support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
 
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
@@ -253,3 +252,4 @@ vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6
 
 
 vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVhZWZjYjY0LTI3NzYtMzcwNi1iOTYzLWExOWEyNDMzNzU1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ieHNtaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb8zIHwgMC4zeF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+

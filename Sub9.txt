@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-9ne0ah23l
 vless://b2c47b38-23bf-4469-b477-e52206bbb8c1@clud.soonteam.top:8443?path=/&security=tls&encryption=none&insecure=0&host=aged-sun-9128.workers.dev&type=ws&allowInsecure=0&sni=aged-sun-9128.workers.dev#SoonTeam
 vless://b34c99c2-99e6-411f-9cfc-751f61a8c285@85.198.13.99:80?security=none&encryption=none&headerType=none&type=tcp#@InfoTech_VK
 vless://b40567e1-99da-4892-aa29-64008cd107e8@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#Telegram : @V2ynpv
@@ -253,3 +252,4 @@ vmess://eyJwb3J0IjoiMTE5OTkiLCJob3N0IjoiIiwiaWQiOiI4MjU3YjMxZS0wODA1LTRmMjgtOTIw
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/yebekhe
