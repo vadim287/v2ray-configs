@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.98:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001195.sec22org.com#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.107:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#@meli_proxyy
@@ -253,3 +251,5 @@ vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@104.18.12.149:443?path=/resgdws&sec
 vless://09c05c40-403e-423c-a070-11698561f9da@37.152.188.14:443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=static.cdn.asset.aparat.com&fp=chrome&type=xhttp&allowInsecure=1&sni=static.cdn.asset.aparat.com#@DejaVuuVpn
 vless://0a79b7d7-b991-4577-afb3-715d718f5cce@clud.soonteam.top:443?path=/cloudapi&security=tls&alpn=h2&encryption=none&host=dl.mobileemdad.top&type=xhttp&sni=dl.mobileemdad.top#SoonTeam
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#@v2rayngzendegimamad🕊️
+vless://0c4c5758-0e85-4eb6-940f-60b48c6c76f5@87.248.154.247:443?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#neet_done👈چنلمون
+vless://0c65de9b-e736-4487-bb4b-5ff5ab58812f@chatgpt.com:2087?path=/eyJqdW5rIjoiMVlqdVJib05XdDBVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=small-breeze-e257.moket12807.workers.dev&fp=chrome&type=ws&sni=SMALL-bREEZe-e257.MOkEt12807.WOrkeRs.Dev#3 🇩🇪 @V2ngFast

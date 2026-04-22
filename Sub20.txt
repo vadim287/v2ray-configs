@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.227.155:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.178.137.248:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.118.15:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.19.60:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.119.195:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -253,3 +251,5 @@ vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@172.66.3.201:443?allowInsecure=1&en
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.20:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.149.66:80?encryption=none&host=mute-violet-c674.poviy66273.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.12.229:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
