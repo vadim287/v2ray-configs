@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed=3072&security=tls&sni=default.ssl.fastly.net#6https://t.me/ConfigX2ray
 vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed=3072&security=tls&sni=default.ssl.fastly.net#@netazadi
 vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed=3072&security=tls&sni=default.ssl.fastly.net#[38855] - Telegram : @V2All
 vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed=3072&security=tls&sni=default.ssl.fastly.net#https://t.me/Configir98
@@ -253,3 +252,4 @@ vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128
 vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#1100
 vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#@config4k _ کانال تلگرام
 vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#Psiphon--@V2rayAlpha--4
+vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#Psiphon--@V2rayAlpha-4
