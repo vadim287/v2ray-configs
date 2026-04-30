@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.161.202.135:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.dns.army&type=ws#🌞44@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.56.8.103:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#🌞54@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🌞40@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.54.161.101:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#🌞80@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🌞73@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.182:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🌳52@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.230.66:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🌞27@oneclickvpnkeys
@@ -253,3 +249,7 @@ vless://9314bd45-c20e-4ed0-813e-8d3619802b1d@185.143.233.235:80?path=/&security=
 vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
 vless://93fbc52a-4c49-492c-8c50-c139d52c28ae@185.143.232.200:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=apif.parhamm2.ir&sni=apif.parhamm2.ir&fp=chrome#@@FreeConffning
 vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/video&security=none&encryption=none&host=sub.sinalizardpanel.info&type=xhttp#@GozargahAzad|🇮🇷
+vless://9486de5b-3258-4b3b-93ae-2b72cc3655b2@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#@mobo_game_land
+vless://953c75b4-75fc-f2ed-5dc3-f751e827a52d@meli2.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#Psiphon-@V2rayAlpha--23
+vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed=2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#@NETAZADI
+vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?encryption=none&type=tcp&headerType=http&host=www.tgju.org&path=/&security=none#@netazadi
