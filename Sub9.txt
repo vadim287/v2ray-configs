@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://95872646-a37f-4d20-80c8-b08266dc8f23@ite.pishvatech.lol:2052?type=ws&encryption=none&path=/&host=&security=none#@icv2ray
-vless://95872646-a37f-4d20-80c8-b08266dc8f23@ite.pishvatech.lol:2052?type=ws&encryption=none&path=/&host=&security=none#@lldalall
-vless://95872646-a37f-4d20-80c8-b08266dc8f23@ite.pishvatech.lol:2052?type=ws&encryption=none&path=/&host=&security=none#skyportall
-vless://95872646-a37f-4d20-80c8-b08266dc8f23@ite.pishvatech.lol:2052?type=ws&encryption=none&path=/&host=&security=none#skyportall  متصل✅
-vless://9708b54a-14dd-406d-b3d0-ced688776fbb@1.1.1.1:443?flow=&type=xhttp&host=vercel-xhttp-relay-eight-kappa.vercel.app&path=/&mode=auto&security=tls&sni=react.dev&fp=chrome&allowInsecure=0&echfq=none#t.me/ConfigFori  -  Config 22685
 vless://9708b54a-14dd-406d-b3d0-ced688776fbb@react.dev:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=vercel-xhttp-relay-eight-kappa.vercel.app&type=xhttp&allowInsecure=0&sni=react.dev#t.me/ConfigFori  -  Config 22691
 vless://97741a1e-389d-40be-b2e7-a0dd08fd489c@blog.gshops.homes:39088?security=&encryption=none&headerType=none&type=tcp#@config4k _ کانال تلگرام
 vless://97741a1e-389d-40be-b2e7-a0dd08fd489c@blog.gshops.homes:39088?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#filembad-243
@@ -253,3 +248,8 @@ vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?encryption=none&se
 vless://c8c61b88-acf5-4e25-8128-b7c92bc719f8@it.jemspeed.top:39296?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-317
 vless://c8cb0c7c-bf54-4291-ad11-fe7b5fdb82bc@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon--@V2rayAlpha--10
 vless://c8cb0c7c-bf54-4291-ad11-fe7b5fdb82bc@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon-@V2rayAlpha--13
+vless://c8cb0c7c-bf54-4291-ad11-fe7b5fdb82bc@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon-@V2rayAlpha--3
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@87.236.146.32:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#@v2rayconfigamir 9204
+vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=an.8lack.ir&fp=chrome&type=ws&sni=an.8lack.ir#@V2rayNG_Cafe
+vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=an.8lack.ir&fp=chrome&type=ws&sni=an.8lack.ir#@icv2ray
+vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#Psiphon--@V2rayAlpha--4
