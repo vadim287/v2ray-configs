@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-privatevpns@13.39.116.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.224.77.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.1.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.176.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.196.242.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.120.56.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.242.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.75.35.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
@@ -248,8 +253,3 @@ vless://23096f04-efbb-4cb5-b499-edf5f6a0991d@varzesh3.com:80?path=/ws&security=n
 vless://23adc6b0-dcf7-4bef-8136-72d2c566b1c5@185.146.173.58:8080?type=ws&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none#Germany 🇩🇪 Telgram @Sobi_vpn
 vless://23df5a72-4f57-4d6b-a766-63cd93b7eab5@ite.pishvatech.lol:80?path=/&security=none&encryption=none&type=ws#@v2rayRoom
 vless://24a367b6-51f7-4a2f-9e8e-b1af4abf4a50@arvancloud.ir:80?path=/index.html&security=none&encryption=none&host=citynet-bc9a525ab3-netplus.apps.ir-central1.arvancaas.ir&type=ws#Psiphon-@V2rayAlpha--26
-vless://2511877e-86dd-4d51-a5bd-48a9888b59d5@varzesh3.com:8080?path=/&security=none&encryption=none&host=shop2.plusself.ir&type=ws#YamYamProxy
-vless://2547fcff-03a0-453d-bc20-acd66ef75611@fans2.mahoshid.ir:9560?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram : @V2ynpv
-vless://2594ad85-5278-47d0-8011-212372b9d335@snapp.ir:80/?path=/&security=&encryption=none&host=n4.asamping.ir&type=ws#Admin3-2.50GB📊
-vless://25af31e8-8830-4224-b0d7-d4af1588fd01@snapp.ir:80?path=/&security=none&encryption=none&host=www.wolficooker.ir&type=ws#@appsooner کانال تلگرام 🕊️
-vless://25ea1c40-e64d-4bd6-aec7-8dbcd5ee7c86@snapp.ir:80?encryption=none&type=httpupgrade&path=/&host=sd.dl7movis.ir#@electvpn0
