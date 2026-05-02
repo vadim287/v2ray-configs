@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bf4f7317-4ea1-d9b0-4538-9622f9af1f0d@tun.maf-fars.ir:2087?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
-vless://bfccdd5a-824b-4fe8-8163-9ab81c7bc0a4@snapp.ir:2082?encryption=none&security=none&type=ws&host=aLiReza.mobilesubasa.com&path=/#@mtproto_proserver
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?mode=packet-up&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=react.dev#@ProxyVpn11 | ترکیب با سایفون
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#@Pirimod
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443/?type=tcp&encryption=none&flow=&security=tls&sni=vercel.com&alpn=h2&fp=chrome#Telegram : @irshum2 🦅
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?encryption=none&security=tls&sni=vercel.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=grand-short-auto-shahriar.vercel.app&path=/&mode=packet-up#10GB-@https://t.me/drvpn7
 vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=/&security=tls&alpn=h2&encryption=none&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&sni=vercel.com#@DarkHub_VPN🕊️
 vless://c0b8963b-b2ba-4b74-8602-98a8b044f3bc@188.114.97.3:8443?path=/eyJqdW5rIjoid3VFQlVxUnltIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfat-v2ngfast-v2ngfat-v2ngfast-v2ngfat.tocos74667.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT-v2NGFAT-V2NgFAst-V2nGFAt-v2ngfAst-V2nGfAt.tocoS74667.WorkerS.DeV#1 🇩🇪 @V2ngFast
 vless://c1b21f1a-4b8f-442a-9b2a-f0d7892b9ee9@s2.bookeeper.space:1010?security=none&encryption=none&headerType=none&type=tcp#@Raiv2mmr
@@ -253,3 +246,10 @@ vless://fe202867-69b8-4f91-9112-3cdfd4915b89@chatgpt.com:443?path=/eyJqdW5rIjoiS
 vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&encryption=none&host=fsn.bestlive.ir&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#IR-@V2rayAlpha-15
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@V2ynpv : تلگرام
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#Telegram : @V2ynpv
+vless://ff370081-1194-4def-b8c3-54ac93260e63@185.143.234.235:80?path=/&security=none&encryption=none&host=io.binping.lol&type=ws#@Ahvaz_vpn
+vless://ff943148-d5db-46df-a419-81536ed1ad9e@snappfood.ir:80?path=/ws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#Psiphon-@V2rayAlpha--28
+vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#@GozargahAzad|🇮🇷
+vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#Psiphon-@V2rayAlpha--2
