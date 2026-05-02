@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c22d0fb2-155d-4d20-a735-870bb5a9e238@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon--@V2rayAlpha--15
-vless://c22d0fb2-155d-4d20-a735-870bb5a9e238@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon-@V2rayAlpha--17
-vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
-vless://c2591b08-016a-4ea1-9024-f65df930c6bd@snapp.ir:8080?encryption=none&host=cdc.ashtona.ir&path=/&security=none&type=ws#@lldalall
-vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip2-fast.tyryqyserver.ir:80?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@V2ynpv : تلگرام
 vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@V2ynpv : تلگرام
 vless://c33d39ba-e68b-45b3-bb11-a2d29ae6f98d@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon--@V2rayAlpha--14
 vless://c33d39ba-e68b-45b3-bb11-a2d29ae6f98d@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon-@V2rayAlpha--8
@@ -253,3 +248,8 @@ vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&s
 vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=michaeljackson-api.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#neet_done👈چنلمون
 vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=pycharmapi.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#3- چنل تلگرام: Shomarrreh@✅️
 vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=pycharmapi.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#@KurdConfing
+vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=pycharmapi.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#@NetZone_ir
+vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=pycharmapi.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#🔵 @Bluefilter_org | تلگراممون 🔵
+vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=telegram-dickiriptorbot.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#@Vpnpas
+vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&encryption=none&alpn=h2,http/1.1&host=telegram-dickiriptorbot.vercel.app&fp=chrome&type=xhttp&sni=react.dev#@InfoTech_VK4
+vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=/@dickiriptorbot&security=tls&encryption=none&insecure=0&host=project-h7l2a.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#برای اتصال دائمی جوین شو🗾 prrofile_purple@

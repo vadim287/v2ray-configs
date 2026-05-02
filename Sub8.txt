@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://89960e91-7f08-401d-98b1-60a8ca601c6f@170.168.103.156:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#FastNetTools
-vless://89960e91-7f08-401d-98b1-60a8ca601c6f@170.168.103.156:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#TEL;Father_vpn
-vless://89960e91-7f08-401d-98b1-60a8ca601c6f@170.168.103.156:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🔻@V2rayAlpha-3
-vless://89960e91-7f08-401d-98b1-60a8ca601c6f@170.168.103.156:8081?type=tcp&encryption=none&path=/&host=www.speedtest.net&headerType=http&security=none#@RezZonez
-vless://89960e91-7f08-401d-98b1-60a8ca601c6f@170.168.103.156:8081?type=tcp&encryption=none&path=/&host=www.speedtest.net&headerType=http&security=none#https://t.me/Pirimod
 vless://8a0050e0-89a8-484d-9ef8-4ec3cfa6dbc8@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=jn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=jn.8lack.ir#@Hddify
 vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
 vless://8a90a008-94db-469a-be1c-260cd753123b@2.ihomayon.com:80?encryption=none&host=arvan.ihoomayon.ir&path=/?ed=2080&security=none&type=ws#5839879840_9d1584b4-10.00MB📊-4D⏳
@@ -253,3 +248,8 @@ vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=
 vless://c0b8963b-b2ba-4b74-8602-98a8b044f3bc@188.114.97.3:8443?path=/eyJqdW5rIjoid3VFQlVxUnltIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfat-v2ngfast-v2ngfat-v2ngfast-v2ngfat.tocos74667.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT-v2NGFAT-V2NgFAst-V2nGFAt-v2ngfAst-V2nGfAt.tocoS74667.WorkerS.DeV#1 🇩🇪 @V2ngFast
 vless://c1b21f1a-4b8f-442a-9b2a-f0d7892b9ee9@s2.bookeeper.space:1010?security=none&encryption=none&headerType=none&type=tcp#@Raiv2mmr
 vless://c1bbc714-c653-4352-9890-15a3b9355d39@download.musicdownlodirani7.com:53196?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&headerType=none&type=tcp#@V2ynpv : تلگرام
+vless://c22d0fb2-155d-4d20-a735-870bb5a9e238@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon--@V2rayAlpha--15
+vless://c22d0fb2-155d-4d20-a735-870bb5a9e238@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#Psiphon-@V2rayAlpha--17
+vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
+vless://c2591b08-016a-4ea1-9024-f65df930c6bd@snapp.ir:8080?encryption=none&host=cdc.ashtona.ir&path=/&security=none&type=ws#@lldalall
+vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip2-fast.tyryqyserver.ir:80?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@V2ynpv : تلگرام
