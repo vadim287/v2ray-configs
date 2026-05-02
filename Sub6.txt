@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://281159ba-05b1-4820-adaf-0c8062cdef91@snapp.ir:8880?path=/&security=none&encryption=none&host=ytg.jject.ir&type=ws#@𝗦𝗸𝘆𝗽𝗼𝗿𝘁𝗮𝗹𝗹
-vless://281159ba-05b1-4820-adaf-0c8062cdef91@snapp.ir:8880?path=/&security=none&encryption=none&host=ytg.jject.ir&type=ws#@𝗦𝗸𝘆𝗽𝗼𝗿𝘁𝗮𝗹𝗹 اختصاصی
-vless://299da272-ead6-444f-abbe-eec4d39b16b0@u1.msljha8844.site:2099?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#Psiphon-@V2rayAlpha--21
-vless://2ae36cda-3cca-4ead-831e-80000308bf91@185.213.165.81:12019?security=none&encryption=none&headerType=none&type=tcp#@Maznet -Psiphon-3
-vless://2b042cf5-8ac9-4658-b588-0b8cc8a6bd6c@cn.farvardinecharsadopanj.shop:8080?path=/&security=none&encryption=none&type=ws#چنل کانفیگ عضو شو @v2ra_config
 vless://2b7c9423-3def-4300-a97a-17e523d50831@S2.FASTSPEEDS.IR:2053?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=tls&encryption=none&insecure=0&host=finlooo.Mehrsazi.ir&type=ws&allowInsecure=0&sni=finlooo.mehrsazi.ir#Telegram : @V2ynpv
 vless://2b94f5e8-8f5f-4888-9f95-5e31c79ce3c2@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=en.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=en.8lack.ir#@UnNurmal | ترکیبی
 vless://2b94f5e8-8f5f-4888-9f95-5e31c79ce3c2@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=en.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=en.8lack.ir#@vpnbaz | ترکیبی
@@ -253,3 +248,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@v2rayngzendegimamad🕊️
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#[42707] - Telegram : @V2All
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🧿73@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:8443?path=/?Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#Psiphon-@V2rayAlpha--5
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@v2rayngzendegimamad🕊️
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.64.142.210:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#🎈82@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🎈71@oneclickvpnkeys
