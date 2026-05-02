@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@172.64.152.23:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.creationlong.org&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.creationlong.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vmesc%20%231
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=ir1.airpanel.top&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=ir1.airpanel.top#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vmesc%20%231
-vless://1e188537-c09b-44e2-b898-af7012346554@185.143.233.5:443?path=/chat%3Fed%3D128&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=gn.8lack.ir&amp%3Bfp=firefox&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=gn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
-vless://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?type=ws&amp%3Bencryption=none&amp%3Bsecurity=none&amp%3Bsni=ss3.limitless-cloud.ir&amp%3Balpn=http/1.1&amp%3Bfp=chrome&amp%3Bpath=/graphql%3Fed%3D2560&amp%3Bhost=ss3.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%232
-trojan://humanity@172.64.152.23:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.gossipglove.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpn_ioss%20%231
-vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/%3Fhost%3Alocalhoat%3A443/&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Bhost=uk.dlaparat.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=uk.dlaparat.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpn_ioss%20%231
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=cr7.traneh.dpdns.org&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=cr7.traneh.dpdns.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpn_ocean%20%231
-vless://cd54d877-9eee-4a50-8776-93a582ef8b88@snapp.ir:8080?path=/dcapp.js&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=seller.shopcenter.limoomi.snapp.aparat.sites.streamplaylivevarzesh3.play.lumavision.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vpnfree85%20%231
-vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwiYWlkIjoiMCIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwiaWQiOiJlYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVVMgfCBWTUVTUyB8IEB2cG5nYXRlX2NvbmZpZyAjMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vless://5e488e2e-ad6b-45cd-b26f-e55f8d80957d@jquery.com:443?path=/eyJqdW5rIjoiSTBLNW9VSlBnbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Bhost=hek1x4b3bns6ue7lj3qqepfe4cn4br4uqkzxvqhzj9r6zhccz6i5ci8oud.hxq4tzmbzvlaulknzcsj.workers.dev&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=Hek1X4B3Bns6uE7lj3QQePfe4Cn4br4uqKZxVQhZJ9r6zhccZ6I5ci8oUD.hxQ4tZmbzvlAUlkNzcsj.wOrKerS.Dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpnowl%20%231
 vless://ci49kfwjrc@172.67.175.118:8880?mode=auto&amp%3Bpath=/compass/cdn&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=ci49kfwjrc-57129121185.hediiigate.com&amp%3Btype=xhttp#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpnowl%20%232
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?security=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.indevs.in&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.indevs.in#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpnplusee_free%20%231
 vless://8d5e71e6-1c60-4084-b573-a343879c9380@104.18.16.56:8080?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=aref.tsabad.com&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpnplusee_free%20%232
@@ -253,3 +243,13 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 هلندvmess://eyJhZGQiOiIxMDQuMjQ4LjgwLjM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJiN2QzZjRjNy03ZjZkLTQyMzgtODc2MC01OGMzZGZhZDUzZTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGV2IiwicG9ydCI6IjMzMDA4IiwicHMiOiLZh9mE2YbYryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==فرانسه vmess://eyJhZGQiOiI1MS43Ny4yMTUuNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJibWkuaXIgVC5tZS9zMDAxM19PZmZpY2lhbCIsImlkIjoiNTA3ZTk4YWUtNzkyMi00NzU2LWM5NTMtMzRlNWM1NzNkZGE0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDA4NDYiLCJwcyI6ItmB2LHYp9mG2LPZhyAgQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiJ1cy0xLmZyZWUueXVqaTIwMjIuZ3EiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsIm5ldCI6IndzIiwicGF0aCI6Ii92QWFtYmo0RGdYcnM1c2ZDRnB0TWsiLCJwb3J0IjoiODg4MCIsInBzIjoi2KLZhdix24zaqdinIEB2MnJheU5HX1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiJoYWxlc2hvYmViYXIuZHJlYW15ZGF5c2FyZWNvbWluZy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjY5MmVmM2RlLTY1Y2MtNDMxZC1mZGIzLTg0ZGI0ZmI0NDdjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIxNTIyIiwicHMiOiJjb21lYmFja1hW8J+RkVJheWVnYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9@v2rayNG_VPN
+
+
+اینم افزونه Xray Plugin مخصوص همین برنامه ماتسوری هست که اینم حتمن باید نصب کنید تا سرورهای خاصی مثه vless براتون کار کنه@v2rayNG_VPN
+
