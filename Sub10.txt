@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#Telegram : @V2ynpv
+vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#@v2rayngzendegimamad🕊️
+vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#Telegram : @V2ynpv
+vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#@v2rayngzendegimamad🕊️
+vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#IR-@V2rayAlpha-9
 vless://jina@20.79.162.37:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-207916237-direct.yektanet.co#Telegram : @V2ynpv
 vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#@monacoVPN
 vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#@monacoVPN
@@ -248,8 +253,3 @@ vless://TELEGRAM-NUFiLTER-2@167.82.95.129:80?mode=packet-up&amp%3Bpath=/TELEGRAM
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?path=/%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=workerr.hashdiler.workers.dev&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40novinology%20%231
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.27:2053?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=baipiao1.curly-train.pages.dev&amp%3Btype=ws&amp%3Bsni=baipiao1.curly-train.pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40novinology%20%232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20SS%20%7C%20%40outline_ir%20%231
-trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Binsecure=0&amp%3Bhost=028.electrocellco-cf-028.workers.dev&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=028.eLECtRocEllco-Cf-028.worKErS.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20%40outlinereleasedkey%20%231
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20SS%20%7C%20%40outlinereleasedkey%20%231
-vless://Parsashonam@nextjs.org:443?mode=auto&amp%3Bpath=/p4r34m&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=YOUR_SUB_DOMAIN&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=nextjs.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40parsashonam%20%231
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&amp%3Bpath=/p4r34m&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=YOUR_SUB_DOMAIN&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=kubernetes.io#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40parsashonam%20%232
