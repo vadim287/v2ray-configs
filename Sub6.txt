@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#proxymelimon
-vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@OV2.liiliil.ir:40301?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram : @V2ynpv
-vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
 vless://4798779c-4125-4d4a-b26d-7a0e48f78cad@snapp.ir:80?path=/&security=none&encryption=none&host=sd.dl7movis.ir&type=httpupgrade#Psiphon-@V2rayAlpha--1
 vless://4798779c-4125-4d4a-b26d-7a0e48f78cad@snapp.ir:80?path=/&security=none&encryption=none&host=sd.dl7movis.ir&type=httpupgrade#چنل کانفیگ عضو شو @v2ra_config
 vless://48028784-4999-4447-8dbd-56a551f8dffa@snapp.ir:2082?path=/&security=none&encryption=none&host=iran.zebra-license.ir&type=ws#TEL;Father_vpn
@@ -253,3 +250,6 @@ vless://73bb561e-97b7-494e-bf37-2342017a1cf7@channel2.vpnprosec.shop:2053?type=g
 vless://7466527d-9737-4020-979c-7cdfd0498dca@50.7.4.107:443?path=/user?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=gately2.datatrafic.ir&type=ws&allowInsecure=0&sni=gately2.datatrafic.ir#@config4k _ کانال تلگرام
 vless://74afc380-4410-410c-a3f3-999d975bad19@haji.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/haji/&host=haji.nahidapp.com&sni=haji.nahidapp.com&allowInsecure=1#@Pirimod
 vless://74afc380-4410-410c-a3f3-999d975bad19@haji.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/haji/&host=haji.nahidapp.com&sni=haji.nahidapp.com&allowInsecure=1#@electvpn0
+vless://74afc380-4410-410c-a3f3-999d975bad19@haji.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/haji/&host=haji.nahidapp.com&sni=haji.nahidapp.com&allowInsecure=1#@v2ray_confiiig
+vless://74afc380-4410-410c-a3f3-999d975bad19@haji.nahidapp.com:443?path=/haji/&security=tls&encryption=none&host=haji.nahidapp.com&type=ws&sni=haji.nahidapp.com#@V2rayNG_Cafe
+vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#@EVAY_VPN 2
