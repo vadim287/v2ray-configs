@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8f61d109-10f4-494d-891f-3035c56124cc@snapp.ir:8080?path=/&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#@Ahvaz_vpn
 vless://90116f4e-bfd9-4264-81fb-44e8046792c0@tik.var.hi-phonee.ir:50216?path=/&security=none&encryption=none&type=ws#@@FreeConffning
 vless://90116f4e-bfd9-4264-81fb-44e8046792c0@tik.var.hi-phonee.ir:50216?path=/&security=none&encryption=none&type=ws#@icv2ray
 vless://90547d1f-e309-4e55-8966-d765568026b3@ae-530.star-kurd.net:2083?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=sni-ae.star-kurd.net#@V2rayNG_Cafe
@@ -253,3 +252,4 @@ vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/V
 vless://c30fc05c-6c86-4af7-b616-25e9093cb394@snapp.ir:80/?type=ws&encryption=none&path=/&host=gm.borna-otbas.ir&security=none#pl-Ts
 vless://c44c5da4-aa85-48ce-9ec6-6e742431d9e9@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=alaedin2.8lack.ir&fp=chrome&type=ws&sni=alaedin2.8lack.ir#@FreeConffning
 vless://c450dda4-869c-41db-8801-0c6957a24563@arvancloud.ir:80?path=/&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#@@FreeConffning 🍓
+vless://c463f0ed-2941-4b15-933b-e66ba7838ae7@varzesh3.com:8080?path=/&security=none&encryption=none&host=Op2.nexoratechcenter.ir&type=ws#@Spartan_YT
