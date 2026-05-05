@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.59:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.90:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.206:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.235:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.22:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/#%3E%3E%40configshub2%3A%3AGB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.6:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
@@ -253,3 +250,6 @@ vless://df862b4c-2150-4b36-81ac-405036cf9ff6@173.245.59.216:2096?allowInsecure=1
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.64.145.53:2096?encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@173.245.59.249:443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.116:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.64.229.199:443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@173.245.58.109:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.212:2087?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

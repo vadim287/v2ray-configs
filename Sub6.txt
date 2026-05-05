@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=/containers/fi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#Telegram : @V2ynpv
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tg.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&security=reality&sid=f69d7af2d5fc5e0c&sni=max.ru&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇷🇺]t.me/Raiv2mmr
-vless://522ddfd3-8f17-40d9-80f2-996201a63951@ir9.cdnk1.cfd:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/time&security=tls&encryption=none&insecure=0&host=&type=ws&allowInsecure=0#@GozargahAzad|🇮🇷
 vless://522ddfd3-8f17-40d9-80f2-996201a63951@ir9.cdnk1.cfd:443?path=/time&security=tls&encryption=none&insecure=0&host=ir9.cdnk1.cfd&type=ws&allowInsecure=0#@filembad
 vless://522ddfd3-8f17-40d9-80f2-996201a63951@ir9.cdnk1.cfd:443?path=/time&security=tls&encryption=none&insecure=0&host=ir9.cdnk1.cfd&type=ws&allowInsecure=0#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:113.11ms
 vless://522ddfd3-8f17-40d9-80f2-996201a63951@ir9.cdnk1.cfd:443?path=/time&security=tls&encryption=none&insecure=0&host=ir9.cdnk1.cfd&type=ws&allowInsecure=0#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:78.04ms
@@ -253,3 +250,6 @@ vless://67e86bb2-d467-48ea-9e42-ff7a3966820e@snapp.ir:8080?encryption=none&host=
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#@CUSTOMVPNSERVER
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
+vless://687fd1d5-2290-4fa7-b94c-6eef1cee75f1@negin.nahidapp.com:443?path=/negin/&security=tls&encryption=none&insecure=1&host=negin.nahidapp.com&type=ws&allowInsecure=1&sni=negin.nahidapp.com#@ProxyVpn11 | ترکیب با سایفون
+vless://687fd1d5-2290-4fa7-b94c-6eef1cee75f1@negin.nahidapp.com:443?path=/negin/&security=tls&encryption=none&insecure=1&host=negin.nahidapp.com&type=ws&allowInsecure=1&sni=negin.nahidapp.com#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://68ba99c2-fd43-4ff8-9aaf-61bf07161b46@snapp.ir:80?path=/yirjedtets&security=none&encryption=none&host=conmoh.caferozi.ir&type=ws#چنل کانفیگ عضو شو @v2ra_config
