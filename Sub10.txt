@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nobitex.sylu.net&fp=chrome&type=ws&allowInsecure=0&sni=nobitex.sylu.net#🇩🇪@FreakConfig
-vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?encryption=none&type=xhttp&security=tls&path=/api&host=relay-03sygudf.vercel.app&mode=auto&sni=nextjs.org&alpn=h2&fp=chrome&allowInsecure=0#@@FreeConffning
-vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?encryption=none&type=xhttp&security=tls&path=/api&host=relay-03sygudf.vercel.app&mode=auto&sni=nextjs.org&alpn=h2&fp=chrome&allowInsecure=0#@UnNurmal
 vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?encryption=none&type=xhttp&security=tls&path=/api&host=relay-03sygudf.vercel.app&mode=auto&sni=nextjs.org&alpn=h2&fp=chrome&allowInsecure=0#@icv2ray
 vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?encryption=none&type=xhttp&security=tls&path=/api&host=relay-03sygudf.vercel.app&mode=auto&sni=nextjs.org&alpn=h2&fp=chrome&allowInsecure=0#@oliver_soul
 vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?encryption=none&type=xhttp&security=tls&path=/api&host=relay-03sygudf.vercel.app&mode=auto&sni=nextjs.org&alpn=h2&fp=chrome&allowInsecure=0#@sogoandfuckyourlove
@@ -253,3 +250,6 @@ vless://df862b4c-2150-4b36-81ac-405036cf9ff6@173.245.59.86:2087?encryption=none&
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.113:2096?encryption=none&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#🐹37@oneclickvpnkeys
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.124:443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#[48809] - Telegram : @V2All
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.162:2083?encryption=none&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#🐹55@oneclickvpnkeys
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.251:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#🐹53@oneclickvpnkeys
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.84:8443?encryption=none&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#🐹69@oneclickvpnkeys
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.35.211.106:2087?encryption=none&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#🐹71@oneclickvpnkeys
