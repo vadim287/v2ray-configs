@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://40dd4d90-ebb9-46f8-99ba-9ff7b7ea531c@v2ngfast-v2ngfast-v2ngfast-v2ngfast.rawiji9482.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rawiji9482.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rawiji9482.workers.dev#1 🇩🇪 @V2ngFast
 vless://4180cade-7ec7-4da7-8d0e-3c04636a514b@91.108.241.188:8443?path=/Free-VPN-CF-Geo-Project/91.108.241.188=8443&security=tls&encryption=none&insecure=1&host=joss.gvpn2.web.id&fp=chrome&type=ws&allowInsecure=1&sni=joss.gvpn2.web.id#👉 @v2FreeHub 🇫🇮
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&encryption=none&headerType=none&type=tcp#@@FreeConffning
 vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&encryption=none&headerType=none&type=tcp#@FastNetTools
@@ -252,4 +253,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.154.211:2096?allowInsecure=1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🐹56@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#🐹6@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.138:2096?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🍑37@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🍑84@oneclickvpnkeys
