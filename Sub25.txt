@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.41.14:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.35.190:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.42.165:2087?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#%F0%9F%87%A6%F0%9F%87%AAAE-147.78.0.182-0246
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#%F0%9F%87%AC%F0%9F%87%A7GB-138.68.153.223-0234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.142.112.40-0240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.142.112.40-0238

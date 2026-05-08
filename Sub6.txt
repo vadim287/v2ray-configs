@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=/xray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#@vpnbaz | ترکیبی
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=/xray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#https://t.me/KurdConfing
 vless://0d8a0803-8db1-4f91-92d7-e04ce32606f2@snapp.ir:80?encryption=none&type=ws&path=/#@ehsawn8
 vless://0dadbf2c-480a-4de3-be2e-1eeb38974722@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/IF_VPN_Bot&host=camp.nahidapp.com&sni=camp.nahidapp.com&allowInsecure=0#@Pirimod
@@ -253,3 +252,4 @@ vless://3dd18d90-6bea-4c9a-ab37-63e89b7700ca@5.159.54.140:443?security=reality&e
 vless://3dd18d90-6bea-4c9a-ab37-63e89b7700ca@5.159.54.140:443?security=reality&encryption=none&pbk=A6_kAMUcoxeuilXwMvzPYFAP8ekULjxDu4KmQssG7Gc&headerType=none&fp=chrome&spx=/&type=tcp&sni=aparat.com&sid=510b7f2f#🔵 @Bluefilter_org | تلگراممون 🔵
 vless://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?security=none&encryption=none&headerType=none&type=tcp#🌐 tel : @v2ray_unit
 vless://3e1ac55d-d8e2-4cf2-8a9e-a717246d3266@dns.psp1gram.ir:11123?security=none&encryption=none&headerType=none&type=tcp#⏳@Proxy_Vpney (3)
+vless://3e397ecd-cbec-49d4-b8c6-29d6fa133df7@Ikco.ir:8080?path=/cdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#⏳@Proxy_Vpney (5)
