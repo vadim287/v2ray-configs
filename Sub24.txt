@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.78.140.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@103.15.90.134:49678?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram#%3E%3E%40v2ray_configs_pool%3A%3AHK
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.169.19.179:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%3E%3E%40ServerNett%3A%3AUS
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.80.110.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.142.120.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -253,3 +250,6 @@ vless://22c71398-f576-4608-8b1f-b65badde088b@africa.visa.com:443?security=tls&sn
 
 vless://2f466a3b-5093-4556-8759-c87c8511c753@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.55
 
+vless://2f466a3b-5093-4556-8759-c87c8511c753@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.5
+
+vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.152:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.5
