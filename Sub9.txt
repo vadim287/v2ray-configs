@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7f8f9f5d-d75e-4dd4-b921-c63b56d50865@185.143.234.25:2052?security=none&type=ws&headerType=&path=/path&host=tr-st3.ge9.ir#@filembad
+vless://7f8f9f5d-d75e-4dd4-b921-c63b56d50865@185.143.234.25:2052?security=none&type=ws&headerType=&path=/path&host=tr-st3.ge9.ir#ɢᴇʀᴍᴀɴ ¹ | 🇩🇪
+vless://7f8f9f5d-d75e-4dd4-b921-c63b56d50865@185.143.235.20:2086?security=none&type=ws&headerType=&path=/path&host=tr-st2.ge9.ir#@filembad
+vless://7f8f9f5d-d75e-4dd4-b921-c63b56d50865@185.143.235.20:2086?security=none&type=ws&headerType=&path=/path&host=tr-st2.ge9.ir#ᴇɴɢʟᴀɴᴅ ¹ | 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://7f8f9f5d-d75e-4dd4-b921-c63b56d50865@185.143.235.20:8880?security=none&type=ws&headerType=&path=/&host=tr-st.ge9.ir#@filembad
 vless://7f8f9f5d-d75e-4dd4-b921-c63b56d50865@185.143.235.20:8880?security=none&type=ws&headerType=&path=/&host=tr-st.ge9.ir#ᴛᴜʀᴋᴇʏ ¹ | 🇹🇷
 vless://7f8f9f5d-d75e-4dd4-b921-c63b56d50865@185.143.235.21:8080?security=none&type=ws&headerType=&path=/path&host=tr-st4.ge9.ir#@filembad
@@ -249,7 +253,3 @@ vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@188.114.98.0:443?path=/V2ynpv-V2ynp
 vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@188.114.98.0:8443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xfjd79v2tjscrm6jqo.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xfjd79v2tjscrm6jqo.zjde5.de5.net#@V2ynpv : تلگرام
 vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#Telegram : @V2ynpv
 vless://bc60a3e6-6cee-494c-b31a-707dd567dffb@Ikco.ir:8080?path=/cdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#بیا روبیکا وصل شو @wizardxray
-vless://bc60a3e6-6cee-494c-b31a-707dd567dffb@Ikco.ir:8080?path=/cdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#سلامتی جمع ک... @wizardxray
-vless://bc6dd5e1-5e3a-408d-a936-f6d64bac65c1@varzesh3.com:2082?path=/&security=none&encryption=none&host=snappp.khanumjan.ir&type=ws#⏳@Proxy_Vpney (2)
-vless://bcb7fff4-3426-49a5-bee7-34222fb71ca8@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#⏳@Proxy_Vpney (5)
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
