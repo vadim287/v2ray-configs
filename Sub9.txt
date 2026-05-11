@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://875c345e-d200-4709-9ffa-7b4c65531f6e@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#@mobo_game_land
 vless://87a09075-f5f0-4ff9-80df-3e81fcdfd10d@185.143.234.235:80?path=/&security=none&encryption=none&host=d.nsa03.com&type=ws#@V2RAYENGLISH
 vless://87a09075-f5f0-4ff9-80df-3e81fcdfd10d@185.143.234.235:80?path=/&security=none&encryption=none&host=d.nsa03.com&type=ws#@oxnet_ir | ترکیب 10
 vless://87e624d8-d5e7-4f0b-aaf6-07d52ad581cf@snapp.ir:2086?path=/&security=none&encryption=none&host=sas.turbomail.ir&type=ws#@ProxyV2IR
@@ -253,3 +252,4 @@ vless://bc60a3e6-6cee-494c-b31a-707dd567dffb@Ikco.ir:8080?path=/cdn&security=non
 vless://bc6dd5e1-5e3a-408d-a936-f6d64bac65c1@varzesh3.com:2082?path=/&security=none&encryption=none&host=snappp.khanumjan.ir&type=ws#⏳@Proxy_Vpney (2)
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?encryption=none&security=tls&type=ws&headerType=none&path=/voip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#@UnNurmal
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?encryption=none&security=tls&type=ws&headerType=none&path=/voip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#@icv2ray
+vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?encryption=none&security=tls&type=ws&headerType=none&path=/voip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#@saministamm
