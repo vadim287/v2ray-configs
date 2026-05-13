@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.75:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#🫎58@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.220:443?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#⛰️45@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.65:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#⛰️24@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?encryption=none&fp=chrome&host=sni.latonyamadeline.ndjp.net&path=/fp=chrome&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#⛰️86@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?type=tc
 vless://793be1ac-1869-4293-929c-0ddfdcb0cfe4@185.143.233.5:443?encryption=none&type=ws&security=tls&path=/@alaedin?ed=128&host=alaedin1.8lack.ir&sni=alaedin1.8lack.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#vmesskhodam
 vless://795f5d33-6c7b-4d90-b146-853cb0ae8a87@snapp.ir:80?path=/&security=none&encryption=none&host=aopas.reedsy.ir&type=ws#@Rz
 vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/IF_VPN_Bot&host=camp.nahidapp.com&sni=camp.nahidapp.com&allowInsecure=0#@UnNurmal
+vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/IF_VPN_Bot&host=camp.nahidapp.com&sni=camp.nahidapp.com&allowInsecure=0#@icv2ray
