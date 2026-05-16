@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@63.141.128.3:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.10:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@172.66.44.161:443?allowInsecure=1&encryption=none&host=e1-f55.pages.dev&security=tls&sni=e1-f55.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@witzendcomputing.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@192.200.160.253:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.digitalcommerce360.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@198.202.211.1:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.ftc.net:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.panel.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -245,11 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@Rayan_Config-82.38.31.190-@beepassvpn_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#@Rayan_Config-82.38.31.191-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#@Rayan_Config-82.38.31.194-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#@Rayan_Config-82.38.31.199-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#@Rayan_Config-82.38.31.202-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#@Rayan_Config-82.38.31.205-@beepassvpn_bot
