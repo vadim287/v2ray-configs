@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5@fa.gamingserverstream.ir:443?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=pmeli.express-servers.ir#Telegram : @V2ynpv
-vless://8b2b686a-060f-4d2e-921b-4688ddb2189e@104.21.53.61:2083?path=/eyJqdW5rIjoiRExVYk9wRWRpdXY2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.novaye6130.workers.dev&fp=chrome&type=ws&sni=V2nGfaST.NOvAYe6130.WOrKERS.Dev#2 🇩🇪 @V2ngFast
 vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=/&type=tcp&headerType=none#[56136] - Telegram : @V2All
 vless://8bad9f6a-c450-4175-a1d1-6fadb9d37eb0@m4.blu20.fun:414?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=/&security=tls&encryption=none&host=qyi.fqjd663.ggff.net&type=ws&sni=qyi.fqjd663.ggff.net#@hi_proxy_iran :👈کانال تلگرام
@@ -253,3 +251,5 @@ vless://ba7cddfd-5a90-474e-8904-ba353b0ba5f6@anten.ir:80?type=ws&path=/&host=fdc
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=decdn7.suio.me#@CUSTOMVPNSERVER
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn7.suio.me#⚡Telegram =@CUSTOMVPNSERVER
 vless://bac628dc-cd64-460c-8657-8128c9d6d7b7@108.162.193.173:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#Telegram : @V2ynpv
+vless://bac628dc-cd64-460c-8657-8128c9d6d7b7@188.114.99.160:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#Telegram : @V2ynpv
+vless://bafacd98-136a-4530-838d-4e5c51838dac@129.159.119.161:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&ech=encryptedsni.com+https://dns.alidns.com/dns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=/zh-cn/juzibaipiao?ed=2560#@v2rayconfigamir 9491
