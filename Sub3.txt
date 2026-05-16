@@ -154,7 +154,8 @@ trojan://a922dfbe65cf53c7bc225fcfeb6cedbc@35.72.163.56:4840?sni=www.nintendogame
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.50.114:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%973
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzgiLCJhZGQiOiJ0dXJrMS5uZXQubmV0IiwicG9ydCI6IjgwIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tLiIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGU9MjU2MCIsInRscyI6IiIsInNuaSI6IlRNX0FaQVJCQVlKQUIxLm5ldy45OS53b3JrZXJzLmRldiIsInRlc3RfbmFtZSI6IjM4In0=
 trojan://a922dfbe65cf53c7bc225fcfeb6cedbc@43.199.35.161:3135?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC5
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.158.90:443?encryption=none&fp=chrome&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%90%B824@oneclickvpnkeys
+trojan://telegram-id-privatevpns@63.183.179.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.179.231:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@n3th3ryt.gxcore.net:443?encryption=none&fp=&pbk=KzSy2i45DrsFOfXXQ7ConynwqKOaH70pvpoMR4joMWU&security=reality&serviceName=grpc&sid=d45feecd265c116d&sni=n3th3ryt.gxcore.net&type=grpc#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.58.115:443?path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&insecure=0&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=0&sni=sni.latonyamadeline.ndjp.net#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.58.115:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%E2%9B%B0%EF%B8%8F63@oneclickvpnkeys
@@ -171,17 +172,15 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.35.169:443?ed=2560&eh=Sec-We
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.70:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%E2%9B%B212@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%E2%9B%B211@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.158.90:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%E2%9B%B27@oneclickvpnkeys
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#v2ray_dalghak
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&security=tls&type=tcp#%F0%9F%8D%AC32@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%8D%91100@oneclickvpnkeys
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.206:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%8D%9134@oneclickvpnkeys
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@193.233.82.122:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nlyttls.keepsecurevpn.com&alpn=http%2F1.1%2Ch2#v2ray_dalghak
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.193:443?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=23#v2ray_dalghak
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.193:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%90%9D48@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.143.36:50099#v2ray_dalghak
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.203:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%90%9D32@oneclickvpnkeys
-vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.87.102:50099#v2ray_dalghak
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443?type=tcp#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443?outline=1&prefix=POST%20N330abfk#@VIPV2rayNGNP
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.154.30.150:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.latonyamadeline.ndjp.net&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%E2%98%98%EF%B8%8F69@oneclickvpnkeys
@@ -209,7 +208,7 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80/?type=ws&encryptio
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?encryption=none&security=tls&sni=adderall.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=adderall.adaspoloandco.com&path=%2Ffaq#v2ray_dalghak
 ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw==@144.126.145.77:80#%40V2raysCollector%20%F0%9F%A9%B7
 ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw@154.53.60.197:80#v2ray_dalghak
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBvcnQiOiI4NDQzIiwicHMiOiJASGVtZXN2cG7wn5Kc2qnYp9mG2YHbjNmG2q8g2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOjAsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBvcnQiOjg0NDMsInBzIjoiQFYycmF5c0NvbGxlY3RvciDwn4+AIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#%40V2raysCollector%20%F0%9F%95%BA
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#%40V2raysCollector%20%E2%9A%BD%EF%B8%8F
 ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw==@154.53.60.197:80#v2ray_dalghak
@@ -219,37 +218,38 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?type=ws&path=%2Fvl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@119.59.127.129:990#%40V2raysCollector%20%F0%9F%A4%8D
 vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%40V2rayBaaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%40V2raysCollector%20%F0%9F%92%8B
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#%40V2raysCollector%20%F0%9F%97%BF
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%40V2raysCollector%20%F0%9F%8C%B6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.185.37:990#%40V2raysCollector%20%F0%9F%A6%B4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.47.255.213:990#[
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#[
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#[
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#[
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#[
-#Ø mü¹ÌnHÎ(eÌ[·B²=½¤£,À·zøÃ¥q³Ñö·g4cdC>ME²Rtµè:LãÏfù%µÕ6¦î¶û+Sºù¢ð#Âô}èÑ	®AAKZÂ¢÷Ô ÷¾N:E¶ B/k¨áû^ òÿ´zmw
-¥ÈRêÜûáf3±]èöV§JD¨Ajþks÷ío°';1Hs
-É¶Ø&T©fÍØ5_»¬¼8'«:¸+snØH´Tê¸`«ãj!­<ÄÞtä#Ô?L¦C§®Üsss/z{®£ë\F ?òY½|pÝà:[a¦v´_Öï¡8GXy«ÈJ_«÷Çêå[ÑcPOy¯=îs3=ùÏÍ/ØV~¡õøü¸ôÍX´Óhøq(#¤kXÁ÷³Öä³ÙY²Í0kK`çêÇêZ$sþ4ç3koÍë ^>íÃöP§ø¹P>)ÂbV_t3fË´o >¡)û÷eOH;KjÚ=(\EË1?4{Ó3âêz@¿Ô¶ºÌàzÞÄêÞu­7: øf²_°v°V§Ìâ:øÿkluyjª´[eraÐ+©Ø"T"%ä¹¿Zãº±¡DíQN HÔöGuÔå¯Ã1V~_Û w>£.?K]Ã±ô%1¿»üI
-&[ÉÛ èAtp!±Å.AÉ
-;IKäæIjØw÷\kÈ¿(¼ìð$Á)l¼|)ÿ¼þî+À Ç¹¶l|Çß7/ü¾&ÿgjRd¢½EWj6ÁXÃYè_h|²÷
-M §Ä issº*h®óôLÈô>¬PÍY8
->¢¬ý	Ï,Ä¬8Îo£H0'²s±êí¸*+h+¢ \þçi
-#9»ª½µLhæ¶Ñ:ÁX¼ÕhÝÃð
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.37.51.238:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%E2%9B%B0%EF%B8%8F34@oneclickvpnkeys
+#¬sÃz°Ðáø­¶h{ÈY)´gÝ·MÇPX-Ô²L©Zú2pöOFu¬¸¨' Ûöféâ¨;8#é§ru¸® "}çÖ&ðÎ}_Õ¬ÙC	Êx-½ú(iõÛ éuQÅ^7©
+peÖÕÑTØ·;ø5óè`L÷Õ%ªë:ãS1qß
+Ñ"=Rk(X1øt7YK%¥B¨e5S)4n_.2ÉæÒó@ eG'ÞÐÚÀÈÇÄÚæCùÌÄ£¬ÌsX3áÜ·(Biüèt-Þ1 -FøÄM0éÏ¨yÊfõÎÕÜð0+PøÈ¨b*ªÐâ%_aw×Vö¶Zö'Z&Aâ÷H6Õ¤>Ç=Í,0@fý¥,U~Û&±îô¸2bÚ5ÀøT5}o\ JôCk6ò=þ¢}|J¥2læ÷Ê·êòjèîÓ"dOØ9H£ÒÒëÔZÿbô@Ö¾Óx°UCpÌ]Õ-¡äBS*qSÕ¸Ðûr»as>_=L}ªU÷è¾MïBpÒ2Öý»¸bT¤-?¨ÀnÆRõ$«ÔÆÆA
+ÃèÛÍdÐb÷:j¨znuUYsëF¬}¤ó,¤n£4SÏFG	¦%U¹xçéCÀðqÏÍÿ
+=·j°éÌÃÔÌò]$ $Ý
+AÜ#`w:j ölaÑ®g¹/QÉæÀ³jÓ4¨0§ÆKXs- ö¬¾uÆ2a,Åy_jû¼ÛÐåÀ¹[[ÒwÀ-T%`+Ñ;JW´¶9LóðdsªZëá9¥%ã<ûk/©þþ×·n7æ=OßLE¼\Y*%1áEbAXdßa¬½/×sÿpQ$rÖNIv~wÔu¢«E­Lqé<={6îV+i×KÍLÿ 5RtÉ©u^#.s$7¨ÿQÄïÈ/¥Yê«ÿûc,àâh-ÝÕ*¿ssàP[+mÑìlÐÏÍ<íÚCÊÊIb»÷;ý;®ø&Øõ<Ùý§$e g¼ú²[SUßóaSúoÈ¯
+06ä¦bSeø¦G9÷j ÏEMU"M\Ë¡ïbNIÞLÂW4¹Ð¯c"°ÚMÀÚ®x&Y)NÂ®[py~p
+#Î·ÐªUtû(m&Æ4\Èk8yÄöÐ1É±ÜaYµ_ßÉþ÷Ëv?oë Ø­À-ü µ9ª§dLQÞÑ\y¨î=£Èé¯±fdó7@7DôO¨`Àa@ådæGO&¤v~©Â£ÕÊMM+çmuñKe@[­3½1	Y ¨ádHÞbÑM	JÙNyß º;Ò·ÛX¬Ìz(]ª×@ï¾rsåSÖÃÍì*³rõÃQæ+ÐCR¿$Uº=ëø]g¶K{iåØ´Òªxäb1ÔýMq#ugÆ&T2'¿©ïsÀp">))ø·öXÑMú¿:ÇÇDv-ýB d_$MÙtüFîtÏ)ïÊI×¼ÃKMÅÝöÃÍ£FêdB±2¹N\¡ßO%ëÛ¿*¥ÀP6&#"àc¤§Û:S±,È<ÉgóPµ+c³oRA+ÎÈÓå÷Òó]'6çÍøÃk6}m<t;ïÞëñpqÊllX
+>0q¶EW¾þ¼H¡üGÅvÂi6÷-ØQ«HËv^pþxhîß>}ºÿh@3­1ãxä©³X=f£Èê)/uÆà)þùtðZ	M¥Ýªåáù(Ãæ|T÷^*}ÜÍGuGiki\º<)uÄ1ÝÜÙÊ,ð5¼Æµ'ÿ¹ÊÇîa¡±D\»,fV÷~ôE´,ão÷D²0i28>±mt§½×#¡ãùÆ:»vS|Ôºú¼¿÷S" 6¬©kïW ¨:ÛÛÂÂÈgôÛ·4L²{L^ÁD5á&É,ÚÍUÍaÄSàQ< µn ¶âO
+vless://cda21e1a-4a07-412c-ae0b-4e1472bbbace@2.26.22.139:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=FNUvdW0gSMh30g80qiD2LejYDzbh6vwUGtV3fbihwzk&security=reality&sid=2627&sni=google.com&type=tcp#v2ray_dalghak
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%E2%9B%B0%EF%B8%8F22@oneclickvpnkeys
+vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#%F0%9F%AB%8E95@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%20
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@2.26.123.64:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&security=reality&sid=a1b2c6d7e8f9&sni=download.spectrum.vu&type=tcp#%E2%9B%B254@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@35.156.76.43:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fyoutube%2540ZYFXS%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%E2%9B%B246@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Ftelegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%E2%9B%B224@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%8E%96%EF%B8%8F56@oneclickvpnkeys
 vless://4fe2b7d6-cdc0-44f3-8093-3a1fc92e8542@95.164.3.121:20089?encryption=none&security=none&type=tcp#%F0%9F%8D%911@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#v2ray_dalghak
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=0#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%A5%8F33@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%8C%9E87@oneclickvpnkeys
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@01-qq.com:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=3-7gj.pages.dev&fp=chrome&sni=3-7gj.pages.dev&path=%2F&encryption=none#v2ray_dalghak
 vless://1235d730-707c-4a11-8ce3-ebb17561564b@45.12.133.207:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4dd1&pbk=0T96I8dvAUF7BxhbwTp0PfFfy9AHFDsXXpwDnP0i224#v2ray_dalghak
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.5.134:2053?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#v2ray_dalghak
+vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=thisisverytemp.bananalegends.com&fp=chrome&type=ws&sni=thisisverytemp.bananalegends.com#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnd1gwYUQ3cnIweVBQMThBMFQ2YTVU@195.93.253.245:49137/?outline=1#v2ray_dalghak
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org&spx=/#v2ray_dalghak
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.75:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%90%B288@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.145.158:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%90%B240@oneclickvpnkeys
+vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?security=reality&encryption=none&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gpuopen.com&sid=0a856e071790b1#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.92.108.39:443?allowInsecure=1&encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%A6%8448@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.46:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%90%BE92@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.41:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8D%8E77@oneclickvpnkeys
