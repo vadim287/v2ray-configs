@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=/&security=none&encryption=none&type=ws#@NetZone_ir
-vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2083?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=russia2.appleseraj.ir&type=ws&allowInsecure=0&sni=russia2.appleseraj.ir#Telegram : @V2ynpv
 vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=nurenburges.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburges.appleseraj.ir#Telegram : @V2ynpv
 vless://5aa802a6-b84a-4965-9e49-4a3dd420e3ca@dl10.wolfcityroleplay.ir:80?path=/js&security=none&encryption=none&host=dl10.wolfcityroleplay.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@72.56.96.93:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&security=reality&sni=eh.vk.com&type=tcp#🍥47@oneclickvpnkeys
@@ -253,3 +251,5 @@ vless://7e3d952a-8324-40d3-85f0-97ce5da7af2c@snapp.ir:80?path=/graphql?ed=2560&s
 vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=&encryption=none&headerType=&type=tcp#
 vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=&encryption=none&headerType=&type=tcp#oliver_soul
 vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#@NetZone_ir
+vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#@v2npv 🚀 اتصال رایگان
+vless://7f22dd6d-b7e4-40a0-91dd-f0ade9cb67e8@Tapsi.ir:2052?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#@canfigiop
