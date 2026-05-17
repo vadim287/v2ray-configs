@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4b9cca81-6003-4cf4-bf7d-624c803c8b86@104.18.12.126:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@foxnim&sni=1dvdv.foxnim.info#%40shadowlinkserverr
-
-
-vmess://eyJhZGQiOiI4MC45Mi4yMDQuMjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1NDM3NzU0OS1hZGIzLTQ3OTUtYmRkZi0yOWQ0NDg2MmM3OTYiLCJuZXQiOiJrY3AiLCJwYXRoIjoiVzBUQ1NidndLNyIsInBvcnQiOiIxNDk4NCIsInBzIjoidC5tZS9zaGFkb3dsaW5rc2VydmVyciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-
-vmess://eyJhZGQiOiIxNjguMTE5LjE2Ny4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoidC5tZS92X3BfbHYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-
-vmess://eyJhZGQiOiJhbHMtNy5mLXN1Yi54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjhlZjRiMmFmLWNmZjEtNDFkNC1lNTI2LTA1MTczY2UyMGZlOCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwOTkiLCJwcyI6IkB2X3BfbHYg2KrZhNqv2LHYp9mFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==ایرانسلشه
-
-
-vmess://eyJhZGQiOiJoYW1yYWguaGltYWJhbmsubWwiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVkYzViMmIzLTgzMDktNDQwYy05YmM3LTgzMDUwZGQzNjExMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiQHZfcF9sdiDYqtmE2q/Ysdin2YUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=همراه اول
-
-
 🟡 #ایرانسل  trojan://Go5e2nKM8U@45.85.119.29:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40shadowlinkserverr trojan://Go5e2nKM8U@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40shadowlinkserverr🔵 #همراه_اول: trojan://Go5e2nKM8U@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40shadowlinkserverr🚀 trojan://Go5e2nKM8U@188.42.88.252:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40shadowlinkserverr🔴 #اینترنت_ثابت: trojan://Go5e2nKM8U@45.95.241.101:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40shadowlinkserverr trojan://Go5e2nKM8U@45.85.119.179:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40shadowlinkserverr🔥 تمامی کانفیگ‌ها قابل استفاده در اندروید(برنامه‌های v2rayNG، Matsuri و ..) و آیفون (برنامه‌های NapsternetV، One Click و ...) خواهند بود 💥💥💥💥
 
 اینم ی تعداد زیادی سرور برای استفاده در ویندوز ، با nekoray یا v2rayng تست کنین👇https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/vmess.txt
@@ -253,3 +238,18 @@ vless://6479e444-f0b1-4bfb-963d-ce1e04e8b159@v.abolfazlsafeti.top:46801?type=ws&
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.org.now_sudo.rm.again_to_fight.everyone.i_am.the_internet_manager.sbs.is-it-possible-to-know-who-am-i.charity&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABteS5zaGFwYXJhay5pcghttps://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.reyha.onetop.mtproxysa.live.&port=443&secret=ee00000000000000000000000000000000636f696e74656c6567726170682e636f6dhttps://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.pc_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_max.the-internet.quest.&port=444&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6dhttps://t.me/proxy?server=Nubyiip.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t💚پروکسی فعال💛
 
 vless://5386150b-54ec-428e-db61-7dd87df4923b@v.abolfazlsafeti.top:49463?type=ws&security=none&path=%2F#%D9%88%DB%8C%DA%98%D9%87%202سرور پولیه برای ویپی ان nv بزنید✅
+
+
+🇫🇷vmess://eyJhZGQiOiI3OC40Ny4xODYuMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7fwn4yPIEBjdXN0b212MnJheSDaqdin2YbZgduM2q8g2YfYp9uMINio24zYtNiq2LEg2LnYttmIINi02YgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+
+vless://96b43cf5-e7c2-45b4-acdc-9fc68b814e6a@91.107.160.240:15684?security=none&encryption=none&headerType=none&type=tcp#ALAEDIN+1
+
+
+vless://89743cca-6855-478c-b9a8-79ae9ab9c3e4@s2.skullvpn.xyz:443?path=%2Fdownloader%2F30665&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz#a56بزنید لینک پولی nv✅
+
+
+vless://4c67a898-2de1-49b4-c35d-43b65ab63bf7@s2.skullvpn.xyz:443?path=downloader%2F52915&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz#a57بزنید لینک پولیه nv😐✅
+
+
+برنامه های مورد نیاز V2rayNG اندرویدNapsternetV ایفونvmess://eyJhZGQiOiIxMDQuMTYuMjA5LjEyIiwiYWlkIjoiMCIsImhvc3QiOiJhNy5pcmFuaWFuY3AuZnVuIiwiaWQiOiIwYzY2NGY0NC05ZjY5LTQ1NGYtODQxYS00NjE2NzE1ZGYyNmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IvCfh6nwn4eq8J+MjyBAb3V0bGluZV9pciAg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9❤️به اشتراک بزارید
