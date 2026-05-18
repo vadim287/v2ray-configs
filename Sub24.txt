@@ -4,12 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-vless://8899d15d-a022-4b61-b848-87d4de0a034a@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
-
-vless://8899d15d-a022-4b61-b848-87d4de0a034a@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
-
-vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
-
 vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
 
 vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@208.103.161.110:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
@@ -253,3 +247,9 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#%F0%9F%87%A8%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.23-0249
 vmess://ewogICAgImFkZCI6ICJmcmVlLXY3LTA5LmVsYnJ1c3dheS5vbmxpbmUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJmcmVlLXY3LTA5LmVsYnJ1c3dheS5vbmxpbmUiLAogICAgImlkIjogIjg4YTA2NzliLTNiYTUtNGYwNi04ZmE0LTQ5MGExYzQ3ZDZjOSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS02NC4xODguNjYuMTk2LTAyNTAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJmcmVlLXY3LTA5LmVsYnJ1c3dheS5vbmxpbmUiCn0=
 vmess://ewogICAgImFkZCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsCiAgICAiaWQiOiAiNGI4MGFhODYtNDM1NC00MGJiLWQyYTMtNDcxMjZjZmYwYmVhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xNzIuMjM2LjI0OS4yNC0wMjUxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.142.119.79:443#%F0%9F%87%BA%F0%9F%87%B8US-3.142.119.79-0252
+trojan://7e6256a0-b4ab-11eb-bc8f-1239d0255272@nl-trojan.bonds.id:443?security=tls&sni=nl-trojan.bonds.id#%F0%9F%87%B3%F0%9F%87%B1NL-163.172.211.74-0253
+trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@id2-trojan.bonds.id:443?security=tls&sni=id2-trojan.bonds.id#%F0%9F%87%AE%F0%9F%87%A9ID-103.93.59.208-0254
+trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@sol.doubledou.win:4588?security=tls&sni=sol.doubledou.win#%F0%9F%87%B0%F0%9F%87%B7KR-132.226.172.168-0255
+ss://YWVzLTEyOC1nY206ZmNhZTg1YjUtYmFmMC00YzVhLWJhODAtNWY1MTNlNzA1MTJh@183.240.124.200:44817#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.124.200-0256
+vmess://ewogICAgImFkZCI6ICJtLmNubWppbi5uZXQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICI0YzM4Mzc3YTQ0OWMzNTBhZDNiNGM2ODU4MjI1ZGVmYi5tb2Jnc2xiLnRiY2FjaGUuY29tIiwKICAgICJpZCI6ICJjY2IyYTFlYS0yODVmLTRkZGEtYjc5OC02YWQ5MjVhYTc4NGIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTY2MTYsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNjIuMTkuMTkyLjg5LTAyNTciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
