@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#🔵@chillguy_vpn
+vless://b296d621-d830-4bee-8433-bd940e89a25a@chatgpt.com:8443?alpn=http/1.1&encryption=none&fp=chrome&host=dl.mincroft.top&path=/&security=tls&sni=dl.mincroft.top&type=ws#@electvpn0
+vless://b296d621-d830-4bee-8433-bd940e89a25a@chatgpt.com:8443?alpn=http/1.1&encryption=none&fp=chrome&host=dl.mincroft.top&path=/&security=tls&sni=dl.mincroft.top&type=ws#@electvpn0   10 گیگ اختصاصی کانال @electvpn0 ری اکشن و فوروارد یادتون نره👉
+vless://b31fa821-b818-4eb2-9242-241b930152b2@81.12.33.166:1005?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://b31fa821-b818-4eb2-9242-241b930152b2@81.12.33.175:1003?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://b350af31-8414-4025-8613-eeed6a92a533@emergency-service2.pavilof.ir:443?encryption=none&type=ws&security=tls&path=/&host=emergency-service2.pavilof.ir&sni=emergency-service2.pavilof.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@V2ray_confiig
 vless://b39604e6-5d65-4c8b-a5f6-829403d5d946@185.143.233.5:8443?encryption=none&type=ws&security=tls&path=/&host=p1.sesrsa.com&sni=sub.sesrsa.com&fp=chrome&allowInsecure=1#@icv2ray
@@ -249,7 +253,3 @@ vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@speedtest.net:80?path=Telegram-@V2y
 vless://e20bdce4-bc7a-48ef-841f-cfab846a5494@2.188.212.54:80?type=ws&security=none&path=/api/&host=tk_tor.irannet.top&sni=tk_tor.irannet.top#🔵@chillguy_vpn
 vless://e27b7b53-6810-47ac-b5a5-eb89c4a22aed@snapp.ir:2082?path=/&security=none&encryption=none&host=rpsvpn3.xchitozx.org&type=ws🌐 tel : @v2ray_unit
 vless://e2d2eb35-8e1e-4e3a-ba1c-1cecb9d11c66@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#V2rayng_Fast
-vless://e2e5838e-8788-4236-a913-63718a44b845@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@GOLD_VPN_IR
-vless://e31033ad-7d9f-4d54-aeab-aed0d41fc4e6@www.speedtest.net:2087?path=/eyJqdW5rIjoiMXhRQmR2ZmZZQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.gnayun.workers.dev&fp=chrome&type=ws&sni=V2nGfaSt-v2NGFaSt-v2ngFasT-V2NgfAsT-v2ngFasT.gNAyUn.woRKerS.dEV#3  🔥 @V2ngFast
-vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#@v2rayconfigamir 1288
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.100:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#[61763] - Telegram : @V2All
