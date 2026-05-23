@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%3E%3E%40ISVvpn%3A%3AUS
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@da.mfa.gov.ua:443?encryption=none&fp=chrome&host=1-aym.pages.dev&path=%2F&security=tls&sni=1-aym.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@mfa.gov.ua:443?encryption=none&fp=chrome&host=3-7gj.pages.dev&path=%2F&security=tls&sni=3-7gj.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@dnew.cc:443?encryption=none&fp=chrome&host=1-brc.pages.dev&path=%2F&security=tls&sni=1-brc.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@openai.com:443?encryption=none&fp=chrome&host=2-1ng.pages.dev&path=%2F&security=tls&sni=2-1ng.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?allowInsecure=1&encryption=none&host=rayan-007.foton.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -253,3 +250,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007134n4g.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-111.248.69.4-0142
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL-213.109.147.242-0159
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ==@212.192.15.78:20129#%F0%9F%87%AD%F0%9F%87%B0HK-212.192.15.78-0187
+vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMTM1Ljc0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxMzc1OTg1ZS0zMzRhLTRjMjUtOGY2NC01MmExODJiYzgwMzciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvTm90aWZfQ2hhdCIsCiAgICAicG9ydCI6IDU1MTg1LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQzLjEzNS43NC01MTY5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0175
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@45.154.206.192:989#%F0%9F%87%AA%F0%9F%87%B8ES-45.154.206.192-0135

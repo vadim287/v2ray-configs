@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
-vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
-vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
 vless://16658809-215c-4709-ac09-5aaa48e4cbf3@sub.pardisvps.ir:2086?type=ws&security=none&path=/&host=connect.pardisvps.ir#🇮🇷27962 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@127.0.0.1:40443?path=/ @ProxyVPN11&security=tls&encryption=none&insecure=0&host=rAyAn-007.pArViN.DpDnS.OrG&type=ws&allowInsecure=0&sni=rAyAn-007.pArViN.DpDnS.OrG#@ProxyVPN11
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@127.0.0.1:40443?path=/ @ProxyVPN11&security=tls&encryption=none&insecure=1&host=rAyAn-007.pArViN.DpDnS.OrG&type=ws&allowInsecure=1&sni=rAyAn-007.pArViN.DpDnS.OrG#@ProxyVPN11
@@ -253,3 +250,6 @@ vless://41f09f26-0812-41ca-a099-b41d42dd8e14@185.73.112.42:48031?type=xhttp&encr
 vless://41fd3e6b-3cdc-4141-8b41-8ad2878ba740@snapp.ir:80?path=/&security=&encryption=none&host=sia.real-jcvps.ir&type=ws#@V2ray_confiig
 vless://421e0bf7-fecd-4983-911e-9b41159389fc@snappfood.ir:443?path=/bspath&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vaslbashi.tooorkshop.ir#اختصا۱ی کانال |Hunnter_VPN
 vless://424b84b4-cd57-42eb-b1e0-5b618ffcb822@109.95.67.200:25443?encryption=none&type=tcp&headerType=http&host=myket.ir&security=none#🔵@chillguy_vpn
+vless://424b84b4-cd57-42eb-b1e0-5b618ffcb822@109.95.67.200:25443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🔵@chillguy_vpn
+vless://424e2521-b539-4f42-8be0-77d8612e96d7@snapp.ir:80?mode=auto&path=/&security=none&encryption=none&host=user.neternet.ir&type=xhttp#برای+اتصال+دائمی+جوین+شو🗾+prrofile_purple@
+vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#IR-@V2rayAlpha-14

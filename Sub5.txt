@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://1111@162.159.36.5:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev#2 🇩🇪 @V2ngFast
-trojan://1111@162.159.38.20:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev#9 🇩🇪 @V2ngFast
-trojan://1111@172.64.144.86:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.dipemi1953.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.dipemi1953.workers.dev#3 🇩🇪 @V2ngFast
 trojan://1111@172.64.147.96:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev#8 🇩🇪 @V2ngFast
 trojan://1111@173.245.59.64:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev#7 🇩🇪 @V2ngFast
 trojan://1111@8.35.211.134:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev#4 🇩🇪 @V2ngFast
@@ -253,3 +250,6 @@ vless://1454a693-503b-3ec1-5347-120ed30012c9@meli.masterdadeh.ir:80?path=/&secur
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?type=xhttp&encryption=none&path=/TiMbErSaW&host=amphetamine.yhbj.store&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=amphetamine.yhbj.store#@V2ray_confiig
 vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 73740
 vless://15c69731-e22f-4bbb-8f5e-d653c2d712a4@dl2.persiapro.com:443?encryption=none&type=tcp&security=reality&sni=www.msn.com&fp=chrome&pbk=VV9qVSfTFSl3FVXyDnfw-4L_d6vecQZ8aw8suWMD5Bo&sid=e13a&spx=/en-ae/#🇮🇷27929 | ⚡️Telegram = t.me/SOSkeyNET
+vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
+vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
+vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
