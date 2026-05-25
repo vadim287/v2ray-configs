@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev#1 🇩🇪 @V2ngFast
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#3 🇩🇪 @V2ngFast
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev#7 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev#2 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev#4 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#5 🇩🇪 @V2ngFast
@@ -250,6 +253,3 @@ vless://0b28da39-41c8-4746-80ed-ade2ce3629d3@arvancloud.ir:80?security=none&allo
 vless://0b75e1b3-31ae-44fb-ab4b-bc1b98ea1358@arvancloud.ir:2095?encryption=none&host=api.helxj.ir&path=/IR?ed=2560&security=none&type=@vmesskhodam
 vless://0bf541ca-ca81-4ad0-a4a5-f8c76dc2e2a2@snapp.ir:80?path=/&security=&encryption=none&host=sayanstoree.tel.goleij.ir&type=ws#🇮🇷28875 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0c12ff0e-004d-4f86-8ba2-6756cbb6dac9@185.143.233.122:80?path=/&security=none&encryption=none&host=line2.gymplusplus.com&type=ws#@icv2ray
-vless://0c4da793-9f11-41d5-ab4f-70cf24f6b2d9@198.169.2.1:443?path=/api&security=tls&encryption=none&insecure=0&host=veleshk20.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=veleshk20.vercel.app#@icv2ray
-vless://0c65de9b-e736-4487-bb4b-5ff5ab58812f@chatgpt.com:2087?path=/eyJqdW5rIjoiMVlqdVJib05XdDBVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=small-breeze-e257.moket12807.workers.dev&fp=chrome&type=ws&sni=SMALL-bREEZe-e257.MOkEt12807.WOrkeRs.Dev#3 🇩🇪 @V2ngFast
-vless://0d25bda2-9f90-4362-9404-153a050c9858@185.143.232.32:80?path=/&security=&encryption=none&host=b.messi10.ir&type=ws#Vpn_jet7
