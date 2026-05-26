@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0113dbe3-7b54-455f-b412-00c8e3b3c65c@185.143.233.200:80?path=/&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#🇮🇷29560 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0115163b-9d69-4748-8b3e-f0abfe991075@217.198.190.20:55992?encryption=none&security=none&type=tcp#🇮🇷29607 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=&encryption=none&type=ws#🔵@chillguy_vpn
 vless://01b810df-cd2d-4b4c-969d-cdc3c638fe86@snapp.ir:80?type=ws&encryption=none&path=/ws&host=king.vaslvip.ir&security=none#🇮🇷29558 | ⚡️Telegram = t.me/SOSkeyNET
 vless://03f929bb-7a94-4400-a882-d846d18b614e@185.141.107.42:777?encryption=none&security=none&type=tcp&headerType=none&host=@BlueberryNetWork#@BlueberryNetWork
@@ -253,3 +250,6 @@ vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@one-theme.ir:8880?encryption=none&s
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
+vless://40634014-2458-4ddd-9125-b0023548f770@33kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:702?security=none&type=tcp&headerType=http&path=/&host=rubika.ir,igap.net,splus.ir,skyroom.online#🔵@chillguy_vpn
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?encryption=none&type=xhttp&security=tls&path=/de&host=de.xn--q9jyb4c.online&mode=stream-one&sni=de.xn--q9jyb4c.online&fp=chrome&allowInsecure=0#https://t.me/ConfigX2ray
