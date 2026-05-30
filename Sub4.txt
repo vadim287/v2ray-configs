@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-privatevpns@51.44.95.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.179.174.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.179.174.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@FreeConffning
-trojan://telegram-id-privatevpns@63.179.214.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.180.99.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.185.3.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.185.71.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://u8Ox8KFFbd@af1.parsonline.shop:8080?security=none&headerType=&type=tcp#1T-Test
 trojan://v2raydia@104.16.75.207:2053?path=/@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia&security=tls=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&insecure=0&host=wIn.CcNnx.IR&fp=chrome&type=ws&allowInsecure=0&sni=wIn.CcNnx.IR#@bored_vpn
 vless://00000000-0000-4000-8000-000000000000@142.248.150.69:30000?sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromefp=chrome&security=tls#@v2rayconfigamir 5197
 vless://001443d2-2b80-4c30-9c5e-231a9cf7ea35@95.179.166.190:58132?encryption=mlkem768x25519plus.native.0rtt.C3fL0oSkGeuYI-qyKstsDKBwPCaYuUeTBbB2AtjAATE&security=none&type=tcp#🇩🇪38735 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +245,11 @@ vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=/&security=
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.godaddy.cc.cd&mode=stream-one&sni=www.godaddy.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#7https://t.me/ConfigX2ray
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@VPN_PASARGAD
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@oliver_soul
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@sogoandfuckyourlove
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#https://t.me/Pirimod
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇩🇪All¹⁰ | @meliproxyy
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇩🇪All⁶ | @meliproxyy
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0@InvoProxy#🔵@chillguy_vpn
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&mode=stream-one&sni=www.godaddy.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#V2rayng_Fast
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?mode=stream-one&path=/assignment&security=tls&alpn=h2,http/1.1&encryption=none&host=www.multiplydose.cc.cd&fp=chrome&type=xhttp&sni=www.multiplydose.cc.cd#@Erfwp
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?mode=stream-one&path=/assignment&security=tls&alpn=h2,http/1.1&encryption=none&host=www.multiplydose.cc.cd&fp=chrome&type=xhttp&sni=www.multiplydose.cc.cd#@FREECONFIGSPLUS
