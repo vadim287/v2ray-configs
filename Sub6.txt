@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-privatevpns@63.181.236.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2ray_configs_pools
-trojan://telegram-id-privatevpns@63.185.124.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&insecure=0&host=store.timimi.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=store.timimi.dpdns.org#V2dogos_n
 trojan://wtMJLiFlvt@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dd.aananas.ir.#@NETMelliAnti
 trojan://wtMJLiFlvt@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dd.aananas.ir.#@RzChanel1
@@ -253,3 +251,5 @@ vless://1a1e38b5-752d-4c65-8dae-a28e5a106d7a@104.17.121.71:443?mode=auto&path=/T
 vless://1a1e38b5-752d-4c65-8dae-a28e5a106d7a@104.17.121.71:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=manok.tll-far.ir#🇩🇪All⁴@RK_VPS
 vless://1a1e38b5-752d-4c65-8dae-a28e5a106d7a@104.17.121.71:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=manok.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=manok.tll-far.ir#TEL;Father_vpn
 vless://1a43f37d-7792-41e6-aa47-ebb1923f5dde@104.25.104.36:443?encryption=none&type=ws&security=tls&path=/cftest&host=cftest.provahshat.xyz&sni=cftest.provahshat.xyz&fp=chrome&allowInsecure=1#http://t.me/v2ray_configs_pools
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&host=support.zoom.us.cyylr.eu.cc&type=ws&sni=support.zoom.us.cyylr.eu.cc#@appsooner کانال تلگرام 🕊️
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@HajmVPN_Config ⚡

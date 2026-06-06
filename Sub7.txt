@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&host=support.zoom.us.cyylr.eu.cc&type=ws&sni=support.zoom.us.cyylr.eu.cc#@appsooner کانال تلگرام 🕊️
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@HajmVPN_Config ⚡
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/id-pusat&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#6https://t.me/ConfigX2ray
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.cyylr.eu.cc#@hi_proxy_iran :👈کانال تلگرام
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@fastkanfig 1
@@ -253,3 +251,5 @@ vless://3135e332-fea1-4f62-a2c2-f58c98dc3919@coniiro.appleseraj.ir:2052?path=?ed
 vless://3135e332-fea1-4f62-a2c2-f58c98dc3919@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#🇺🇸53450 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3135e332-fea1-4f62-a2c2-f58c98dc3919@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#🇺🇸53449 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3135e332-fea1-4f62-a2c2-f58c98dc3919@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#🚀@VPNine1
+vless://3135e332-fea1-4f62-a2c2-f58c98dc3919@erosan.appleseraj.ir:443?security=tls&type=ws&headerType=&path=?ed=2048&host=falkinichlol.appleseraj.ir&sni=falkinichlol.appleseraj.ir&fp=chrome#🇨🇦53452 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3135e332-fea1-4f62-a2c2-f58c98dc3919@erosan.appleseraj.ir:443?security=tls&type=ws&headerType=&path=?ed=2048&host=falkinichlol.appleseraj.ir&sni=falkinichlol.appleseraj.ir&fp=chrome#🚀@VPNine1
