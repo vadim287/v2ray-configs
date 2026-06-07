@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d8e829ef-838f-4c07-edce-93cacc7e94ee@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN6 🇩🇪-i1j8xo5hx
-vless://d9225978-c590-4f01-9dd0-c705ff03d76b@188.114.97.6:443?encryption=none&security=tls&sni=toshirpilafkani-torostamtahamtani.rezaezzati.top&alpn=h2,http/1.1&fp=chrome&type=xhttp&host=toshirpilafkani-torostamtahamtani.rezaezzati.top&path=/&mode=auto#@meliproxyy
 vless://d9225978-c590-4f01-9dd0-c705ff03d76b@188.114.97.6:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=toshirpilafkani-torostamtahamtani.rezaezzati.top&fp=chrome&type=xhttp&sni=toshirpilafkani-torostamtahamtani.rezaezzati.top#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
 vless://d9225978-c590-4f01-9dd0-c705ff03d76b@188.114.97.6:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=toshirpilafkani-torostamtahamtani.rezaezzati.top&fp=chrome&type=xhttp&allowInsecure=0&sni=toshirpilafkani-torostamtahamtani.rezaezzati.top#@bored_vpn
 vless://d9225978-c590-4f01-9dd0-c705ff03d76b@188.114.97.6:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=toshirpilafkani-torostamtahamtani.rezaezzati.top&fp=chrome&type=xhttp&allowInsecure=0&sni=toshirpilafkani-torostamtahamtani.rezaezzati.top#@confiig_hub
@@ -253,3 +251,5 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?encryption=none&f
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?encryption=none&fp=chrome&host=vl.hhll.qqs.me&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&security=tls&sni=vl.hhll.qqs.me&type=ws#🫒45@oneclickvpnkeys
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@saas.sin.fan:443?encryption=none&fp=chrome&host=vl.hhll.qqs.me&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&security=tls&sni=vl.hhll.qqs.me&type=ws#🫒38@oneclickvpnkeys
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.ntu.edu.sg:443?encryption=none&fp=chrome&host=vl.hhll.qqs.me&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&security=tls&sni=vl.hhll.qqs.me&type=ws#🫒55@oneclickvpnkeys
+vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.76:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=dl-pack.motionbetter.ir#🛸@V2ray_official
+vless://efb51103-661b-4a32-a96f-f60a4fa178d0@fl.gamelistak.com:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#@MrNexTV2RAY
