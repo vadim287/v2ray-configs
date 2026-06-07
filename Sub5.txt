@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#⚡@V2ray_official
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🚀@V2ray_official
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#https://t.me/FREE_VPN02
@@ -252,4 +253,3 @@ vless://01204ab3-b16f-4377-a5fe-ee12bfa685b3@141.11.250.208:443?security=tls&alp
 vless://01583b55-7cd0-402b-bd13-c5f1d6e62213@138.124.115.134:28561?type=tcp&encryption=none&security=reality&pbk=Oeqvti84_ZY-qSA3sQv4F7mc7-9eOwxw3oXDVtSOaRg&fp=chrome&sni=yahoo.com&sid=538dbb66ff&spx=/#telegram:@FVPNProxy
 vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#@KAFING_2
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#Brayirani
-vless://0284cc16-1e0f-40f0-900d-dfada20ff258@45.130.125.192:8443?mode=auto&path=/?ed&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#@NoxTunnel

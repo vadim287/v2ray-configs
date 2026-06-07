@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dd24f07d-5ed1-4e51-8073-5733e904fa88@45.130.125.76:2096?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=yjc.ir.alalamtv.net.fararu.com.iranprimer.usip.org.hamshahrionline.ir.alalamtv.net.tasnimnews.com&allowInsecure=0&sni=THin-MInDwHvf6bQUdn.SaMSUNGoveNs.ir#چنل عضو شو @v2ra_config
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#IR-@V2rayAlpha-12
 vless://dd7de766-3399-479e-8167-536cd74260b5@snapp.ir:8080?path=/voip&security=none&encryption=none&host=x.dject.ir&type=ws#@NoxTunnel
 vless://ddb4b81b-3c9d-43b9-b854-372cfb5f2bd3@freeiran.lookanet.app:443?mode=auto&path=/php-index&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd-hardcore.esportplusnews.top#@KAFING_2
@@ -252,4 +253,3 @@ vless://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=/&security
 vless://f8175a23-628b-43d0-bccc-2629505354fc@104.18.139.67:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#@MrNexTV2RAY
 vless://f8175a23-628b-43d0-bccc-2629505354fc@nl2.gamelistak.com:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#@MrNexTV2RAY
 vless://f85d180d-8e11-4b76-9af4-8d5e2a091a72@157.230.96.148:36424?encryption=none&headerType=http&host=www.google.com&path=/@napsternetv20&security=none&type=tcp#🇩🇪 gdjgjj-stpvwx3hu-1
-vless://f85d180d-8e11-4b76-9af4-8d5e2a091a72@157.230.96.148:36424?encryption=none&headerType=http&host=www.google.com&path=/@napsternetv20&security=none&type=tcp#🇩🇪 gdjgjj-stpvwx3hu-100.00GB📊
