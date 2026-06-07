@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
 vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
 vless://07548ad1-b94e-44ee-90a1-3e6d879126db@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://07618b34-bb79-4e19-8cef-7170f70c2214@orin-ing-10.orinvpn.ru:2053?mode=gun&security=reality&encryption=none&pbk=sx2-QavLJkqr-8g81ZmDBQ09Vq76RNrH3uiMdLdA8xc&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=www.google.com&sid=df92f97b5722b2bd#🇩🇪DE-🚀@VPNine1
@@ -253,3 +252,4 @@ vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?encryption=none&fp
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?encryption=none&fp=&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#📀86@oneclickvpnkeys
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#@fastkanfig 1
 vless://1bdacb3c-2f30-459c-84ba-11fd55bdbd7e@104.236.12.64:443?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://1cbf4f65-eac1-4963-96cf-c3c8941e6c23@95.110.157.117:1006?security=reality&encryption=none&pbk=2iijxUyJsanFAkX0ctH6H4RTW1N4mQYnIsaP8qrbbS8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0c3a409c2ba7d083#%vmessorg

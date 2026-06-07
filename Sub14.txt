@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#@meliproxyy
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443/?type=tcp&encryption=none&security=tls#🇷🇺 روسیه | https://t.me/FREECONFIGSPLUS ✨
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#@meliproxyy
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#kurdconfig
@@ -253,3 +252,4 @@ vless://Telegram-Parsashonam-10@45.130.125.160:443?mode=auto&path=/p4r34m&securi
 vless://Telegram-Parsashonam-10@45.130.125.160:443?mode=auto&path=/p4r34m&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#@fastkanfig 3
 vless://Telegram-Parsashonam-11@185.116.162.12:443?encryption=none&type=xhttp&security=tls&path=/p4r34m&host=p4r34m.hendevaneh.sbs&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&sni=p4r34m.hendevaneh.sbs&allowInsecure=0#V2RFA
 vless://Telegram-Parsashonam-11@185.116.162.12:443?mode=auto&path=/p4r34m&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#@Parsashonam-4Jun-1
+vless://Telegram-Parsashonam-11@27.50.48.49:443?mode=auto&path=/p4r34m&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#@Parsashonam-4Jun-2

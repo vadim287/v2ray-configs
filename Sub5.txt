@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Mix--@V2rayAlpha--12
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#متصل @fastkanfig
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@filembad
@@ -253,3 +252,4 @@ vless://06d9f1bc-d51b-4b6c-8827-84f0a727495c@snapp.ir:80?path=/&security=none&en
 vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=&type=tcp#@VPsave
 vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=&type=tcp#@icv2ray
 vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=none&type=tcp#@bored_vpn
+vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
