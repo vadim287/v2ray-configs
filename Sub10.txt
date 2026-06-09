@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=ctur.appleseraj.ir&sni=ctur.appleseraj.ir&fp=chrome#🇹🇷| 𝐓ü𝐫𝐤𝐢𝐲𝐞
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=eunetherla.appleseraj.ir&sni=eunetherla.appleseraj.ir&fp=chrome#🇳🇱| 𝐍𝐞𝐭𝐡𝐞𝐫𝐥𝐚𝐧𝐝𝐬
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=nurenbbbb.appleseraj.ir&sni=nurenbbbb.appleseraj.ir&fp=chrome#🇩🇪| 𝐍𝐮𝐫𝐞𝐧𝐛𝐞𝐫𝐠
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=nuverv.appleseraj.ir&sni=nuverv.appleseraj.ir&fp=chrome#🇩🇪| 𝐍𝐮𝐫𝐞𝐧𝐛𝐞𝐫𝐠𝟐
@@ -252,4 +253,3 @@ vless://7ffe64fb-38a5-409e-8afb-526e3bcf0eef@57.131.17.1:11567?encryption=none&s
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
 vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?security=&encryption=none&headerType=none&type=tcp#@icv2ray
-vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?security=&encryption=none&headerType=none&type=tcp#@v2raysvip
