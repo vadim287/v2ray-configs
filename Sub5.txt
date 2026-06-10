@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://telegram-id-directvpn@51.44.146.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
+trojan://telegram-id-privatevpns@13.37.141.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.27.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.101.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.237.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.159.127.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.196.209.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.70.90.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.123.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.235.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.90.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -245,11 +253,3 @@ vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.103:4443?security=none&t
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.103:4443?security=none&type=grpc#🇸🇪60107 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.105:4443?security=none&type=grpc#🇵🇱PL-🚀@VPNine1
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.105:4443?security=none&type=grpc#🇸🇪60114 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.106:4443?type=grpc&security=none#🇵🇱PL-🚀@VPNine1
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.106:4443?type=grpc&security=none#🇸🇪60110 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.107:4443?security=none&type=grpc#🇵🇱PL-🚀@VPNine1
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.107:4443?security=none&type=grpc#🇸🇪60106 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.98:4443?security=none&type=grpc#🇵🇱PL-🚀@VPNine1
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.98:4443?security=none&type=grpc#🇸🇪60124 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?security=none&type=grpc#🇫🇮60082 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?security=none&type=grpc#🇫🇮FI-🚀@VPNine1
