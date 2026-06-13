@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@198.41.223.184:2096?path=/&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#@fr33c0nfig
 vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=GgAaQxYq9.MuChMuCk.oRg#@iguanaVPN
 vless://d42fc97c-003e-48b0-b79d-3a093a0fdad3@qomi2404.xyz:65535?encryption=none&type=ws&path=/&host=qomi2404.xyz#filembad-252
 vless://d42fc97c-003e-48b0-b79d-3a093a0fdad3@qomi2404.xyz:65535?encryption=none&type=ws&path=/&host=qomi2404.xyz#🇨🇦67924 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +252,4 @@ vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?encryption=none&sec
 vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=972e3378#@v2rayconfigamir 8985
 vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#@v2rayconfigamir 6701
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#t.me/ConfigFori  -  Config 73726
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.8.66:443?sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸

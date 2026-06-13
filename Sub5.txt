@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://Masir_Sefid@84.234.29.189:443?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=/QAOaxSnbH2vawds&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#🇨🇳 @FreakConfig
 trojan://Masir_Sefid@84.234.29.238:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#@internet_azad_2026
 trojan://Masir_Sefid@84.234.29.238:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#@internet_azad_2026
 trojan://Masir_Sefid@84.234.29.238:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/ChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#@internet_azad_2026
@@ -253,3 +252,4 @@ trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=sda
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya - ❤️ 🇩🇪⚡
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@hi_proxy_iran :👈کانال تلگرام
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
+trojan://mitivpn@sdasdfgv.global.ssl.fastly.top.mitivpn-a.site:443?security=tls&sni=global.fastly.com.mitivpn-a.site&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/ed=mitivpn#@NewsDarya

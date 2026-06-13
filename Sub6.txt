@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://mitivpn@sdasdfgv.global.ssl.fastly.top.mitivpn-a.site:443?security=tls&sni=global.fastly.com.mitivpn-a.site&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/ed=mitivpn#@NewsDarya
 trojan://ppmk@188.114.97.6:8443?type=ws&security=tls&host=flat-firefly-6022.rixewi3168.workers.dev&path=/&sni=flat-firefly-6022.rixewi3168.workers.dev#@Morrfinchnl
 trojan://ppmk@188.114.97.6:8443?type=ws&security=tls&host=flat-firefly-6022.rixewi3168.workers.dev&path=/&sni=flat-firefly-6022.rixewi3168.workers.dev#@meliproxyy
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
@@ -253,3 +252,4 @@ vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=
 vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#V2dogs_n
 vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#telegram @mtmvpn
 vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.179:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=bazaryabab.global.ssl.fastly.net&path=/#✅  @vistav2ray  👈👈کانال ما ✅
+vless://0c34fd9d-879e-4202-8c55-e4ed40da9218@104.24.132.66:80?type=ws&path=/&host=free.kabotar.sbs&security=none#@

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0c34fd9d-879e-4202-8c55-e4ed40da9218@104.24.132.66:80?type=ws&path=/&host=free.kabotar.sbs&security=none#@
 vless://0c34fd9d-879e-4202-8c55-e4ed40da9218@104.24.132.66:80?type=ws&path=/&host=free.kabotar.sbs&security=none#@ehsawn8-50gig
 vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@172.67.175.86:443?path=/pa&security=tls&encryption=none&insecure=0&host=hs-495e987f.ndkwiut2718.ir&fp=chrome&type=ws&allowInsecure=0&sni=ndkwiut2718.ir#@KAFING_2
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?encryption=none&security=none&type=tcp&headerType=none#@ReleaseNet
@@ -253,3 +252,4 @@ vless://282aa189-36dc-4fe2-af89-c0d3ef33d1fe@varzesh3.com:2082?path=/&security=n
 vless://284811b1-b4c4-4510-c000-319afe20f97f@188.114.97.6:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=hello.aihoshbartar.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=hello.aihoshbartar.ir#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=/id-pusat&security=tls&encryption=none&host=dfsuporte.garena.com.ex33r.eu.cc&allowinsecure=0&type=ws&sni=dfsuporte.garena.com.ex33r.eu.cc#🇩🇪All¹⁰ | @FREE_VPN02
 vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#@bored_vpn
+vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#@v2rayNplus
