@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
 trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#TEL;Father_vpn
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#@internet_azad_2026
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🛸@V2ray_official
@@ -252,4 +253,3 @@ vless://069efce1-cb3b-4eb1-9afc-78e68fdcdd68@3.68.214.199:1001?security=none&enc
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#@free_conf_iran 👈 کانفیگ رایگان
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=40ce08cf20c67003&sni=storage.yandex.net&type=tcp#🐊83@oneclickvpnkeys
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#🇹🇷@FreakConfig

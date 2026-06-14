@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@45.206.0.30:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=37772edff71b4167&sni=storage.yandex.net&type=tcp#🦕3@oneclickvpnkeys
 vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@45.206.0.31:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=37772edff71b4167&sni=storage.yandex.net&type=tcp#🦕4@oneclickvpnkeys
 vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#@FarazV2ray
 vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#@hi_proxy_iran :👈کانال تلگرام
@@ -252,4 +253,3 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#🇧🇬| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#🇱🇻| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#🇦🇲| 𝐀𝐫𝐦𝐞𝐧𝐢𝐚
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=bbbbbposawe-iuu.appleseraj.ir&sni=bbbbbposawe-iuu.appleseraj.ir&fp=chrome#🇸🇪| 𝐒𝐰𝐞𝐝𝐞𝐧
