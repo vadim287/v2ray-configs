@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a10dab76-0f3a-42bb-979f-2648085de252@du1.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=du1.gamelistak.com&mode=auto&path=/https://t.me/MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
-vless://a10dab76-0f3a-42bb-979f-2648085de252@news.microsoft.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=du1.gamelistak.com&mode=auto&path=/https://t.me/MrNexTV2RAY&security=tls&sni=du1.gamelistak.com&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
-vless://a10dab76-0f3a-42bb-979f-2648085de252@www.tekkenmods.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=du1.gamelistak.com&mode=auto&path=/https://t.me/MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.82.16.99:443?security=tls&sni=he.ylks.xyz&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.234:443?path=/blue&security=tls&encryption=none&type=ws&sni=je.ylks01.eu.org#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.64:443?path=/blue&security=tls&encryption=none&type=ws&sni=je.ylks01.eu.org#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.73:443?path=/blue&security=tls&encryption=none&type=ws&sni=ke.ylks.xyz#@Hope_Net-join-us-on-Telegram
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@144.31.4.220:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@prrofile_purple  ♥️👈 تلگرام
 vless://a198a8bb-ef27-4461-9de9-7935fec9d5e9@namedzadim.run.place:443?mode=stream-one&path=@namedzadim@namedzadim@namedzadim@namedzarim@namedzadim@namedzadim&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=tRraaUkegIcUioLh0DaxobRBlJRF8kv8WRgDWudV-S4&fp=chrome&spx=/QmTfmJHdYvmshvg&type=xhttp&sni=www.yahoo.com&sid=a8b97bea#@namedzadimسلام-10.00GB📊
@@ -253,3 +247,9 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&sec
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🚀@VPNine1
 vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?encryption=none&type=tcp&headerType=http&host=cdn-apple.com&path=/#@ReleaseNet
 vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام
+vless://b300edfb-02c0-4a1d-bbb5-1817d9e16927@83.228.235.106:2082?mode=auto&path=/&security=reality&encryption=none&pbk=KuyvsRNilBVQddf249fQhud8aPESqNMZLRb7UXwVgWI&fp=chrome&type=xhttp&sni=cdn.nobitex.ir&sid=d6d0#@FREE_VPN02
+vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#@KAFING_2
+vless://b3939095-14db-47ec-9c15-2619440cc54e@104.18.169.21:2086?encryption=none&host=dev.speciq.co&path=/&security=none&type=xhttp&mode=packet-up#@mtproto_proserver
+vless://b3939095-14db-47ec-9c15-2619440cc54e@104.21.17.144:2086?encryption=none&host=dev.speciq.co&path=/&security=none&type=xhttp&mode=packet-up#@mtproto_proserver
+vless://b3939095-14db-47ec-9c15-2619440cc54e@165.215.250.12:2086?encryption=none&host=dev.speciq.co&path=/&security=none&type=xhttp&mode=packet-up#@mtproto_proserver
+vless://b3939095-14db-47ec-9c15-2619440cc54e@172.67.153.251:2086?encryption=none&host=dev.speciq.co&path=/&security=none&type=xhttp&mode=packet-up#@mtproto_proserver
