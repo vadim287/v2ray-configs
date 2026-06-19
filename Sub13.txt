@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.80:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇹🇷@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆¹⁰
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.107:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#✈️10@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.110:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#✈️65@oneclickvpnkeys
@@ -252,4 +253,3 @@ vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:2053
 vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:2053?path=/ws&security=none&encryption=none&type=ws#[79557] - Telegram : @V2All
 vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:8080?path=/api&security=&encryption=none&type=httpupgrade#@Vpn_jet7
 vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:8080?security=none&allowInsecure=0&encryption=none&type=httpupgrade#@NewsDarya
-vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:8080?security=none&allowInsecure=0&encryption=none&type=httpupgrade#🦉@FreeConfigForYou
