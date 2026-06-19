@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@static.medium.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
-vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@static.npmjs.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
-vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@stream.cloudflare.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
 vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@v1.medium.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
 vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@v2.medium.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
 vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@v2.udemy.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
@@ -253,3 +250,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.18:8443?allowInsecure=0&s
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.193:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#filembad-192
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.4:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#3🧢@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.6:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#5🧢@oneclickvpnkeys
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.9:8443?security=tls&encryption=none&headerType=&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#@Ap_Ir6
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁷
