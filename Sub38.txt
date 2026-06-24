@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@45.130.125.0:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#%3E%3E%40v2rayngvpn%3A%3AFR
+trojan://humanity@45.130.125.160:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3E%40configshub2%3A%3APL
+trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40configV2rayNG%3A%3APL
+trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%3E%3E%40v2rayngvpn%3A%3AFR
+trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%3E%3E%40configshub2%3A%3ANL
+trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -241,15 +253,3 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@74.49.214.140:80?path=%2FTelegram%F
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.92.229:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv55.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv55.hamiibar.com#%3E%3E%40flyv2ray%3A%3AXX
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#%3E%3E%40v2ray1_ng%3A%3AUS
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#%3E%3E%40prrofile_purple%3A%3ADE
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.135.9.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#%3E%3E%40v2ray1_ng%3A%3AUS
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#%3E%3E%40v2ray1_ng%3A%3AUS
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv37.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv37.hamiibar.com#%3E%3E%40flyv2ray%3A%3AXX
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv03.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv03.perfectbulk.info#%3E%3E%40prrofile_purple%3A%3AXX
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.189.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#%3E%3E%40v2ray1_ng%3A%3AXX
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@5.183.253.171:9999?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#%3E%3E%40prrofile_purple%3A%3AXX
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.148.104:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.148.47:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.149.186:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.151.6:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
