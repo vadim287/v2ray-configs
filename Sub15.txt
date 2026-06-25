@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
 vless://42ac4509-f032-4048-83ba-f5e1c809c0b0@45.80.111.1:8443?mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=mmd2.sorixset.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mmd2.sorixset.ir#@IRAN_V2RAY1
@@ -253,3 +252,4 @@ vless://572979b2-a664-4916-a5d8-d1c8a10c0de4@37.49.224.32:443?encryption=none&fl
 vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple  ♥️👈 تلگرام
 vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/fVVtZafM4VTSeQA&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e35b#@ReleaseNet
 vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&host=//?ed=2560/JOIN/Proxy_Se7en&headerType=none&fp=chrome&spx=/fVVtZafM4VTSeQA&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e35b#Proxy_Se7en
+vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&headerType=none&fp=chrome&spx=/KF3aPULpT5TYVqb&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=903c2ca9307a41f9#@ReleaseNet

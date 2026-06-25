@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?security=reality&encryption=none&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germnode.dostupnet.ru&sid=ffaa1a2421f17932#@MTMVPN
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?security=reality&encryption=none&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germnode.dostupnet.ru&sid=ffaa1a2421f17932#@bored_vpn
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?security=reality&encryption=none&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germnode.dostupnet.ru&sid=ffaa1a2421f17932#@confiig_hub
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?security=reality&encryption=none&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germnode.dostupnet.ru&sid=ffaa1a2421f17932#telegram @mtmvpn
@@ -253,3 +252,4 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@104.234.239.140:80?path=/Telegram�
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80?path=Telegram🇨🇳 @WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80?path=Telegram🇨🇳 @WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#@FarazV2ray
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@14.102.228.140:80?path=/Telegram+@WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#@hex_proxy ⁶
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?path=Telegram🇨🇳+@WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#@FarazV2ray
