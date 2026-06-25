@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ff2611ba-7c71-4aa2-af58-6194bc8b15aa@43.161.217.56:30000?encryption=none&type=tcp&security=reality&headerType=none&sni=www.amazon.com&fp=firefox&insecure=1&allowInsecure=1&pbk=5KGHDHpMiq0DD9THS78a2jvIlT5H-N1sOTJ-cK3RuS4&sid=456f&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%20148ms
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@207.174.133.173:10000?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=qq&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%20161ms
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.254:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=qq&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%20162ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?encryption=none&type=ws&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=max-gb1.global.ssl.fastly.net#🆔configfa%20🔓%20VL-WS-N/A%20❔%20XX%201ms
@@ -251,5 +253,3 @@ vless://31fc82da-1136-4a84-a596-7fbba8026c1d@another-cf.dnsyes.kawaii520.icu:443
 vless://3461131f-6db9-4c8c-b663-fdcf2e6f4619@57.131.18.123:13355?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20263ms
 vless://51eb7ab1-30d3-4d22-89fa-4c0966c20fd2@57.131.18.123:13355?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20260ms
 vless://5bb8d502-bcc7-4320-8c42-1a6429978f80@57.131.18.123:13355?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20255ms
-vless://673c6260-9d1c-4520-8729-55ed458092a2@ok.miyuu6.top:6060?encryption=none&headerType=http&host=Ponisha.ir&path=%2F&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20369ms
-vless://86777611-2cab-4b14-b248-ac9d6fe3c480@57.131.18.123:13355?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20259ms
