@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7b3c9cec-6a21-4d57-b9c9-383d519e0b27@another-cf.dnsyes.kawaii520.icu:443?mode=multi&security=tls&encryption=none&type=ws&fp=chrome&sni=dfs8545fads4ds5.another-appleid.ccwu.cc&path=%2Fgateway%2Fws%2Fa8d2f91c&host=dfs8545fads4ds5.another-appleid.ccwu.cc&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20192ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.106.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20279ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.124.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2061ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.149.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2049ms
@@ -252,4 +253,3 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?path=%2F&sec
 vless://67127d85-1805-471d-a7af-440618582d31@91.107.165.205:443?security=none&encryption=none&headerType=none&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.157:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🆔vpnserverrr%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://fdec49d9-3736-3d10-9145-1ee56bcb071d@162.159.128.208:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=mohammad.amirsoltan57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohammad.amirsoltan57.workers.dev#🆔vpnserverrr%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=t02.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t02.tzteam.online#🆔vpnserverrr%20🔒%20VL-WS-N/A%20❔%20XX%202ms
