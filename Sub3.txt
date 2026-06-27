@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?encryption=none&security=none&type=xhttp&host=aziz.carderrr.com.&path=%2Fxhttp&mode=auto#🆔surfboardv2ray%20🔓%20VL-XHTTP-N/A%20❔%20XX%202ms
+vless://1524d56d-4cb5-41e3-8490-15a2611a816e@57.131.18.123:13355?encryption=none&security=none&type=tcp&headerType=none#🆔surfboardv2ray%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.18:8443?security=tls&sni=ams1.fromblancwithlove.com&allowInsecure=1&type=tcp&encryption=none#🆔v2ray_vpn_ir%20🔒%20VL-TCP-N/A%20❔%20XX%20145ms
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.72:8443?security=tls&sni=ams1.fromblancwithlove.com&allowInsecure=1&type=tcp&encryption=none#🆔v2ray_vpn_ir%20🔒%20VL-TCP-N/A%20❔%20XX%20156ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?security=&type=ws&path=%2F&host=max-gb1.global.ssl.fastly.net&encryption=none#🆔v2ray_vpn_ir%20🔓%20VL-WS-N/A%20❔%20XX%201ms
@@ -251,5 +253,3 @@ vless://4ed7eaca-3d9e-48c6-a021-573424ed98d0@free.propackonline.ir:8080?encrypti
 vless://4ed7eaca-3d9e-48c6-a021-573424ed98d0@free.propackonline.ir:80?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=oTS35wHesEHyVspawT3caUhDWGE-SXkzPeScjRzrggY&sid=6d&spx=%2FpU9nt441R9MQGTA&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20306ms
 vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@104.16.72.70:443?path=%2Fws%3Fed&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=speed.thctech.ir&fp=chrome&type=ws&sni=speed.thctech.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@folpo.consolgame.ir:1087?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20377ms
-vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=firefox&insecure=1&allowInsecure=1&pbk=a-GLfBU_yhZcBKPODh1zl-Ypj-jm4nYN_fkHBhMGAGs&sid=d56f&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=%2Fv2raybazi&type=tcp&sni=www.intel.com&sid=76101ace#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20160ms
