@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f206f46b-6252-4d42-b15b-d1b1e5168b48@www.parzort.ir:443?security=reality&encryption=none&pbk=Y4PRErwqUpSGbjN0FfAjMkfhF_P0b-Ld5ENVWHqbXWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=1b2acf74b254873e#🇩🇪 @Routel1
 vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
 vless://f2083aa4-f27d-43da-81cf-8bab317304c0@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
 vless://f2083aa4-f27d-43da-81cf-8bab317304cb@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
@@ -253,3 +252,4 @@ vless://fd7fa758-c329-47de-b06a-6021d1806463@95.38.242.139:1010?security=tls&enc
 vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.155.247:8443?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=/?u=3e3fff3b5b&security=tls&fp=chrome&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#Nova-i64qk5
 vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.155.247:8443?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=/?u=3e3fff3b5b&security=tls&fp=chrome&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#🦉@FreeConfigForYou
 vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=/?u=3e3fff3b5b&security=tls&fp=chrome&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#Nova-cf2rxo
+vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=/?u=3e3fff3b5b&security=tls&fp=chrome&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#🦉@FreeConfigForYou

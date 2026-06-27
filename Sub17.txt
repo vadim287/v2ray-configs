@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7308feab-ac25-4eaa-a7aa-42f1ae88a1a4@fanland2.monopoli.shop:11332?security=reality&encryption=none&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&headerType=none&fp=chrome&spx=/amn&type=tcp&sni=play.google.com&sid=f609acadb18e6c5b#تلگرام : mtmvpn
 vless://73796e63-0000-4000-8000-000000000000@chatgpt.com:2083?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=twilight-base-7f7a.shahinmoradi.workers.dev&fp=chrome&type=ws&sni=twilight-base-7f7a.shahinmoradi.workers.dev#🇩🇪 @V2ngFast
 vless://73796e63-0000-4000-8000-000000000000@sourceforge.net:2087?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=throbbing-sound-9594.nabilolabo.workers.dev&fp=chrome&type=ws&sni=throbbing-sound-9594.nabilolabo.workers.dev#🇩🇪 @V2ngFast
 vless://73796e63-0000-4000-8000-000000000000@www.hcaptcha.com:443?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=shy-recipe-2956.ladanoil.workers.dev&fp=chrome&type=ws&sni=shy-recipe-2956.ladanoil.workers.dev#🇩🇪 @V2ngFast
@@ -253,3 +252,4 @@ vless://8790b865-c50d-42ff-9347-026c9675d83d@104.24.168.54:443?alpn=h2,http/1.1&
 vless://8790b865-c50d-42ff-9347-026c9675d83d@de1.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=de1.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
 vless://8790b865-c50d-42ff-9347-026c9675d83d@tekkenmods.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=de1.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
 vless://87df4771-f4ad-4221-0f62-df287ca60bbc@s2.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#[🌍]@NetliVPN
+vless://87df4771-f4ad-4221-0f62-df287ca60bbc@s2.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#🇮🇷IR-🚀@VPNine1
