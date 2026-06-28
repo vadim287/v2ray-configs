@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#@FarazV2ray
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn 🪩
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#@V2ray_confiig
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🇳🇱@FreakConfig
 vless://b10bb7aa-74a5-4c73-aec9-a883e7688d8b@pasa.majedtechnical.ir:443?security=reality&encryption=none&pbk=Yqp623aIfpUvxLZLsm-7ZgnMMVvvE2jnhYoyprnhmjs&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=36754b52bf611364#💥 برای پروکسی و کانفیگ های بیشتر عضو چنل شو: @NewsDarya
@@ -250,6 +253,3 @@ vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=real
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#⚡Telegram =@CUSTOMVPNSERVER
 vless://ca519d0a-d626-472c-bf30-d8feaca16c44@olds-1.lubbs.de:2086?path=/&security=&encryption=none&host=nim-art1.mimkiscx.ir&type=httpupgrade#@TEHRANARGO
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)
-vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)  ایرانسل:
-vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
-vless://ca81bfda-0483-4654-ae84-0b436aa69616@194.87.222.7:2443?mode=stream-one&path=/&security=reality&encryption=none&extra={"scMaxBufferedPosts":10,"scMaxEachPostBytes":500000,"scStreamUpServerTimeout":0}&pbk=VDBXpRl5J_1j2DSVW7_KfReAgv3j6Uuzy7wfXcHhgwA&fp=chrome&type=xhttp&sni=travel.yandex.ru&sid=abcdef0123456789#🇳🇱 ⭐️ @ANA_SERVICE ⭐️
