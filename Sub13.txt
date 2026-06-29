@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#kurdconfig
+vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#telegram @mtmvpn 9
 vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#🇨🇦@FreakConfig
 vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:41319?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
 vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:41319?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%4NewsDarya
@@ -251,5 +253,3 @@ vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@KAFING_2
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#⚡Telegram =@CUSTOMVPNSERVER
-vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?allowInsecure=0&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiRVF4cEpmc1Y2SFUzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://3d6e324c-664a-ca9b-869d-945d0b194c9e@217.215.220.231:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#Telegram: @Azaranv2ray
