@@ -1,265 +1,202 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/Epodonios/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/Epodonios/V2ray-Configs)  
+📄 README.md (English)
+Markdown
 
-<a href="https://t.me/+NqWGD5-OGv1jOGU8" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="500" height="500"> contact us
-</a>
+<div align="center">
 
-# Bulk V2ray Configs
-💻 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
-This script collects several thousand V2ray configurations every five minutes, and you can receive and use the protocol in base 64, normal, or split format.
+# 🌐 V2Ray Configs Collection
 
-### Supported Protocols:
-- Vmess
-- Vless
-- Trojan
-- Tuic
-- Shadowsocks
-- ShadowsocksR
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="120" height="120" alt="Telegram"/>
 
-### You can use a v2ray client to use these subscription links:
+[![GitHub last commit](https://img.shields.io/github/last-commit/Epodonios/V2ray-Configs.svg?style=for-the-badge&color=blue)](https://github.com/Epodonios/v2ray-configs)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://lbesson.mit-license.org/)
+[![Update Configs](https://img.shields.io/github/actions/workflow/status/Epodonios/V2ray-Configs/main.yml?style=for-the-badge&label=Auto%20Update)](https://github.com/Epodonios/V2ray-Configs/actions/workflows/main.yml)
+[![Repo Size](https://img.shields.io/github/repo-size/Epodonios/V2ray-Configs?style=for-the-badge&color=orange)](https://github.com/Epodonios/v2ray-configs)
 
-#### Android:
-  v2rayng
+**🔒 Free • 🚀 Fast • 🔄 Auto-Updated Every 5 Minutes**
 
-#### IOS:
-1. fair
-2. streisand
+[📱 Telegram Channel](https://t.me/+NqWGD5-OGv1jOGU8) • [📥 Get Configs](#-subscription-links) • [📖 How to Use](#-how-to-use)
 
-#### Windows and Linux:
-1. hiddify-next
-2. nekoray
-3. v2rayn
+</div>
 
-## Subscriptions Links
+---
 
-### Here are the subscription links at your disposal:
+## 📌 What is This?
 
-All collected configs:
-```
+> A powerful, automated collection of **thousands of free V2Ray configuration files**, updated every **5 minutes**.  
+> Browse securely and anonymously using your favorite V2Ray client!
+
+---
+
+## ✨ Features
+
+| Feature | Details |
+|--------|---------|
+| 🔄 **Auto Update** | Every 5 minutes automatically |
+| 📦 **Bulk Configs** | Thousands of working configs |
+| 🌍 **Multi-Protocol** | VMess, VLess, Trojan, TUIC, SS, SSR |
+| 📋 **Multiple Formats** | Base64, Normal, Split by Protocol |
+| 🆓 **100% Free** | No registration required |
+
+---
+
+## 🛡️ Supported Protocols
+
+<div align="center">
+
+| Protocol | Status |
+|----------|--------|
+| ⚡ VMess | ✅ Active |
+| 🔥 VLess | ✅ Active |
+| 🛡️ Trojan | ✅ Active |
+| 🚀 TUIC | ✅ Active |
+| 🌊 Shadowsocks (SS) | ✅ Active |
+| 💫 ShadowsocksR (SSR) | ✅ Active |
+
+</div>
+
+---
+
+## 📱 Compatible Clients
+
+<details>
+<summary>📱 <b>Android</b></summary>
+
+- [v2rayNG](https://github.com/2dust/v2rayNG) ⭐ Recommended
+
+</details>
+
+<details>
+<summary>🍎 <b>iOS</b></summary>
+
+- [Fair VPN](https://apps.apple.com/app/fair-vpn/id1533873488)
+- [Streisand](https://apps.apple.com/app/streisand/id6450534064)
+
+</details>
+
+<details>
+<summary>💻 <b>Windows & Linux</b></summary>
+
+- [Hiddify Next](https://github.com/hiddify/hiddify-next) ⭐ Recommended
+- [Nekoray](https://github.com/MatsuriDayo/nekoray)
+- [v2rayN](https://github.com/2dust/v2rayN)
+
+</details>
+
+---
+
+## 🔗 Subscription Links
+
+### 🌍 All Configs (Combined)
 https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt
-```
 
-If the above link doesn't work, try the base 64 configurations:
-```
+text
+
+
+### 🔐 Base64 Format
 https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_base64_Sub.txt
-```
+
+text
 
 
-### Splited by protocol:
+---
 
-Vless:
-```
+### 📂 Split by Protocol
+
+<details>
+<summary>🔥 <b>VLess</b></summary>
 https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/vless.txt
-```
 
-Vmess:
-```
+text
+
+</details>
+
+<details>
+<summary>⚡ <b>VMess</b></summary>
 https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/vmess.txt
-```
 
-ss:
-```
+text
+
+</details>
+
+<details>
+<summary>🌊 <b>Shadowsocks</b></summary>
 https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/ss.txt
-```
 
-ssr:
-```
+text
+
+</details>
+
+<details>
+<summary>💫 <b>ShadowsocksR</b></summary>
 https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/ssr.txt
-```
 
-Trojan:
-```
+text
+
+</details>
+
+<details>
+<summary>🛡️ <b>Trojan</b></summary>
 https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt
-```
 
-### Splited in 250 count of configs:
+text
 
-Config List 1:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
-```
-Config List 2:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt
-```
+</details>
 
-Config List 3:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt
-```
+---
 
-Config List 4:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub4.txt
-```
+### 📦 Split in 250-Config Packs
 
-Config List 5:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub5.txt
-```
+| Pack | Link |
+|------|------|
+| Pack 1 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt` |
+| Pack 2 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt` |
+| Pack 3 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt` |
+| Pack 4 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub4.txt` |
+| Pack 5 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub5.txt` |
+| Pack 6 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub6.txt` |
+| Pack 7 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub7.txt` |
+| Pack 8 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub8.txt` |
+| Pack 9 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub9.txt` |
+| Pack 10 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub10.txt` |
+| Pack 11 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub11.txt` |
+| Pack 12 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub12.txt` |
+| Pack 13 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub13.txt` |
+| Pack 14 | `https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub14.txt` |
 
-Config List 6:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub6.txt
-```
+---
 
-Config List 7:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub7.txt
-```
+## 📖 How to Use
 
-Config List 8:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub8.txt
-```
+### Step 1️⃣ — Copy a subscription link from above
 
-Config List 9:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub9.txt
-```
+### Step 2️⃣ — Open your V2Ray client
 
-Config List 10:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub10.txt
-```
+### Step 3️⃣ — Go to **Subscription Settings** and paste the link
 
-Config List 11:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub11.txt
-```
+### Step 4️⃣ — Hit **Update** and connect! 🎉
 
-Config List 12:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub12.txt
-```
+> 💡 **Tip:** Enable auto-update in your client to always get fresh configs!
 
-Config List 13:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub13.txt
-```
+---
 
-Config List 14:
-```
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub14.txt
-```
+## 🖥️ V2Ray Config Scanner
 
-### Usage:
+A lightweight Python script to **scan and ping** V2Ray configs and sort by latency.
 
-Mobile and pc:
+### Features:
+- ✅ Supports VMess, VLess, and more
+- ✅ Measures latency for each config
+- ✅ No external packages needed (Python only)
+- ✅ Fast and simple
 
-1. Copy the links provided and go to your v2ray clients subscription setting and paste metioned link and save that.
+### Sample Output:
+[vmess] node1.example.com → 42 ms ✅
+[vless] node2.example.net → timeout ❌
+[shadowsocks] fastnode.org → 35 ms ✅
 
-2. Occasionally use the subscription update function in your v2ray client to stay up-to-date 🤝.
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="120" height="120" alt="Telegram"/>
 
-I hope u use this configs very well.
-
-
-
-
-
-# V2Ray Config Scanner
-
-A lightweight Python script that scans and pings a list of V2Ray configuration links (vmess, vless, etc.), and outputs their protocol and latency. Useful for testing and sorting multiple V2Ray configs based on performance.
-
-## Features
-
-- Supports `vmess`, vless, and other V2Ray protocols
-- Measures latency (ping) for each config
-- Sorts or filters results based on protocol and responsiveness
-- Simple, fast, and dependency-free (only requires Python)
-
-## Requirements
-
-- Python 3.x (no external packages required)
-
-## Usage
-
- 1. Make sure Python 3 is installed on your system.
- 2. Download the sub*.txt files from this repository (they contain lists of V2Ray subscription links).
- 3. Run the script and provide the path to one or more sub*.txt files as arguments.
- 4. The script will start scanning and show you the protocol and ping for each config.
-
-Sample Output
-
-[vmess] node1.example.com - 42 ms
-[vless] node2.example.net - timeout
-[shadowsocks] fastnode.org - 35 ms
-
-
-## Tunnel entire system:
-
-For better use and tunneling the entire system, you can use a proxy program. The usage steps are as follows:
-
-### Usage Instructions:
-
-  1-First, install the Proxifier program.
-
-  https://proxifier.com/download/
-  
-  2-Activate the program:
-
-Activation keys:
-
-Portable Edition:  
-
-    L6Z8A-XY2J4-BTZ3P-ZZ7DF-A2Q9C
-
-Standard Edition: 
-      
-      5EZ8G-C3WL5-B56YG-SCXM9-6QZAP
-
-Mac OS:
-
-     P427L-9Y552-5433E-8DSR3-58Z68
-
-3-Go to the Profile section and select the Proxy Server. In the displayed section, click on Add.
-
-4-Enter the following information:
-
-IP: Enter 127.0.0.1
-
-Port: Depending on the version you are using, enter:
-
-V2rayN: 10808
-
-Netch: 2801
-
-SSR: 1080
-
-Mac V2rayU: 1086
-
-Protocol: Select SOCKS5
-
-5-Enjoy!
-
-Some installed programs on the system, like Spotube, might not fully tunnel. This issue can be resolved with this method.
-
-Your friend, EPODONIOS
-
-
-
-
-## u can use this feature with another way it no needs any program set by system tools 
-
-### instruction: 
-
-1- open your OS setting 
-
-2- go to proxy section
-
-3- in proxy section set this values : 
-  ip : 127.0.0.1
-  
-  port : 10809
-  
-  local host : 
-  ```
-localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*
-```
- 4- then set it up with ON key 
-
- 5- back to v2rayn and after set your config turn it to set system proxy 
-
- 6- now your system tunneled entirely
-
-ur friend,EPODONIOS
+[![GitHub last commit](https://img.shields.io/github/last-commit/Epodonios/V2ray-Configs.svg?style=for-the-badge&color=blue)](https://github.com/Epodonios/v2ray-configs)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://lbesson.mit-license.org/)
+[![Update Configs](https://img.shields.io/github/actions/workflow/status/Epodonios/V2ray-Configs/main.yml?style=for-the-badge&label=Auto%20Update)](https://github.com/Epodonios/V2ray-Configs/actions/workflows/main.yml)
+[![Repo Size](https://img.shields.io/github/repo-size/Epodonios/V2ray-Configs?style=for-the-badge&color=orange)](https://github.com/Epodonios/v2ray-configs)
