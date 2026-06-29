@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://989b5592-c23e-41a9-a419-783a7ca0a1e7@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#Proxy_Se7en
-vless://98ccd79f-64fb-418f-84e0-999a09319300@91.107.252.230:41250?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
-vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@KAFING_2
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#IR-@V2rayAlpha-16
 vless://99768e68-7c94-448e-9026-e28129f6bb12@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=/&flow=xtls-rprx-vision#@meliproxyy
 vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@prrofile_purple  ♥️👈 تلگرام
 vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=/?TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr?ed=512&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#@appsooner کانال تلگرام 🕊️
@@ -253,3 +249,7 @@ vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@live.ravinoz.ir:1010?security=reali
 vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@live.ravinoz.ir:1010?security=reality&encryption=none&pbk=wZz_E0D32mxoTFT8UUabNgIp9vSCz8EmCwnEkvbXC2k&headerType=none&fp=chrome&spx=/NUC4arLchkrlbk2&type=tcp&sni=www.speedtest.com&sid=ad86352db6dabd#@erfanandroid
 vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@live.ravinoz.ir:2020?mode=gun&security=reality&encryption=none&pbk=wZz_E0D32mxoTFT8UUabNgIp9vSCz8EmCwnEkvbXC2k&fp=chrome&spx=/pPw84h5jWtfMlkh&type=grpc&sni=www.speedtest.com&sid=910ccf76#@Soul737
 vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@live.ravinoz.ir:2020?mode=gun&security=reality&encryption=none&pbk=wZz_E0D32mxoTFT8UUabNgIp9vSCz8EmCwnEkvbXC2k&fp=chrome&spx=/pPw84h5jWtfMlkh&type=grpc&sni=www.speedtest.com&sid=910ccf76#@erfanandroid
+vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@www.ravinoz.ir:443?path=/live-stream&security=tls&encryption=none&insecure=0&host=live.ravinoz.ir&fp=chrome&type=ws&allowInsecure=0&sni=docs.ravinoz.ir#@Soul737
+vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@www.ravinoz.ir:443?path=/live-stream&security=tls&encryption=none&insecure=0&host=live.ravinoz.ir&fp=chrome&type=ws&allowInsecure=0&sni=docs.ravinoz.ir#@erfanandroid
+vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#🇮🇷IR-🚀@VPNine1
+vless://a4b82e5a-acd1-4cbf-accb-40d4bb90ffaf@95.38.38.233:25543?encryption=none&security=none&type=tcp&headerType=none#%@FREE_VPN02
