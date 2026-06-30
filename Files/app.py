@@ -3,6 +3,9 @@ import base64
 import requests
 import binascii
 import os
+import json
+import re
+import urllib.parse
 
 # Define a fixed timeout for HTTP requests
 TIMEOUT = 15  # seconds
@@ -22,7 +25,7 @@ def decode_base64(encoded):
             pass
     return decoded
 
-# Function to decode base64-encoded links with a timeout
+
 def decode_links(links):
     decoded_data = []
     for link in links:
@@ -32,10 +35,10 @@ def decode_links(links):
             decoded_text = decode_base64(encoded_bytes)
             decoded_data.append(decoded_text)
         except requests.RequestException:
-            pass  # If the request fails or times out, skip it
+            pass
     return decoded_data
 
-# Function to decode directory links with a timeout
+
 def decode_dir_links(dir_links):
     decoded_dir_links = []
     for link in dir_links:
@@ -44,22 +47,19 @@ def decode_dir_links(dir_links):
             decoded_text = response.text
             decoded_dir_links.append(decoded_text)
         except requests.RequestException:
-            pass  # If the request fails or times out, skip it
+            pass
     return decoded_dir_links
 
-# Filter function to select lines based on specified protocols and remove duplicates (only for config lines)
 def filter_for_protocols(data, protocols):
     filtered_data = []
     seen_configs = set()
-    
-    # Process each decoded content
+
     for content in data:
-        if content and content.strip():  # Skip empty content
+        if content and content.strip():
             lines = content.strip().split('\n')
             for line in lines:
                 line = line.strip()
                 if line.startswith('#') or not line:
-                    # Always keep comment/metadata/empty lines
                     filtered_data.append(line)
                 elif any(protocol in line for protocol in protocols):
                     if line not in seen_configs:
@@ -67,7 +67,63 @@ def filter_for_protocols(data, protocols):
                         seen_configs.add(line)
     return filtered_data
 
+# Rename the remark of a single v2ray config line to new_remark
+def rename_remark(config_line, new_remark="EPODONIOS"):
+    line = config_line.strip()
 
+    # Leave comment / empty lines untouched
+    if not line or line.startswith('#'):
+        return config_line
+
+
+    if line.startswith('vmess://'):
+        try:
+            encoded = line[len('vmess://'):]
+            padding = '=' * (-len(encoded) % 4)
+            decoded_json = base64.b64decode(encoded + padding).decode('utf-8')
+            config_obj = json.loads(decoded_json)
+            config_obj['ps'] = new_remark
+            new_encoded = base64.b64encode(
+                json.dumps(config_obj, ensure_ascii=False).encode('utf-8')
+            ).decode('utf-8')
+            return f'vmess://{new_encoded}'
+        except Exception:
+            return config_line
+
+    if line.startswith('ssr://'):
+        try:
+            encoded = line[len('ssr://'):]
+            padding = '=' * (-len(encoded) % 4)
+            decoded = base64.b64decode(encoded + padding).decode('utf-8')
+
+            encoded_remark = base64.b64encode(
+                new_remark.encode('utf-8')
+            ).decode('utf-8').rstrip('=')
+
+            if 'remarks=' in decoded:
+                decoded = re.sub(r'remarks=[^&]*', f'remarks={encoded_remark}', decoded)
+            elif '?' in decoded:
+                decoded += f'&remarks={encoded_remark}'
+            else:
+                decoded += f'/?remarks={encoded_remark}'
+
+            new_encoded = base64.b64encode(
+                decoded.encode('utf-8')
+            ).decode('utf-8')
+            return f'ssr://{new_encoded}'
+        except Exception:
+            return config_line
+
+    encoded_remark = urllib.parse.quote(new_remark, safe='')
+    if '#' in line:
+        base_url = line[:line.rfind('#')]
+        return f'{base_url}#{encoded_remark}'
+    else:
+        return f'{line}#{encoded_remark}'
+
+# Apply rename_remark to every config line in the list
+def rename_all_remarks(configs, new_remark="EPODONIOS"):
+    return [rename_remark(line, new_remark) for line in configs]
 
 # Create necessary directories if they don't exist
 def ensure_directories_exist():
@@ -83,13 +139,12 @@ def ensure_directories_exist():
 
 # Main function to process links and write output files
 def main():
-    output_folder, base64_folder = ensure_directories_exist()  # Ensure directories are created
+    output_folder, base64_folder = ensure_directories_exist()
 
-    # Clean existing output files FIRST before processing
     print("Cleaning existing files...")
     output_filename = os.path.join(output_folder, "All_Configs_Sub.txt")
     main_base64_filename = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
-    
+
     if os.path.exists(output_filename):
         os.remove(output_filename)
         print(f"Removed: {output_filename}")
@@ -97,7 +152,7 @@ def main():
         os.remove(main_base64_filename)
         print(f"Removed: {main_base64_filename}")
 
-    for i in range(1, 21):  # Clean Sub1.txt to Sub20.txt
+    for i in range(1, 21):
         filename = os.path.join(output_folder, f"Sub{i}.txt")
         if os.path.exists(filename):
             os.remove(filename)
@@ -108,7 +163,7 @@ def main():
             print(f"Removed: {filename_base64}")
 
     print("Starting to fetch and process configs...")
-    
+
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/app/sub.txt",
@@ -130,7 +185,7 @@ def main():
     print("Fetching base64 encoded configs...")
     decoded_links = decode_links(links)
     print(f"Decoded {len(decoded_links)} base64 sources")
-    
+
     print("Fetching direct text configs...")
     decoded_dir_links = decode_dir_links(dir_links)
     print(f"Decoded {len(decoded_dir_links)} direct text sources")
@@ -140,7 +195,10 @@ def main():
     merged_configs = filter_for_protocols(combined_data, protocols)
     print(f"Found {len(merged_configs)} unique configs after filtering")
 
-    # Write merged configs to output file
+    print("Renaming remarks to EPODONIOS...")
+    merged_configs = rename_all_remarks(merged_configs, new_remark="EPODONIOS")
+    print("Remarks renamed successfully")
+
     print("Writing main config file...")
     output_filename = os.path.join(output_folder, "All_Configs_Sub.txt")
     with open(output_filename, "w", encoding="utf-8") as f:
@@ -149,18 +207,16 @@ def main():
             f.write(config + "\n")
     print(f"Main config file created: {output_filename}")
 
-    # Create base64 version of the main file
     print("Creating base64 version...")
     with open(output_filename, "r", encoding="utf-8") as f:
         main_config_data = f.read()
-    
+
     main_base64_filename = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
     with open(main_base64_filename, "w", encoding="utf-8") as f:
         encoded_main_config = base64.b64encode(main_config_data.encode()).decode()
         f.write(encoded_main_config)
     print(f"Base64 config file created: {main_base64_filename}")
 
-    # Split merged configs into smaller files (no more than 500 configs per file)
     print("Creating split files...")
     with open(output_filename, "r", encoding="utf-8") as f:
         lines = f.readlines()
@@ -191,7 +247,7 @@ def main():
 
         with open(input_filename, "r", encoding="utf-8") as input_file:
             config_data = input_file.read()
-        
+
         base64_output_filename = os.path.join(base64_folder, f"Sub{i + 1}_base64.txt")
         with open(base64_output_filename, "w", encoding="utf-8") as output_file:
             encoded_config = base64.b64encode(config_data.encode()).decode()
@@ -202,10 +258,9 @@ def main():
     print(f"Total configs processed: {len(merged_configs)}")
     print(f"Files created:")
     print(f"  - All_Configs_Sub.txt")
-    print(f"  - All_Configs_base64_Sub.txt") 
+    print(f"  - All_Configs_base64_Sub.txt")
     print(f"  - {num_files} split files (Sub1.txt to Sub{num_files}.txt)")
     print(f"  - {num_files} base64 split files (Sub1_base64.txt to Sub{num_files}_base64.txt)")
 
 if __name__ == "__main__":
     main()
-
