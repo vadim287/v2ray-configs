@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.202.83.188:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=/&sni=hhcm.hhxaf.cc.cd&type=ws#🏇32@NetFlowTools
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.105.42:8443?fp=chrome&host=tjsp.hhxaf.cc.cd&path=/&sni=tjsp.hhxaf.cc.cd&type=ws#🏇33@NetFlowTools
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.158.9:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhcm.hhxaf.cc.cd&path=/&insecure=0#@v2rayconfigamir 8806
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.20:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=/&sni=hhcm.hhxaf.cc.cd&type=ws#☀️42@NetFlowTools
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@172.66.46.250:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=/&sni=hhcm.hhxaf.cc.cd&type=ws#🦖74@NetFlowTools
@@ -253,3 +251,5 @@ trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&in
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#@hopev2ray🩷
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&insecure=0&host=www.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#@hopev2ray🧡
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#TEL;Father_vpn
