@@ -5,7 +5,7 @@ Markdown
 
 # 🌐 V2Ray Configs Collection
 
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="120" height="120" alt="Telegram"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="240" height="240" alt="Telegram"/> https://t.me/+NqWGD5-OGv1jOGU8)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Epodonios/V2ray-Configs.svg?style=for-the-badge&color=blue)](https://github.com/Epodonios/v2ray-configs)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://lbesson.mit-license.org/)
