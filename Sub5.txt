@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&sni=play.google.com&sid=af1fac6e#EPODONIOS
-vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=chrome&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#EPODONIOS
 vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=chrome&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#EPODONIOS
 vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=chrome&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#EPODONIOS
 vless://9c940549-ac64-370e-eda9-67257bab6815@54.38.224.105:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=af1fac6e#EPODONIOS
@@ -1003,3 +1001,5 @@ vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?encryption=none&
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?encryption=none&type=ws&security=tls&path=/&host=play.google.com&sni=play.google.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=play.google.com&fp=chrome&type=ws&allowInsecure=1&sni=play.google.com#EPODONIOS
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@free.qelzino.ir:443?encryption=none&type=ws&security=tls&path=/&host=google.com&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=/ws/deffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=0&host=rvg-production-1ab7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-1ab7.up.railway.app#EPODONIOS
+vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=/ws/deffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=0&host=rvg-production-1ab7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-1ab7.up.railway.app#EPODONIOS
